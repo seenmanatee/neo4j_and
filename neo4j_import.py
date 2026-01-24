@@ -9,7 +9,10 @@ Current capabilities
 - PUBLICATION nodes with properties: id, title, year, authors (JSON string), venue
 - COAUTHOR edges: connect publications that share at least one author
 - COVENUE edges: connect publications that share the same venue
-- COTITLE edges: connect publications with similar
+- COTITLE edges: connect publications with similar titles
+- SHARED_REFERENCES edges: connect publications with overlapping references
+- COAUTHOR_OVERLAP edges: connect publications with high coauthor overlap
+- RESEARCH_FIELD edges: connect publications sharing research fields
 
 Usage
 1) Ensure a Neo4j instance is running and accessible
@@ -353,6 +356,186 @@ class Neo4jImportData:
             
         print(f" Created {created_edges} CoAuthor relationships")
 
+    def add_shared_references_edge(self, min_overlap):
+        """
+        Create SHARED_REFERENCES edges between publications that cite common works.
+        Weight equals the percentage of shared references.
+
+        Args:
+            min_overlap: minimum percentage of shared references (0.0-1.0) to create edge
+        """
+        works_data = self.data["works_data"]
+        pub_keys = list(works_data.keys())
+        created_edges = 0
+
+        for i, pub1 in enumerate(pub_keys):
+            refs1 = set(works_data[pub1].get("referenced_works", []))
+
+            for pub2 in pub_keys[i + 1:]:
+                refs2 = set(works_data[pub2].get("referenced_works", []))
+
+                if not refs1 or not refs2:
+                    continue
+
+                shared_refs = refs1 & refs2
+                overlap_pct = len(shared_refs) / max(len(refs1), len(refs2))
+
+                if overlap_pct >= min_overlap:
+                    self.driver.execute_query(
+                        """
+                        MATCH (p1:PUBLICATION {id: $pub1}), (p2:PUBLICATION {id: $pub2})
+                        CREATE (p1)-[:SHARED_REFERENCES {overlap_percent: $overlap, shared_count: $count}]->(p2)
+                        """,
+                        pub1=pub1,
+                        pub2=pub2,
+                        overlap=round(overlap_pct, 3),
+                        count=len(shared_refs),
+                        database=self.db,
+                    )
+                    created_edges += 1
+
+        print(f" Created {created_edges} Shared References relationships (min_overlap={min_overlap}).")
+
+    def add_coauthor_overlap_edge(self, min_overlap):
+        """
+        Create COAUTHOR_OVERLAP edges weighted by percentage of shared co-authors.
+
+        Args:
+            min_overlap: minimum percentage of shared authors (0.0-1.0) to create edge
+        """
+        works_data = self.data["works_data"]
+        pub_keys = list(works_data.keys())
+        created_edges = 0
+
+        for i, pub1 in enumerate(pub_keys):
+            authors1 = {(a["id"], a["name"]) for a in works_data[pub1]["authors"]}
+
+            for pub2 in pub_keys[i + 1:]:
+                authors2 = {(a["id"], a["name"]) for a in works_data[pub2]["authors"]}
+
+                if not authors1 or not authors2:
+                    continue
+
+                shared = authors1 & authors2
+                overlap_pct = len(shared) / max(len(authors1), len(authors2))
+
+                if overlap_pct >= min_overlap:
+                    self.driver.execute_query(
+                        """
+                        MATCH (p1:PUBLICATION {id: $pub1}), (p2:PUBLICATION {id: $pub2})
+                        CREATE (p1)-[:COAUTHOR_OVERLAP {overlap_percent: $overlap, shared_count: $count}]->(p2)
+                        """,
+                        pub1=pub1,
+                        pub2=pub2,
+                        overlap=round(overlap_pct, 3),
+                        count=len(shared),
+                        database=self.db,
+                    )
+                    created_edges += 1
+
+        print(f" Created {created_edges} Coauthor Overlap relationships (min_overlap={min_overlap}).")
+
+    def add_research_field_edge(self, min_overlap):
+        """
+        Create RESEARCH_FIELD edges between publications sharing fields using OpenAlex taxonomy.
+        Weight equals the percentage of shared research fields.
+
+        Args:
+            min_overlap: minimum percentage of shared fields (0.0-1.0) to create edge
+        """
+        works_data = self.data["works_data"]
+        pub_keys = list(works_data.keys())
+        created_edges = 0
+
+        research_fields_by_pub = {}
+        pubs_with_topics = 0
+        pubs_with_concepts = 0
+        pubs_with_fields = 0
+
+        def normalize_field_id(raw_id):
+            if not raw_id or not isinstance(raw_id, str):
+                return None
+            if raw_id.startswith("https://openalex.org/"):
+                return raw_id.replace("https://openalex.org/", "")
+            return raw_id
+
+        for pub_id in pub_keys:
+            work = works_data[pub_id]
+            fields = set()
+
+            topics = work.get("topics", [])
+            if isinstance(topics, list) and topics:
+                pubs_with_topics += 1
+                for topic in topics:
+                    if not isinstance(topic, dict):
+                        continue
+                    field = topic.get("field") or {}
+                    field_id = normalize_field_id(field.get("id") or field.get("display_name"))
+                    if field_id:
+                        fields.add(field_id)
+
+            primary_topic = work.get("primary_topic")
+            if isinstance(primary_topic, dict):
+                field = primary_topic.get("field") or {}
+                field_id = normalize_field_id(field.get("id") or field.get("display_name"))
+                if field_id:
+                    fields.add(field_id)
+
+            concepts = work.get("concepts", [])
+            if isinstance(concepts, list) and concepts:
+                pubs_with_concepts += 1
+                for concept in concepts:
+                    if not isinstance(concept, dict):
+                        continue
+                    concept_id = normalize_field_id(concept.get("id") or concept.get("display_name"))
+                    if concept_id:
+                        fields.add(concept_id)
+
+            raw_fields = work.get("fields")
+            if isinstance(raw_fields, list) and raw_fields:
+                for item in raw_fields:
+                    if isinstance(item, dict):
+                        field_id = normalize_field_id(item.get("id") or item.get("display_name"))
+                    else:
+                        field_id = normalize_field_id(item)
+                    if field_id:
+                        fields.add(field_id)
+
+            if fields:
+                pubs_with_fields += 1
+            research_fields_by_pub[pub_id] = fields
+
+        print(f" Research field extraction: {pubs_with_fields}/{len(pub_keys)} publications have fields.")
+        print(f" Field sources: topics={pubs_with_topics}, concepts={pubs_with_concepts}.")
+
+        for i, pub1 in enumerate(pub_keys):
+            fields1 = research_fields_by_pub[pub1]
+
+            for pub2 in pub_keys[i + 1:]:
+                fields2 = research_fields_by_pub[pub2]
+
+                if not fields1 or not fields2:
+                    continue
+
+                shared_fields = fields1 & fields2
+                overlap_pct = len(shared_fields) / max(len(fields1), len(fields2))
+
+                if overlap_pct >= min_overlap:
+                    self.driver.execute_query(
+                        """
+                        MATCH (p1:PUBLICATION {id: $pub1}), (p2:PUBLICATION {id: $pub2})
+                        CREATE (p1)-[:RESEARCH_FIELD {overlap_percent: $overlap, shared_count: $count}]->(p2)
+                        """,
+                        pub1=pub1,
+                        pub2=pub2,
+                        overlap=round(overlap_pct, 3),
+                        count=len(shared_fields),
+                        database=self.db,
+                    )
+                    created_edges += 1
+
+        print(f" Created {created_edges} Research Field relationships (min_overlap={min_overlap}).")
+
     def cotitle_pairs_tfidf(self, min_similarity=0.60, max_features=10000):
         """
         Create COTITLE pairs using TF-IDF cosine similarity between publication titles.
@@ -424,12 +607,16 @@ def main(URI, USER, PASSWORD, DB, PATH):
     # Add all publications
     imp.publication_as_nodes()
 
-    # Add covenue, coauthor, cotitle
+    # Add covenue, coauthor, cotitle, and overlap-based relationships
     imp.add_covenue_edge()
     imp.add_coauthor_edge()
 
     pairs = imp.cotitle_pairs_tfidf()
     imp.add_cotitle_edge_from_pairs(pairs)
+    min_overlap = 0.5
+    imp.add_shared_references_edge(min_overlap)
+    imp.add_coauthor_overlap_edge(min_overlap)
+    imp.add_research_field_edge(min_overlap)
 
     # Metrics
     imp.node_count()
@@ -438,10 +625,10 @@ def main(URI, USER, PASSWORD, DB, PATH):
 
 if __name__ == "__main__":
 
-    URI = "neo4j://127.0.0.1:7687"
+    URI = "neo4j://127.0.0.1:7687"  # Example local instance
     USER = "neo4j"
-    PASSWORD = "and123$$"
+    PASSWORD = "JohnGoat1000"
     DB = "neo4j"
-    PATH = "/Users/gracewang/Documents/UROP_Summer_2025/neo4j_and/cache/David Nathan_data.json"
+    PATH = "/Users/seanmaniti/name_disam_exp/neo4j_and/cache/combined_data.json"
 
     main(URI, USER, PASSWORD, DB, PATH)

@@ -1,7 +1,8 @@
 graphdatascience
 neo4j
-json
 python-louvain
 networkx
-collections
 igraph
+nameparser
+scikit-learn
+leidenalg

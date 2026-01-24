@@ -1,3 +1,9 @@
+from __future__ import annotations
+
+import argparse
+import json
+from pathlib import Path
+
 from neo4j import GraphDatabase
 import networkx as nx
 
@@ -14,6 +20,7 @@ try:
 except Exception:
     ig = None
     la = None
+
 
 def load_pub_graph_from_neo4j(uri, user, password, db,
                               coauthor_scale: float = 1.0,
@@ -69,6 +76,7 @@ def load_pub_graph_from_neo4j(uri, user, password, db,
     driver.close()
     return G
 
+
 def run_louvain(G: nx.Graph, resolution: float = 1.0, seed: int = 42):
     """
     Run Louvain on a NetworkX graph.
@@ -82,6 +90,7 @@ def run_louvain(G: nx.Graph, resolution: float = 1.0, seed: int = 42):
                                             random_state=seed)
     Q = community_louvain.modularity(part, G, weight="weight")
     return part, Q
+
 
 def run_leiden(G: nx.Graph, resolution: float = 1.0, seed: int = 42):
     """
@@ -115,27 +124,52 @@ def run_leiden(G: nx.Graph, resolution: float = 1.0, seed: int = 42):
     quality = part.quality()
     return partition, quality
 
-def main():
-    # Example hardcoded parameters
-    uri = "bolt://localhost:7687"
-    user = "neo4j"
-    password = "and123$$"
-    db = "neo4j"
-    method = "louvain"
 
-    # Load graph from Neo4j
-    G = load_pub_graph_from_neo4j(uri, user, password, db)
+def write_predictions(partition: dict, output_path: Path) -> None:
+    # Emit mention_id/pred_cluster_id JSONL for evaluate_b3.py.
+    with output_path.open("w", encoding="utf-8") as handle:
+        for node_id, cluster_id in partition.items():
+            handle.write(
+                json.dumps(
+                    {"mention_id": node_id, "pred_cluster_id": str(cluster_id)},
+                    ensure_ascii=True,
+                )
+                + "\n"
+            )
 
-    if method == "louvain":
-        partition, modularity = run_louvain(G)
+
+def main() -> None:
+    parser = argparse.ArgumentParser(description="Run community detection on the Neo4j graph.")
+    parser.add_argument("--uri", default="neo4j://127.0.0.1:7687", help="Neo4j URI")
+    parser.add_argument("--user", default="neo4j", help="Neo4j username")
+    parser.add_argument("--password", default="JohnGoat1000", help="Neo4j password")
+    parser.add_argument("--db", default="neo4j", help="Neo4j database name")
+    parser.add_argument("--method", default="leiden", choices=["leiden", "louvain"], help="Clustering method")
+    parser.add_argument("--resolution", type=float, default=1.0, help="Resolution parameter")
+    parser.add_argument("--seed", type=int, default=42, help="Random seed")
+    parser.add_argument("--output", default="pred_clusters.jsonl", help="Output JSONL path")
+    args = parser.parse_args()
+
+    G = load_pub_graph_from_neo4j(
+        args.uri,
+        args.user,
+        args.password,
+        args.db,
+    )
+
+    if args.method == "louvain":
+        partition, modularity = run_louvain(G, resolution=args.resolution, seed=args.seed)
         print(f"Louvain partition size: {len(set(partition.values()))}")
         print(f"Louvain modularity: {modularity:.4f}")
-    elif method == "leiden":
-        partition, quality = run_leiden(G)
+    else:
+        partition, quality = run_leiden(G, resolution=args.resolution, seed=args.seed)
         print(f"Leiden partition size: {len(set(partition.values()))}")
         print(f"Leiden quality: {quality:.4f}")
-    else:
-        print(f"Unknown method: {method}")
+
+    output_path = Path(args.output)
+    write_predictions(partition, output_path)
+    print(f"Wrote predictions to {output_path}")
+
 
 if __name__ == "__main__":
     main()

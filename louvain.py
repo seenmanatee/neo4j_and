@@ -2,11 +2,11 @@ from neo4j import GraphDatabase
 import networkx as nx
 from community import community_louvain
 
-URI = "neo4j://127.0.0.1:7687"
+URI = "neo4j://127.0.0.1:7687"  # Example local instance
 USER = "neo4j"
-PASSWORD = "and123$$"
+PASSWORD = "JohnGoat1000"
 DB = "neo4j"
-PATH = "/Users/gracewang/Documents/UROP_Summer_2025/neo4j_and/cache/David Nathan_data.json"
+PATH = "/Users/seanmaniti/neo4j/neo4j_and/cache/David Nathan_data.json"
 
 def load_pub_graph_from_neo4j(uri, user, password, db):
     """

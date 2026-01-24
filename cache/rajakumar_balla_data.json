@@ -1,0 +1,558 @@
+{
+  "author_name": "rajakumar, balla",
+  "author_data": {
+    "0000-0003-0788-1499": {
+      "id": "0000-0003-0788-1499",
+      "name": "B. Rajakumar",
+      "works": [
+        "lagos_and:1",
+        "lagos_and:2",
+        "lagos_and:3",
+        "lagos_and:4",
+        "lagos_and:5",
+        "lagos_and:6",
+        "lagos_and:7",
+        "lagos_and:8",
+        "lagos_and:9",
+        "lagos_and:10",
+        "lagos_and:11",
+        "lagos_and:12",
+        "lagos_and:13",
+        "lagos_and:14",
+        "lagos_and:15",
+        "lagos_and:16",
+        "lagos_and:17"
+      ]
+    },
+    "0000-0002-3344-5159": {
+      "id": "0000-0002-3344-5159",
+      "name": "B. Rajakumar",
+      "works": [
+        "lagos_and:18",
+        "lagos_and:19"
+      ]
+    }
+  },
+  "works_data": {
+    "lagos_and:1": {
+      "id": "lagos_and:1",
+      "title": "Thermal Decomposition of 2-Pentanol: A Shock Tube Study and RRKM Calculations.",
+      "year": 2016,
+      "authors": [
+        {
+          "id": "name:a. parandaman",
+          "name": "A. Parandaman"
+        }
+      ],
+      "venue": "Journal of Physical Chemistry A",
+      "block_id": "rajakumar, balla",
+      "paper_id": "2462355537",
+      "mention_id": "lagos_and:1",
+      "raw_name": "B. Rajakumar",
+      "coauthors": [
+        "A. Parandaman"
+      ],
+      "institutions": [],
+      "gold_person_id": "0000-0003-0788-1499"
+    },
+    "lagos_and:2": {
+      "id": "lagos_and:2",
+      "title": "Visible Absorption Spectrum of the CH3CO Radical",
+      "year": 2007,
+      "authors": [
+        {
+          "id": "name:jonathan e. flad",
+          "name": "Jonathan E. Flad"
+        },
+        {
+          "id": "name:tomasz gierczak",
+          "name": "Tomasz Gierczak"
+        },
+        {
+          "id": "name:a. r. ravishankara",
+          "name": "A. R. Ravishankara"
+        },
+        {
+          "id": "name:james b. burkholder",
+          "name": "James B. Burkholder"
+        }
+      ],
+      "venue": "Journal of Physical Chemistry A",
+      "block_id": "rajakumar, balla",
+      "paper_id": "1975065229",
+      "mention_id": "lagos_and:2",
+      "raw_name": "B. Rajakumar",
+      "coauthors": [
+        "Jonathan E. Flad",
+        "Tomasz Gierczak",
+        "A. R. Ravishankara",
+        "James B. Burkholder"
+      ],
+      "institutions": [],
+      "gold_person_id": "0000-0003-0788-1499"
+    },
+    "lagos_and:3": {
+      "id": "lagos_and:3",
+      "title": "Addition and abstraction kinetics of H atom with propylene and isobutylene between 200 and 2500 K: A DFT study",
+      "year": 2017,
+      "authors": [
+        {
+          "id": "name:a. parandaman",
+          "name": "A. Parandaman"
+        }
+      ],
+      "venue": "Chemical Physics",
+      "block_id": "rajakumar, balla",
+      "paper_id": "2612042688",
+      "mention_id": "lagos_and:3",
+      "raw_name": "B. Rajakumar",
+      "coauthors": [
+        "A. Parandaman"
+      ],
+      "institutions": [
+        "Department of Chemistry",
+        "Indian Institute of Technology Madras",
+        "Chennai 600036",
+        "India"
+      ],
+      "gold_person_id": "0000-0003-0788-1499"
+    },
+    "lagos_and:4": {
+      "id": "lagos_and:4",
+      "title": "Kinetic investigations of chlorine atom initiated photo oxidation reactions of 2,3-dimethyl-1,3-butadiene in the gas phase: an experimental and theoretical study",
+      "year": 2016,
+      "authors": [
+        {
+          "id": "name:s. vijayakumar",
+          "name": "S. Vijayakumar"
+        }
+      ],
+      "venue": "RSC Advances",
+      "block_id": "rajakumar, balla",
+      "paper_id": "2472299369",
+      "mention_id": "lagos_and:4",
+      "raw_name": "B. Rajakumar",
+      "coauthors": [
+        "S. Vijayakumar"
+      ],
+      "institutions": [
+        "Department of Chemistry",
+        "Indian Institute of Technology Madras",
+        "Chennai 600036",
+        "India"
+      ],
+      "gold_person_id": "0000-0003-0788-1499"
+    },
+    "lagos_and:5": {
+      "id": "lagos_and:5",
+      "title": "Unimolecular HCl Elimination from 1,2-Dichloroethane: A Single Pulse Shock Tube and ab Initio Study\u2020",
+      "year": 2002,
+      "authors": [
+        {
+          "id": "name:k. p. j. reddy",
+          "name": "K. P. J. Reddy"
+        },
+        {
+          "id": "name:e. arunan",
+          "name": "E. Arunan"
+        }
+      ],
+      "venue": "Journal of Physical Chemistry A",
+      "block_id": "rajakumar, balla",
+      "paper_id": "1966716240",
+      "mention_id": "lagos_and:5",
+      "raw_name": "B. Rajakumar",
+      "coauthors": [
+        "K. P. J. Reddy",
+        "E. Arunan"
+      ],
+      "institutions": [],
+      "gold_person_id": "0000-0003-0788-1499"
+    },
+    "lagos_and:6": {
+      "id": "lagos_and:6",
+      "title": "Kinetics of the thermal decomposition of tetramethylsilane behind the reflected shock waves between 1058 and 1194 K",
+      "year": 2016,
+      "authors": [
+        {
+          "id": "name:a parandaman",
+          "name": "A Parandaman"
+        }
+      ],
+      "venue": "Journal of Chemical Sciences",
+      "block_id": "rajakumar, balla",
+      "paper_id": "2324444296",
+      "mention_id": "lagos_and:6",
+      "raw_name": "B Rajakumar",
+      "coauthors": [
+        "A Parandaman"
+      ],
+      "institutions": [
+        "Indian Institute of Technology Madras"
+      ],
+      "gold_person_id": "0000-0003-0788-1499"
+    },
+    "lagos_and:7": {
+      "id": "lagos_and:7",
+      "title": "Computational study on OH radical reaction with CHF2CHFCHF2(HFC\u2010245ea) between 200 and 400 K",
+      "year": 2011,
+      "authors": [
+        {
+          "id": "name:mohamad akbar ali",
+          "name": "Mohamad Akbar Ali"
+        }
+      ],
+      "venue": "International Journal of Chemical Kinetics",
+      "block_id": "rajakumar, balla",
+      "paper_id": "2171464467",
+      "mention_id": "lagos_and:7",
+      "raw_name": "B. Rajakumar",
+      "coauthors": [
+        "Mohamad Akbar Ali"
+      ],
+      "institutions": [
+        "Department of Chemistry",
+        "Indian Institute of Technology Madras",
+        "Chennai 600 036",
+        "India"
+      ],
+      "gold_person_id": "0000-0003-0788-1499"
+    },
+    "lagos_and:8": {
+      "id": "lagos_and:8",
+      "title": "Experimental and computational investigation on the gas phase reaction of p-cymene with Cl atoms.",
+      "year": 2014,
+      "authors": [
+        {
+          "id": "name:manas ranjan dash",
+          "name": "Manas Ranjan Dash"
+        },
+        {
+          "id": "name:g. srinivasulu",
+          "name": "G. Srinivasulu"
+        }
+      ],
+      "venue": "Journal of Physical Chemistry A",
+      "block_id": "rajakumar, balla",
+      "paper_id": "2318852309",
+      "mention_id": "lagos_and:8",
+      "raw_name": "B. Rajakumar",
+      "coauthors": [
+        "Manas Ranjan Dash",
+        "G. Srinivasulu"
+      ],
+      "institutions": [],
+      "gold_person_id": "0000-0003-0788-1499"
+    },
+    "lagos_and:9": {
+      "id": "lagos_and:9",
+      "title": "Abstraction kinetics of H-atom by OH radical from pinonaldehyde (C10H16O2): ab initio and transition-state theory calculations.",
+      "year": 2012,
+      "authors": [
+        {
+          "id": "name:manas ranjan dash",
+          "name": "Manas Ranjan Dash"
+        }
+      ],
+      "venue": "Journal of Physical Chemistry A",
+      "block_id": "rajakumar, balla",
+      "paper_id": "2331653826",
+      "mention_id": "lagos_and:9",
+      "raw_name": "B. Rajakumar",
+      "coauthors": [
+        "Manas Ranjan Dash"
+      ],
+      "institutions": [],
+      "gold_person_id": "0000-0003-0788-1499"
+    },
+    "lagos_and:10": {
+      "id": "lagos_and:10",
+      "title": "Mechanism, kinetics and atmospheric fate of CF3CHCH2, CF3CFCH2, and CF3CFCF2 by its reaction with OH-radicals: CVT/SCT/ISPE and hybrid meta-DFT methods",
+      "year": 2014,
+      "authors": [
+        {
+          "id": "name:m balaganesh",
+          "name": "M Balaganesh"
+        }
+      ],
+      "venue": "Journal of Molecular Graphics & Modelling",
+      "block_id": "rajakumar, balla",
+      "paper_id": "2054447658",
+      "mention_id": "lagos_and:10",
+      "raw_name": "B Rajakumar",
+      "coauthors": [
+        "M Balaganesh"
+      ],
+      "institutions": [
+        "Department of Chemistry",
+        "Indian Institute of Technology Madras",
+        "Chennai 600036",
+        "India"
+      ],
+      "gold_person_id": "0000-0003-0788-1499"
+    },
+    "lagos_and:11": {
+      "id": "lagos_and:11",
+      "title": "Kinetic parameters of abstraction reactions of OH radical with ethylene, fluoroethylene, cis- and trans-1,2-difluoroethylene and 1,1-difluoroethylene, in the temperature range of 200\u2013400 K: Gaussian-3/B3LYP theory",
+      "year": 2011,
+      "authors": [
+        {
+          "id": "name:mohamad akbar ali",
+          "name": "Mohamad Akbar Ali"
+        },
+        {
+          "id": "name:b. upendra",
+          "name": "B. Upendra"
+        }
+      ],
+      "venue": "Chemical Physics Letters",
+      "block_id": "rajakumar, balla",
+      "paper_id": "2067292225",
+      "mention_id": "lagos_and:11",
+      "raw_name": "B. Rajakumar",
+      "coauthors": [
+        "Mohamad Akbar Ali",
+        "B. Upendra"
+      ],
+      "institutions": [
+        "Department of Chemistry",
+        "Indian Institute of Technology Madras",
+        "Chennai 600036",
+        "India"
+      ],
+      "gold_person_id": "0000-0003-0788-1499"
+    },
+    "lagos_and:12": {
+      "id": "lagos_and:12",
+      "title": "Experimental and Theoretical Investigations on the Reaction of 1,3-Butadiene with Cl Atom in the Gas Phase",
+      "year": 2017,
+      "authors": [
+        {
+          "id": "name:s. vijayakumar",
+          "name": "S. Vijayakumar"
+        }
+      ],
+      "venue": "Journal of Physical Chemistry A",
+      "block_id": "rajakumar, balla",
+      "paper_id": "2586908977",
+      "mention_id": "lagos_and:12",
+      "raw_name": "B. Rajakumar",
+      "coauthors": [
+        "S. Vijayakumar"
+      ],
+      "institutions": [],
+      "gold_person_id": "0000-0003-0788-1499"
+    },
+    "lagos_and:13": {
+      "id": "lagos_and:13",
+      "title": "Kinetics of OH radical reaction with CF3CHFCH2F (HFC-245eb) between 200 and 400K: G3MP2, G3B3 and transition state theory calculations",
+      "year": 2010,
+      "authors": [
+        {
+          "id": "name:mohamad akbar ali",
+          "name": "Mohamad Akbar Ali"
+        }
+      ],
+      "venue": "Journal of Molecular Structure-theochem",
+      "block_id": "rajakumar, balla",
+      "paper_id": "2094018787",
+      "mention_id": "lagos_and:13",
+      "raw_name": "B. Rajakumar",
+      "coauthors": [
+        "Mohamad Akbar Ali"
+      ],
+      "institutions": [
+        "Department of Chemistry",
+        "Indian Institute of Technology Madras",
+        "Chennai 600 036",
+        "India"
+      ],
+      "gold_person_id": "0000-0003-0788-1499"
+    },
+    "lagos_and:14": {
+      "id": "lagos_and:14",
+      "title": "Metal-free bipolar/octupolar organic dyes for DSSC application: A combined experimental and theoretical approach",
+      "year": 2016,
+      "authors": [
+        {
+          "id": "name:sudip mandal",
+          "name": "Sudip Mandal"
+        },
+        {
+          "id": "name:suman kushwaha",
+          "name": "Suman Kushwaha"
+        },
+        {
+          "id": "name:ramesh mukkamala",
+          "name": "Ramesh Mukkamala"
+        },
+        {
+          "id": "name:vijaya k. siripina",
+          "name": "Vijaya K. Siripina"
+        },
+        {
+          "id": "name:indrapal singh aidhen",
+          "name": "Indrapal Singh Aidhen"
+        },
+        {
+          "id": "name:ramanujam kothandaraman",
+          "name": "Ramanujam Kothandaraman"
+        }
+      ],
+      "venue": "Organic Electronics",
+      "block_id": "rajakumar, balla",
+      "paper_id": "2443181186",
+      "mention_id": "lagos_and:14",
+      "raw_name": "B. Rajakumar",
+      "coauthors": [
+        "Sudip Mandal",
+        "Suman Kushwaha",
+        "Ramesh Mukkamala",
+        "Vijaya K. Siripina",
+        "Indrapal Singh Aidhen",
+        "Ramanujam Kothandaraman"
+      ],
+      "institutions": [
+        "Department of Chemistry",
+        "IIT Madras",
+        "Chennai 600 036",
+        "India"
+      ],
+      "gold_person_id": "0000-0003-0788-1499"
+    },
+    "lagos_and:15": {
+      "id": "lagos_and:15",
+      "title": "Thermodynamic and kinetic studies of hydroxyl radical reaction with bromine oxide using density functional theory",
+      "year": 2011,
+      "authors": [
+        {
+          "id": "name:mohamad akbar ali",
+          "name": "Mohamad Akbar Ali"
+        }
+      ],
+      "venue": "Computational and Theoretical Chemistry",
+      "block_id": "rajakumar, balla",
+      "paper_id": "1981931625",
+      "mention_id": "lagos_and:15",
+      "raw_name": "B. Rajakumar",
+      "coauthors": [
+        "Mohamad Akbar Ali"
+      ],
+      "institutions": [
+        "Department of Chemistry",
+        "Indian Institute of Technology Madras",
+        "Chennai 600 036",
+        "India"
+      ],
+      "gold_person_id": "0000-0003-0788-1499"
+    },
+    "lagos_and:16": {
+      "id": "lagos_and:16",
+      "title": "Theoretical investigations on the kinetics of p-cymene + OH reaction",
+      "year": 2014,
+      "authors": [
+        {
+          "id": "name:manas ranjan dash",
+          "name": "Manas Ranjan Dash"
+        }
+      ],
+      "venue": "Chemical Physics Letters",
+      "block_id": "rajakumar, balla",
+      "paper_id": "2037478117",
+      "mention_id": "lagos_and:16",
+      "raw_name": "B. Rajakumar",
+      "coauthors": [
+        "Manas Ranjan Dash"
+      ],
+      "institutions": [
+        "Department of Chemistry",
+        "Indian Institute of Technology Madras",
+        "Chennai 600036",
+        "India"
+      ],
+      "gold_person_id": "0000-0003-0788-1499"
+    },
+    "lagos_and:17": {
+      "id": "lagos_and:17",
+      "title": "Kinetic parameters for the reaction of OH radical with cis-CHFCHCHF2, trans-CHFCHCHF2, CF2CHCHF2 and CF2CCHF: Hybrid meta DFT and CVT/SCT/ISPE calculations",
+      "year": 2015,
+      "authors": [
+        {
+          "id": "name:c. ramanjaneyulu",
+          "name": "C. Ramanjaneyulu"
+        }
+      ],
+      "venue": "Journal of Fluorine Chemistry",
+      "block_id": "rajakumar, balla",
+      "paper_id": "1192478673",
+      "mention_id": "lagos_and:17",
+      "raw_name": "B. Rajakumar",
+      "coauthors": [
+        "C. Ramanjaneyulu"
+      ],
+      "institutions": [
+        "Department of Chemistry",
+        "Indian Institute of Technology Madras",
+        "Chennai 600036",
+        "India"
+      ],
+      "gold_person_id": "0000-0003-0788-1499"
+    },
+    "lagos_and:18": {
+      "id": "lagos_and:18",
+      "title": "Temperature-Dependent Kinetics of the Reaction of a Criegee Intermediate with Propionaldehyde: A Computational Investigation",
+      "year": 2018,
+      "authors": [
+        {
+          "id": "name:revathy kaipara",
+          "name": "Revathy Kaipara"
+        }
+      ],
+      "venue": "Journal of Physical Chemistry A",
+      "block_id": "rajakumar, balla",
+      "paper_id": "2895559708",
+      "mention_id": "lagos_and:18",
+      "raw_name": "B. Rajakumar",
+      "coauthors": [
+        "Revathy Kaipara"
+      ],
+      "institutions": [
+        "Department of Chemistry",
+        "Indian Institute of Technology Madras",
+        "Chennai 600036",
+        "India"
+      ],
+      "gold_person_id": "0000-0002-3344-5159"
+    },
+    "lagos_and:19": {
+      "id": "lagos_and:19",
+      "title": "Photo Oxidation Reaction Kinetics of Ethyl Propionate with Cl Atom and Formation of Propionic Acid",
+      "year": 2018,
+      "authors": [
+        {
+          "id": "name:ramya cheramangalath balan",
+          "name": "Ramya Cheramangalath Balan"
+        }
+      ],
+      "venue": "Journal of Physical Chemistry A",
+      "block_id": "rajakumar, balla",
+      "paper_id": "2894475707",
+      "mention_id": "lagos_and:19",
+      "raw_name": "B. Rajakumar",
+      "coauthors": [
+        "Ramya Cheramangalath Balan"
+      ],
+      "institutions": [
+        "Department of Chemistry",
+        "Indian Institute of Technology Madras",
+        "Chennai 600036",
+        "India"
+      ],
+      "gold_person_id": "0000-0002-3344-5159"
+    }
+  },
+  "author_id_to_label": {
+    "0000-0003-0788-1499": "0",
+    "0000-0002-3344-5159": "1"
+  }
+}

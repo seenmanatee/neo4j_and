@@ -1,0 +1,2091 @@
+{
+  "author_name": "rajan, gupta",
+  "author_data": {
+    "0000-0002-2984-5010": {
+      "id": "0000-0002-2984-5010",
+      "name": "Rajan T. Gupta",
+      "works": [
+        "lagos_and:58",
+        "lagos_and:59",
+        "lagos_and:60",
+        "lagos_and:61",
+        "lagos_and:62",
+        "lagos_and:63",
+        "lagos_and:64",
+        "lagos_and:65",
+        "lagos_and:66",
+        "lagos_and:67",
+        "lagos_and:68",
+        "lagos_and:69",
+        "lagos_and:70",
+        "lagos_and:71",
+        "lagos_and:72",
+        "lagos_and:73",
+        "lagos_and:74",
+        "lagos_and:75",
+        "lagos_and:76",
+        "lagos_and:77",
+        "lagos_and:78",
+        "lagos_and:79",
+        "lagos_and:80",
+        "lagos_and:81",
+        "lagos_and:82",
+        "lagos_and:83",
+        "lagos_and:84",
+        "lagos_and:85",
+        "lagos_and:86"
+      ]
+    },
+    "0000-0002-9851-4047": {
+      "id": "0000-0002-9851-4047",
+      "name": "Rajan Gupta",
+      "works": [
+        "lagos_and:87",
+        "lagos_and:88",
+        "lagos_and:89",
+        "lagos_and:90",
+        "lagos_and:91",
+        "lagos_and:92",
+        "lagos_and:93",
+        "lagos_and:94",
+        "lagos_and:95",
+        "lagos_and:96",
+        "lagos_and:97",
+        "lagos_and:98",
+        "lagos_and:99",
+        "lagos_and:100",
+        "lagos_and:101",
+        "lagos_and:102",
+        "lagos_and:103",
+        "lagos_and:104",
+        "lagos_and:105"
+      ]
+    }
+  },
+  "works_data": {
+    "lagos_and:58": {
+      "id": "lagos_and:58",
+      "title": "Identifying Clinically Significant Prostate Cancers using 3-D In Vivo Acoustic Radiation Force Impulse Imaging with Whole-Mount Histology Validation.",
+      "year": 2016,
+      "authors": [
+        {
+          "id": "name:mark l. palmeri",
+          "name": "Mark L. Palmeri"
+        },
+        {
+          "id": "name:tyler j. glass",
+          "name": "Tyler J. Glass"
+        },
+        {
+          "id": "name:zachary a. miller",
+          "name": "Zachary A. Miller"
+        },
+        {
+          "id": "name:stephen j. rosenzweig",
+          "name": "Stephen J. Rosenzweig"
+        },
+        {
+          "id": "name:andrew buck",
+          "name": "Andrew Buck"
+        },
+        {
+          "id": "name:thomas j. polascik",
+          "name": "Thomas J. Polascik"
+        },
+        {
+          "id": "name:alison f. brown",
+          "name": "Alison F. Brown"
+        },
+        {
+          "id": "name:john madden",
+          "name": "John Madden"
+        },
+        {
+          "id": "name:kathryn r. nightingale",
+          "name": "Kathryn R. Nightingale"
+        }
+      ],
+      "venue": "Ultrasound in Medicine and Biology",
+      "block_id": "rajan, gupta",
+      "paper_id": "2289397264",
+      "mention_id": "lagos_and:58",
+      "raw_name": "Rajan T. Gupta",
+      "coauthors": [
+        "Mark L. Palmeri",
+        "Tyler J. Glass",
+        "Zachary A. Miller",
+        "Stephen J. Rosenzweig",
+        "Andrew Buck",
+        "Thomas J. Polascik",
+        "Alison F. Brown",
+        "John Madden",
+        "Kathryn R. Nightingale"
+      ],
+      "institutions": [
+        "Department of Radiology",
+        "Duke University Medical Center",
+        "Durham",
+        "North Carolina",
+        "USA"
+      ],
+      "gold_person_id": "0000-0002-2984-5010"
+    },
+    "lagos_and:59": {
+      "id": "lagos_and:59",
+      "title": "MDCT Evaluation of the Pancreas: Nuts and Bolts",
+      "year": 2012,
+      "authors": [
+        {
+          "id": "name:mustafa r. bashir",
+          "name": "Mustafa R. Bashir"
+        }
+      ],
+      "venue": "Radiologic Clinics of North America",
+      "block_id": "rajan, gupta",
+      "paper_id": "2050500000",
+      "mention_id": "lagos_and:59",
+      "raw_name": "Rajan T. Gupta",
+      "coauthors": [
+        "Mustafa R. Bashir"
+      ],
+      "institutions": [
+        "Department of Radiology",
+        "Duke University Medical Center",
+        "DUMC 3808",
+        "Durham",
+        "NC 27710",
+        "USA"
+      ],
+      "gold_person_id": "0000-0002-2984-5010"
+    },
+    "lagos_and:60": {
+      "id": "lagos_and:60",
+      "title": "A phase III randomized study comparing perioperative nivolumab vs. observation in patients with localized renal cell carcinoma undergoing nephrectomy (PROSPER RCC).",
+      "year": 2017,
+      "authors": [
+        {
+          "id": "name:lauren christine harshman",
+          "name": "Lauren Christine Harshman"
+        },
+        {
+          "id": "name:maneka puligandla",
+          "name": "Maneka Puligandla"
+        },
+        {
+          "id": "name:naomi b. haas",
+          "name": "Naomi B. Haas"
+        },
+        {
+          "id": "name:mohamad allaf",
+          "name": "Mohamad Allaf"
+        },
+        {
+          "id": "name:charles g. drake",
+          "name": "Charles G. Drake"
+        },
+        {
+          "id": "name:david f. mcdermott",
+          "name": "David F. McDermott"
+        },
+        {
+          "id": "name:sabina signoretti",
+          "name": "Sabina Signoretti"
+        },
+        {
+          "id": "name:david cella",
+          "name": "David Cella"
+        },
+        {
+          "id": "name:rupal satish bhatt",
+          "name": "Rupal Satish Bhatt"
+        },
+        {
+          "id": "name:eliezer mendel van allen",
+          "name": "Eliezer Mendel Van Allen"
+        },
+        {
+          "id": "name:toni k. choueiri",
+          "name": "Toni K. Choueiri"
+        },
+        {
+          "id": "name:primo lara",
+          "name": "Primo Lara"
+        },
+        {
+          "id": "name:anil kapoor",
+          "name": "Anil Kapoor"
+        },
+        {
+          "id": "name:daniel yick chin heng",
+          "name": "Daniel Yick Chin Heng"
+        },
+        {
+          "id": "name:brian m. shuch",
+          "name": "Brian M. Shuch"
+        },
+        {
+          "id": "name:michael a.s. jewett",
+          "name": "Michael A.S. Jewett"
+        },
+        {
+          "id": "name:daniel j. george",
+          "name": "Daniel J. George"
+        },
+        {
+          "id": "name:m. dror michaelson",
+          "name": "M. Dror Michaelson"
+        },
+        {
+          "id": "name:michael anthony carducci",
+          "name": "Michael Anthony Carducci"
+        }
+      ],
+      "venue": "Journal of Clinical Oncology",
+      "block_id": "rajan, gupta",
+      "paper_id": "2763963750",
+      "mention_id": "lagos_and:60",
+      "raw_name": "Rajan T Gupta",
+      "coauthors": [
+        "Lauren Christine Harshman",
+        "Maneka Puligandla",
+        "Naomi B. Haas",
+        "Mohamad Allaf",
+        "Charles G. Drake",
+        "David F. McDermott",
+        "Sabina Signoretti",
+        "David Cella",
+        "Rupal Satish Bhatt",
+        "Eliezer Mendel Van Allen",
+        "Toni K. Choueiri",
+        "Primo Lara",
+        "Anil Kapoor",
+        "Daniel Yick Chin Heng",
+        "Brian M. Shuch",
+        "Michael A.S. Jewett",
+        "Daniel J. George",
+        "M. Dror Michaelson",
+        "Michael Anthony Carducci"
+      ],
+      "institutions": [
+        "Duke University Medical Center, Department of Radiology, Durham, NC"
+      ],
+      "gold_person_id": "0000-0002-2984-5010"
+    },
+    "lagos_and:61": {
+      "id": "lagos_and:61",
+      "title": "Gradient shimming during magnetic resonance imaging of the liver: comparison of a standard protocol versus a novel reduced protocol.",
+      "year": 2012,
+      "authors": [
+        {
+          "id": "name:mustafa r. bashir",
+          "name": "Mustafa R. Bashir"
+        },
+        {
+          "id": "name:brian m. dale",
+          "name": "Brian M. Dale"
+        },
+        {
+          "id": "name:jeffrey j. horvath",
+          "name": "Jeffrey J. Horvath"
+        },
+        {
+          "id": "name:daniel t. boll",
+          "name": "Daniel T. Boll"
+        },
+        {
+          "id": "name:elmar m. merkle",
+          "name": "Elmar M. Merkle"
+        }
+      ],
+      "venue": "Investigative Radiology",
+      "block_id": "rajan, gupta",
+      "paper_id": "2315710845",
+      "mention_id": "lagos_and:61",
+      "raw_name": "Rajan T. Gupta",
+      "coauthors": [
+        "Mustafa R. Bashir",
+        "Brian M. Dale",
+        "Jeffrey J. Horvath",
+        "Daniel T. Boll",
+        "Elmar M. Merkle"
+      ],
+      "institutions": [],
+      "gold_person_id": "0000-0002-2984-5010"
+    },
+    "lagos_and:62": {
+      "id": "lagos_and:62",
+      "title": "Correction to: LI-RADS technical requirements for CT, MRI, and contrast-enhanced ultrasound.",
+      "year": 2018,
+      "authors": [
+        {
+          "id": "name:avinash r. kambadakone",
+          "name": "Avinash R. Kambadakone"
+        },
+        {
+          "id": "name:alice fung",
+          "name": "Alice Fung"
+        },
+        {
+          "id": "name:thomas a. hope",
+          "name": "Thomas A. Hope"
+        },
+        {
+          "id": "name:kathryn j. fowler",
+          "name": "Kathryn J. Fowler"
+        },
+        {
+          "id": "name:andrej lyshchik",
+          "name": "Andrej Lyshchik"
+        },
+        {
+          "id": "name:karthik ganesan",
+          "name": "Karthik Ganesan"
+        },
+        {
+          "id": "name:vahid yaghmai",
+          "name": "Vahid Yaghmai"
+        },
+        {
+          "id": "name:alexander r. guimaraes",
+          "name": "Alexander R. Guimaraes"
+        },
+        {
+          "id": "name:dushyant v. sahani",
+          "name": "Dushyant V. Sahani"
+        },
+        {
+          "id": "name:frank h. miller",
+          "name": "Frank H. Miller"
+        }
+      ],
+      "venue": "Abdominal Radiology",
+      "block_id": "rajan, gupta",
+      "paper_id": "2765846383",
+      "mention_id": "lagos_and:62",
+      "raw_name": "Rajan T. Gupta",
+      "coauthors": [
+        "Avinash R. Kambadakone",
+        "Alice Fung",
+        "Thomas A. Hope",
+        "Kathryn J. Fowler",
+        "Andrej Lyshchik",
+        "Karthik Ganesan",
+        "Vahid Yaghmai",
+        "Alexander R. Guimaraes",
+        "Dushyant V. Sahani",
+        "Frank H. Miller"
+      ],
+      "institutions": [
+        "Duke University"
+      ],
+      "gold_person_id": "0000-0002-2984-5010"
+    },
+    "lagos_and:63": {
+      "id": "lagos_and:63",
+      "title": "Massive gas gangrene secondary to occult colon carcinoma.",
+      "year": 2016,
+      "authors": [
+        {
+          "id": "name:andrew s. griffin",
+          "name": "Andrew S. Griffin"
+        },
+        {
+          "id": "name:matthew d. crawford",
+          "name": "Matthew D. Crawford"
+        }
+      ],
+      "venue": "Radiology Case Reports",
+      "block_id": "rajan, gupta",
+      "paper_id": "2314403543",
+      "mention_id": "lagos_and:63",
+      "raw_name": "Rajan T. Gupta",
+      "coauthors": [
+        "Andrew S. Griffin",
+        "Matthew D. Crawford"
+      ],
+      "institutions": [
+        "Department of Radiology",
+        "Duke University Medical Center",
+        "DUMC Box 3808",
+        "Durham",
+        "NC 27710",
+        "USA"
+      ],
+      "gold_person_id": "0000-0002-2984-5010"
+    },
+    "lagos_and:64": {
+      "id": "lagos_and:64",
+      "title": "LI-RADS technical requirements for CT, MRI, and contrast-enhanced ultrasound",
+      "year": 2018,
+      "authors": [
+        {
+          "id": "name:avinash r. kambadakone",
+          "name": "Avinash R. Kambadakone"
+        },
+        {
+          "id": "name:alice fung",
+          "name": "Alice Fung"
+        },
+        {
+          "id": "name:thomas a. hope",
+          "name": "Thomas A. Hope"
+        },
+        {
+          "id": "name:kathryn j. fowler",
+          "name": "Kathryn J. Fowler"
+        },
+        {
+          "id": "name:andrej lyshchik",
+          "name": "Andrej Lyshchik"
+        },
+        {
+          "id": "name:karthik ganesan",
+          "name": "Karthik Ganesan"
+        },
+        {
+          "id": "name:vahid yaghmai",
+          "name": "Vahid Yaghmai"
+        },
+        {
+          "id": "name:alexander r. guimaraes",
+          "name": "Alexander R. Guimaraes"
+        },
+        {
+          "id": "name:dushyant v. sahani",
+          "name": "Dushyant V. Sahani"
+        },
+        {
+          "id": "name:frank h. miller",
+          "name": "Frank H. Miller"
+        }
+      ],
+      "venue": "Abdominal Radiology",
+      "block_id": "rajan, gupta",
+      "paper_id": "2758686170",
+      "mention_id": "lagos_and:64",
+      "raw_name": "Rajan T. Gupta",
+      "coauthors": [
+        "Avinash R. Kambadakone",
+        "Alice Fung",
+        "Thomas A. Hope",
+        "Kathryn J. Fowler",
+        "Andrej Lyshchik",
+        "Karthik Ganesan",
+        "Vahid Yaghmai",
+        "Alexander R. Guimaraes",
+        "Dushyant V. Sahani",
+        "Frank H. Miller"
+      ],
+      "institutions": [
+        "Department of Radiology",
+        "Duke University School of Medicine",
+        "Durham",
+        "USA"
+      ],
+      "gold_person_id": "0000-0002-2984-5010"
+    },
+    "lagos_and:65": {
+      "id": "lagos_and:65",
+      "title": "Quantitative Dynamic Contrast-Enhanced MRI of Pelvic and Lumbar Bone Marrow: Effect of Age and Marrow Fat Content on Pharmacokinetic Parameter Values",
+      "year": 2013,
+      "authors": [
+        {
+          "id": "name:steven r. breault",
+          "name": "Steven R. Breault"
+        },
+        {
+          "id": "name:tobias heye",
+          "name": "Tobias Heye"
+        },
+        {
+          "id": "name:mustafa r. bashir",
+          "name": "Mustafa R. Bashir"
+        },
+        {
+          "id": "name:brian m. dale",
+          "name": "Brian M. Dale"
+        },
+        {
+          "id": "name:elmar m. merkle",
+          "name": "Elmar M. Merkle"
+        },
+        {
+          "id": "name:caecilia s. reiner",
+          "name": "Caecilia S. Reiner"
+        },
+        {
+          "id": "name:kamil f. faridi",
+          "name": "Kamil F. Faridi"
+        }
+      ],
+      "venue": "American Journal of Roentgenology",
+      "block_id": "rajan, gupta",
+      "paper_id": "2047503339",
+      "mention_id": "lagos_and:65",
+      "raw_name": "Rajan T. Gupta",
+      "coauthors": [
+        "Steven R. Breault",
+        "Tobias Heye",
+        "Mustafa R. Bashir",
+        "Brian M. Dale",
+        "Elmar M. Merkle",
+        "Caecilia S. Reiner",
+        "Kamil F. Faridi"
+      ],
+      "institutions": [
+        "Duke University"
+      ],
+      "gold_person_id": "0000-0002-2984-5010"
+    },
+    "lagos_and:66": {
+      "id": "lagos_and:66",
+      "title": "Functional evaluation of cystic duct patency with Gd-EOB-DTPA MR imaging: an alternative to hepatobiliary scintigraphy for diagnosis of acute cholecystitis?",
+      "year": 2012,
+      "authors": [
+        {
+          "id": "name:pranay krishnan",
+          "name": "Pranay Krishnan"
+        },
+        {
+          "id": "name:daniel t. boll",
+          "name": "Daniel T. Boll"
+        },
+        {
+          "id": "name:christopher m. brady",
+          "name": "Christopher M. Brady"
+        },
+        {
+          "id": "name:daniela b. husarik",
+          "name": "Daniela B. Husarik"
+        },
+        {
+          "id": "name:elmar m. merkle",
+          "name": "Elmar M. Merkle"
+        }
+      ],
+      "venue": "Abdominal Imaging",
+      "block_id": "rajan, gupta",
+      "paper_id": "2048851477",
+      "mention_id": "lagos_and:66",
+      "raw_name": "Rajan T. Gupta",
+      "coauthors": [
+        "Pranay Krishnan",
+        "Daniel T. Boll",
+        "Christopher M. Brady",
+        "Daniela B. Husarik",
+        "Elmar M. Merkle"
+      ],
+      "institutions": [
+        "Duke University Medical Center"
+      ],
+      "gold_person_id": "0000-0002-2984-5010"
+    },
+    "lagos_and:67": {
+      "id": "lagos_and:67",
+      "title": "The Contemporary Role of Multiparametric Magnetic Resonance Imaging in Active Surveillance for Prostate Cancer",
+      "year": 2017,
+      "authors": [
+        {
+          "id": "name:ariel a. schulman",
+          "name": "Ariel A. Schulman"
+        },
+        {
+          "id": "name:christina sze",
+          "name": "Christina Sze"
+        },
+        {
+          "id": "name:efrat tsivian",
+          "name": "Efrat Tsivian"
+        },
+        {
+          "id": "name:judd w. moul",
+          "name": "Judd W. Moul"
+        },
+        {
+          "id": "name:thomas j. polascik",
+          "name": "Thomas J. Polascik"
+        }
+      ],
+      "venue": "Current Urology Reports",
+      "block_id": "rajan, gupta",
+      "paper_id": "2624365432",
+      "mention_id": "lagos_and:67",
+      "raw_name": "Rajan T. Gupta",
+      "coauthors": [
+        "Ariel A. Schulman",
+        "Christina Sze",
+        "Efrat Tsivian",
+        "Judd W. Moul",
+        "Thomas J. Polascik"
+      ],
+      "institutions": [
+        "Duke University Medical Center"
+      ],
+      "gold_person_id": "0000-0002-2984-5010"
+    },
+    "lagos_and:68": {
+      "id": "lagos_and:68",
+      "title": "How and why a generation of radiologists must be trained to accurately interpret prostate mpMRI.",
+      "year": 2016,
+      "authors": [
+        {
+          "id": "name:benjamin spilseth",
+          "name": "Benjamin Spilseth"
+        },
+        {
+          "id": "name:adam t. froemming",
+          "name": "Adam T. Froemming"
+        }
+      ],
+      "venue": "Abdominal Radiology",
+      "block_id": "rajan, gupta",
+      "paper_id": "2345430817",
+      "mention_id": "lagos_and:68",
+      "raw_name": "Rajan T. Gupta",
+      "coauthors": [
+        "Benjamin Spilseth",
+        "Adam T. Froemming"
+      ],
+      "institutions": [
+        "Department of Radiology",
+        "Duke University Medical Center",
+        "DUMC",
+        "Durham",
+        "USA"
+      ],
+      "gold_person_id": "0000-0002-2984-5010"
+    },
+    "lagos_and:69": {
+      "id": "lagos_and:69",
+      "title": "Characterization of Small Focal Renal Lesions: Diagnostic Accuracy with Single-Phase Contrast-enhanced Dual-Energy CT with Material Attenuation Analysis Compared with Conventional Attenuation Measurements",
+      "year": 2017,
+      "authors": [
+        {
+          "id": "name:daniele marin",
+          "name": "Daniele Marin"
+        },
+        {
+          "id": "name:drew davis",
+          "name": "Drew Davis"
+        },
+        {
+          "id": "name:kingshuk roy choudhury",
+          "name": "Kingshuk Roy Choudhury"
+        },
+        {
+          "id": "name:bhavik patel",
+          "name": "Bhavik Patel"
+        },
+        {
+          "id": "name:achille mileto",
+          "name": "Achille Mileto"
+        },
+        {
+          "id": "name:rendon c. nelson",
+          "name": "Rendon C. Nelson"
+        }
+      ],
+      "venue": "Radiology",
+      "block_id": "rajan, gupta",
+      "paper_id": "2598355535",
+      "mention_id": "lagos_and:69",
+      "raw_name": "Rajan T. Gupta",
+      "coauthors": [
+        "Daniele Marin",
+        "Drew Davis",
+        "Kingshuk Roy Choudhury",
+        "Bhavik Patel",
+        "Achille Mileto",
+        "Rendon C. Nelson"
+      ],
+      "institutions": [],
+      "gold_person_id": "0000-0002-2984-5010"
+    },
+    "lagos_and:70": {
+      "id": "lagos_and:70",
+      "title": "Bone Marrow Enhancement During Time-Resolved Magnetic Resonance Angiography of the Pelvis:",
+      "year": 2013,
+      "authors": [
+        {
+          "id": "name:brian c. allen",
+          "name": "Brian C. Allen"
+        },
+        {
+          "id": "name:mustafa r. bashir",
+          "name": "Mustafa R. Bashir"
+        },
+        {
+          "id": "name:brian m. dale",
+          "name": "Brian M. Dale"
+        },
+        {
+          "id": "name:tobias j. heye",
+          "name": "Tobias J. Heye"
+        },
+        {
+          "id": "name:elmar m. merkle",
+          "name": "Elmar M. Merkle"
+        }
+      ],
+      "venue": "Journal of Computer Assisted Tomography",
+      "block_id": "rajan, gupta",
+      "paper_id": "2316995106",
+      "mention_id": "lagos_and:70",
+      "raw_name": "Rajan T. Gupta",
+      "coauthors": [
+        "Brian C. Allen",
+        "Mustafa R. Bashir",
+        "Brian M. Dale",
+        "Tobias J. Heye",
+        "Elmar M. Merkle"
+      ],
+      "institutions": [],
+      "gold_person_id": "0000-0002-2984-5010"
+    },
+    "lagos_and:71": {
+      "id": "lagos_and:71",
+      "title": "PET appearance of tuberculous empyema necessitans.",
+      "year": 2011,
+      "authors": [
+        {
+          "id": "name:matthew p. lungren",
+          "name": "Matthew P. Lungren"
+        },
+        {
+          "id": "name:jared d. christensen",
+          "name": "Jared D. Christensen"
+        },
+        {
+          "id": "name:r. edward coleman",
+          "name": "R. Edward Coleman"
+        }
+      ],
+      "venue": "Clinical Nuclear Medicine",
+      "block_id": "rajan, gupta",
+      "paper_id": "2335618573",
+      "mention_id": "lagos_and:71",
+      "raw_name": "Rajan T. Gupta",
+      "coauthors": [
+        "Matthew P. Lungren",
+        "Jared D. Christensen",
+        "R. Edward Coleman"
+      ],
+      "institutions": [],
+      "gold_person_id": "0000-0002-2984-5010"
+    },
+    "lagos_and:72": {
+      "id": "lagos_and:72",
+      "title": "B-Mode and Acoustic Radiation Force Impulse (ARFI) Imaging of Prostate Zonal Anatomy Comparison with 3T T2-Weighted MR Imaging",
+      "year": 2015,
+      "authors": [
+        {
+          "id": "name:mark l. palmeri",
+          "name": "Mark L. Palmeri"
+        },
+        {
+          "id": "name:zachary a. miller",
+          "name": "Zachary A. Miller"
+        },
+        {
+          "id": "name:tyler j. glass",
+          "name": "Tyler J. Glass"
+        },
+        {
+          "id": "name:kirema garcia-reyes",
+          "name": "Kirema Garcia-Reyes"
+        },
+        {
+          "id": "name:stephen j. rosenzweig",
+          "name": "Stephen J. Rosenzweig"
+        },
+        {
+          "id": "name:christopher kauffman",
+          "name": "Christopher Kauffman"
+        },
+        {
+          "id": "name:thomas j. polascik",
+          "name": "Thomas J. Polascik"
+        },
+        {
+          "id": "name:andrew buck",
+          "name": "Andrew Buck"
+        },
+        {
+          "id": "name:evan kulbacki",
+          "name": "Evan Kulbacki"
+        },
+        {
+          "id": "name:john madden",
+          "name": "John Madden"
+        },
+        {
+          "id": "name:samantha l. lipman",
+          "name": "Samantha L. Lipman"
+        },
+        {
+          "id": "name:ned c. rouze",
+          "name": "Ned C. Rouze"
+        },
+        {
+          "id": "name:kathryn r. nightingale",
+          "name": "Kathryn R. Nightingale"
+        }
+      ],
+      "venue": "Ultrasonic Imaging",
+      "block_id": "rajan, gupta",
+      "paper_id": "2314524201",
+      "mention_id": "lagos_and:72",
+      "raw_name": "Rajan T. Gupta",
+      "coauthors": [
+        "Mark L. Palmeri",
+        "Zachary A. Miller",
+        "Tyler J. Glass",
+        "Kirema Garcia-Reyes",
+        "Stephen J. Rosenzweig",
+        "Christopher Kauffman",
+        "Thomas J. Polascik",
+        "Andrew Buck",
+        "Evan Kulbacki",
+        "John Madden",
+        "Samantha L. Lipman",
+        "Ned C. Rouze",
+        "Kathryn R. Nightingale"
+      ],
+      "institutions": [
+        "3Department of Radiology",
+        "Duke University Medical Center",
+        "Durham",
+        "NC",
+        "USA"
+      ],
+      "gold_person_id": "0000-0002-2984-5010"
+    },
+    "lagos_and:73": {
+      "id": "lagos_and:73",
+      "title": "Apparent Diffusion Coefficient Values of the Benign Central Zone of the Prostate: Comparison With Low- and High-Grade Prostate Cancer",
+      "year": 2015,
+      "authors": [
+        {
+          "id": "name:christopher r. kauffman",
+          "name": "Christopher R. Kauffman"
+        },
+        {
+          "id": "name:kirema garcia-reyes",
+          "name": "Kirema Garcia-Reyes"
+        },
+        {
+          "id": "name:mark l. palmeri",
+          "name": "Mark L. Palmeri"
+        },
+        {
+          "id": "name:john f. madden",
+          "name": "John F. Madden"
+        },
+        {
+          "id": "name:thomas j. polascik",
+          "name": "Thomas J. Polascik"
+        },
+        {
+          "id": "name:andrew b. rosenkrantz",
+          "name": "Andrew B. Rosenkrantz"
+        }
+      ],
+      "venue": "American Journal of Roentgenology",
+      "block_id": "rajan, gupta",
+      "paper_id": "1772065297",
+      "mention_id": "lagos_and:73",
+      "raw_name": "Rajan T. Gupta",
+      "coauthors": [
+        "Christopher R. Kauffman",
+        "Kirema Garcia-Reyes",
+        "Mark L. Palmeri",
+        "John F. Madden",
+        "Thomas J. Polascik",
+        "Andrew B. Rosenkrantz"
+      ],
+      "institutions": [
+        "Duke University"
+      ],
+      "gold_person_id": "0000-0002-2984-5010"
+    },
+    "lagos_and:74": {
+      "id": "lagos_and:74",
+      "title": "Respiratory-triggered Three-dimensional T2-weighted MR Cholangiography after Injection of Gadoxetate Disodium: Is It Still Reliable?",
+      "year": 2010,
+      "authors": [
+        {
+          "id": "name:kristina i. ringe",
+          "name": "Kristina I. Ringe"
+        },
+        {
+          "id": "name:christopher m. brady",
+          "name": "Christopher M. Brady"
+        },
+        {
+          "id": "name:christopher m. massey",
+          "name": "Christopher M. Massey"
+        },
+        {
+          "id": "name:andreas hahn",
+          "name": "Andreas Hahn"
+        },
+        {
+          "id": "name:michael galanski",
+          "name": "Michael Galanski"
+        },
+        {
+          "id": "name:elmar m. merkle",
+          "name": "Elmar M. Merkle"
+        },
+        {
+          "id": "name:joachim lotz",
+          "name": "Joachim Lotz"
+        }
+      ],
+      "venue": "Radiology",
+      "block_id": "rajan, gupta",
+      "paper_id": "2114256422",
+      "mention_id": "lagos_and:74",
+      "raw_name": "Rajan T. Gupta",
+      "coauthors": [
+        "Kristina I. Ringe",
+        "Christopher M. Brady",
+        "Christopher M. Massey",
+        "Andreas Hahn",
+        "Michael Galanski",
+        "Elmar M. Merkle",
+        "Joachim Lotz"
+      ],
+      "institutions": [],
+      "gold_person_id": "0000-0002-2984-5010"
+    },
+    "lagos_and:75": {
+      "id": "lagos_and:75",
+      "title": "How the radiologist can add value in the evaluation of the pre- and post-surgical pancreas",
+      "year": 2015,
+      "authors": [
+        {
+          "id": "name:bhavik n. patel",
+          "name": "Bhavik N. Patel"
+        },
+        {
+          "id": "name:sabino zani",
+          "name": "Sabino Zani"
+        },
+        {
+          "id": "name:r. brooke jeffrey",
+          "name": "R. Brooke Jeffrey"
+        },
+        {
+          "id": "name:erik k. paulson",
+          "name": "Erik K. Paulson"
+        },
+        {
+          "id": "name:rendon c. nelson",
+          "name": "Rendon C. Nelson"
+        }
+      ],
+      "venue": "Abdominal Imaging",
+      "block_id": "rajan, gupta",
+      "paper_id": "1777216478",
+      "mention_id": "lagos_and:75",
+      "raw_name": "Rajan T. Gupta",
+      "coauthors": [
+        "Bhavik N. Patel",
+        "Sabino Zani",
+        "R. Brooke Jeffrey",
+        "Erik K. Paulson",
+        "Rendon C. Nelson"
+      ],
+      "institutions": [
+        "Duke University Medical Center",
+        "DUMC"
+      ],
+      "gold_person_id": "0000-0002-2984-5010"
+    },
+    "lagos_and:76": {
+      "id": "lagos_and:76",
+      "title": "Diagnosis of Focal Nodular Hyperplasia With MRI: Multicenter Retrospective Study Comparing Gadobenate Dimeglumine to Gadoxetate Disodium",
+      "year": 2012,
+      "authors": [
+        {
+          "id": "name:christine m. iseman",
+          "name": "Christine M. Iseman"
+        },
+        {
+          "id": "name:john r. leyendecker",
+          "name": "John R. Leyendecker"
+        },
+        {
+          "id": "name:inna shyknevsky",
+          "name": "Inna Shyknevsky"
+        },
+        {
+          "id": "name:elmar m. merkle",
+          "name": "Elmar M. Merkle"
+        },
+        {
+          "id": "name:bachir taouli",
+          "name": "Bachir Taouli"
+        }
+      ],
+      "venue": "American Journal of Roentgenology",
+      "block_id": "rajan, gupta",
+      "paper_id": "2144272992",
+      "mention_id": "lagos_and:76",
+      "raw_name": "Rajan T. Gupta",
+      "coauthors": [
+        "Christine M. Iseman",
+        "John R. Leyendecker",
+        "Inna Shyknevsky",
+        "Elmar M. Merkle",
+        "Bachir Taouli"
+      ],
+      "institutions": [],
+      "gold_person_id": "0000-0002-2984-5010"
+    },
+    "lagos_and:77": {
+      "id": "lagos_and:77",
+      "title": "Practice and Quality Improvement: Successful Implementation of TeamSTEPPS Tools Into an Academic Interventional Ultrasound Practice",
+      "year": 2015,
+      "authors": [
+        {
+          "id": "name:j. bryan sexton",
+          "name": "J. Bryan Sexton"
+        },
+        {
+          "id": "name:judy milne",
+          "name": "Judy Milne"
+        },
+        {
+          "id": "name:donald p. frush",
+          "name": "Donald P. Frush"
+        }
+      ],
+      "venue": "American Journal of Roentgenology",
+      "block_id": "rajan, gupta",
+      "paper_id": "1978293509",
+      "mention_id": "lagos_and:77",
+      "raw_name": "Rajan T. Gupta",
+      "coauthors": [
+        "J. Bryan Sexton",
+        "Judy Milne",
+        "Donald P. Frush"
+      ],
+      "institutions": [],
+      "gold_person_id": "0000-0002-2984-5010"
+    },
+    "lagos_and:78": {
+      "id": "lagos_and:78",
+      "title": "Computed high b-value diffusion-weighted imaging improves lesion contrast and conspicuity in prostate cancer",
+      "year": 2015,
+      "authors": [
+        {
+          "id": "name:s feuerlein",
+          "name": "S Feuerlein"
+        },
+        {
+          "id": "name:m s davenport",
+          "name": "M S Davenport"
+        },
+        {
+          "id": "name:a krishnaraj",
+          "name": "A Krishnaraj"
+        },
+        {
+          "id": "name:e m merkle",
+          "name": "E M Merkle"
+        }
+      ],
+      "venue": "Prostate Cancer and Prostatic Diseases",
+      "block_id": "rajan, gupta",
+      "paper_id": "2021436151",
+      "mention_id": "lagos_and:78",
+      "raw_name": "R T Gupta",
+      "coauthors": [
+        "S Feuerlein",
+        "M S Davenport",
+        "A Krishnaraj",
+        "E M Merkle"
+      ],
+      "institutions": [
+        "Duke University"
+      ],
+      "gold_person_id": "0000-0002-2984-5010"
+    },
+    "lagos_and:79": {
+      "id": "lagos_and:79",
+      "title": "Hepatocellular carcinoma in a North American population: Does hepatobiliary MR imaging with Gd\u2010EOB\u2010DTPA improve sensitivity and confidence for diagnosis?",
+      "year": 2013,
+      "authors": [
+        {
+          "id": "name:mustafa r. bashir",
+          "name": "Mustafa R. Bashir"
+        },
+        {
+          "id": "name:matthew s. davenport",
+          "name": "Matthew S. Davenport"
+        },
+        {
+          "id": "name:brian c. allen",
+          "name": "Brian C. Allen"
+        },
+        {
+          "id": "name:tracy a. jaffe",
+          "name": "Tracy A. Jaffe"
+        },
+        {
+          "id": "name:lisa m. ho",
+          "name": "Lisa M. Ho"
+        },
+        {
+          "id": "name:daniel t. boll",
+          "name": "Daniel T. Boll"
+        },
+        {
+          "id": "name:elmar m. merkle",
+          "name": "Elmar M. Merkle"
+        }
+      ],
+      "venue": "Journal of Magnetic Resonance Imaging",
+      "block_id": "rajan, gupta",
+      "paper_id": "2116516775",
+      "mention_id": "lagos_and:79",
+      "raw_name": "Rajan T. Gupta",
+      "coauthors": [
+        "Mustafa R. Bashir",
+        "Matthew S. Davenport",
+        "Brian C. Allen",
+        "Tracy A. Jaffe",
+        "Lisa M. Ho",
+        "Daniel T. Boll",
+        "Elmar M. Merkle"
+      ],
+      "institutions": [
+        "Department of Radiology",
+        "Duke University Medical Center",
+        "Durham",
+        "North Carolina USA"
+      ],
+      "gold_person_id": "0000-0002-2984-5010"
+    },
+    "lagos_and:80": {
+      "id": "lagos_and:80",
+      "title": "Retrospective assessment of the utility of an iron-based agent for contrast-enhanced magnetic resonance venography in patients with endstage renal diseases.",
+      "year": 2014,
+      "authors": [
+        {
+          "id": "name:mustafa r. bashir",
+          "name": "Mustafa R. Bashir"
+        },
+        {
+          "id": "name:rekha mody",
+          "name": "Rekha Mody"
+        },
+        {
+          "id": "name:amy neville",
+          "name": "Amy Neville"
+        },
+        {
+          "id": "name:ramin javan",
+          "name": "Ramin Javan"
+        },
+        {
+          "id": "name:danielle seaman",
+          "name": "Danielle Seaman"
+        },
+        {
+          "id": "name:charles y. kim",
+          "name": "Charles Y. Kim"
+        },
+        {
+          "id": "name:tracy a. jaffe",
+          "name": "Tracy A. Jaffe"
+        }
+      ],
+      "venue": "Journal of Magnetic Resonance Imaging",
+      "block_id": "rajan, gupta",
+      "paper_id": "1918222234",
+      "mention_id": "lagos_and:80",
+      "raw_name": "Rajan T. Gupta",
+      "coauthors": [
+        "Mustafa R. Bashir",
+        "Rekha Mody",
+        "Amy Neville",
+        "Ramin Javan",
+        "Danielle Seaman",
+        "Charles Y. Kim",
+        "Tracy A. Jaffe"
+      ],
+      "institutions": [
+        "Department of Radiology",
+        "Duke University Medical Center",
+        "Durham",
+        "North Carolina",
+        "USA"
+      ],
+      "gold_person_id": "0000-0002-2984-5010"
+    },
+    "lagos_and:81": {
+      "id": "lagos_and:81",
+      "title": "Comparing 3-T multiparametric MRI and the Partin tables to predict organ-confined prostate cancer after radical prostatectomy.",
+      "year": 2014,
+      "authors": [
+        {
+          "id": "name:kamil f. faridi",
+          "name": "Kamil F. Faridi"
+        },
+        {
+          "id": "name:abhay a. singh",
+          "name": "Abhay A. Singh"
+        },
+        {
+          "id": "name:niccol\u00f2 m. passoni",
+          "name": "Niccol\u00f2 M. Passoni"
+        },
+        {
+          "id": "name:kirema garcia-reyes",
+          "name": "Kirema Garcia-Reyes"
+        },
+        {
+          "id": "name:john f. madden",
+          "name": "John F. Madden"
+        },
+        {
+          "id": "name:thomas j. polascik",
+          "name": "Thomas J. Polascik"
+        }
+      ],
+      "venue": "Urologic Oncology-seminars and Original Investigations",
+      "block_id": "rajan, gupta",
+      "paper_id": "2170422241",
+      "mention_id": "lagos_and:81",
+      "raw_name": "Rajan T. Gupta",
+      "coauthors": [
+        "Kamil F. Faridi",
+        "Abhay A. Singh",
+        "Niccol\u00f2 M. Passoni",
+        "Kirema Garcia-Reyes",
+        "John F. Madden",
+        "Thomas J. Polascik"
+      ],
+      "institutions": [
+        "Department of Radiology",
+        "Duke University Medical Center",
+        "Durham",
+        "NC"
+      ],
+      "gold_person_id": "0000-0002-2984-5010"
+    },
+    "lagos_and:82": {
+      "id": "lagos_and:82",
+      "title": "Dual-energy multidetector CT: how does it work, what can it tell us, and when can we use it in abdominopelvic imaging?",
+      "year": 2010,
+      "authors": [
+        {
+          "id": "name:courtney a. coursey",
+          "name": "Courtney A. Coursey"
+        },
+        {
+          "id": "name:rendon c. nelson",
+          "name": "Rendon C. Nelson"
+        },
+        {
+          "id": "name:daniel t. boll",
+          "name": "Daniel T. Boll"
+        },
+        {
+          "id": "name:erik k. paulson",
+          "name": "Erik K. Paulson"
+        },
+        {
+          "id": "name:lisa m. ho",
+          "name": "Lisa M. Ho"
+        },
+        {
+          "id": "name:amy m. neville",
+          "name": "Amy M. Neville"
+        },
+        {
+          "id": "name:daniele marin",
+          "name": "Daniele Marin"
+        },
+        {
+          "id": "name:sebastian t. schindera",
+          "name": "Sebastian T. Schindera"
+        }
+      ],
+      "venue": "Radiographics",
+      "block_id": "rajan, gupta",
+      "paper_id": "2129041782",
+      "mention_id": "lagos_and:82",
+      "raw_name": "Rajan T. Gupta",
+      "coauthors": [
+        "Courtney A. Coursey",
+        "Rendon C. Nelson",
+        "Daniel T. Boll",
+        "Erik K. Paulson",
+        "Lisa M. Ho",
+        "Amy M. Neville",
+        "Daniele Marin",
+        "Sebastian T. Schindera"
+      ],
+      "institutions": [],
+      "gold_person_id": "0000-0002-2984-5010"
+    },
+    "lagos_and:83": {
+      "id": "lagos_and:83",
+      "title": "Does mpMRI improve clinical criteria in selecting men with prostate cancer for active surveillance|[quest]|",
+      "year": 2017,
+      "authors": [
+        {
+          "id": "name:k j tay",
+          "name": "K J Tay"
+        },
+        {
+          "id": "name:j holtz",
+          "name": "J Holtz"
+        },
+        {
+          "id": "name:r k silverman",
+          "name": "R K Silverman"
+        },
+        {
+          "id": "name:e tsivian",
+          "name": "E Tsivian"
+        },
+        {
+          "id": "name:a schulman",
+          "name": "A Schulman"
+        },
+        {
+          "id": "name:j w moul",
+          "name": "J W Moul"
+        },
+        {
+          "id": "name:t j polascik",
+          "name": "T J Polascik"
+        }
+      ],
+      "venue": "Prostate Cancer and Prostatic Diseases",
+      "block_id": "rajan, gupta",
+      "paper_id": "2609941756",
+      "mention_id": "lagos_and:83",
+      "raw_name": "R T Gupta",
+      "coauthors": [
+        "K J Tay",
+        "J Holtz",
+        "R K Silverman",
+        "E Tsivian",
+        "A Schulman",
+        "J W Moul",
+        "T J Polascik"
+      ],
+      "institutions": [],
+      "gold_person_id": "0000-0002-2984-5010"
+    },
+    "lagos_and:84": {
+      "id": "lagos_and:84",
+      "title": "Effect of radiologists\u2019 experience with an adaptive statistical iterative reconstruction algorithm on detection of hypervascular liver lesions and perception of image quality",
+      "year": 2015,
+      "authors": [
+        {
+          "id": "name:daniele marin",
+          "name": "Daniele Marin"
+        },
+        {
+          "id": "name:achille mileto",
+          "name": "Achille Mileto"
+        },
+        {
+          "id": "name:lisa m. ho",
+          "name": "Lisa M. Ho"
+        },
+        {
+          "id": "name:brian c. allen",
+          "name": "Brian C. Allen"
+        },
+        {
+          "id": "name:kingshuk roy choudhury",
+          "name": "Kingshuk Roy Choudhury"
+        },
+        {
+          "id": "name:rendon c. nelson",
+          "name": "Rendon C. Nelson"
+        }
+      ],
+      "venue": "Abdominal Imaging",
+      "block_id": "rajan, gupta",
+      "paper_id": "2120460703",
+      "mention_id": "lagos_and:84",
+      "raw_name": "Rajan T. Gupta",
+      "coauthors": [
+        "Daniele Marin",
+        "Achille Mileto",
+        "Lisa M. Ho",
+        "Brian C. Allen",
+        "Kingshuk Roy Choudhury",
+        "Rendon C. Nelson"
+      ],
+      "institutions": [
+        "Duke University Medical Center"
+      ],
+      "gold_person_id": "0000-0002-2984-5010"
+    },
+    "lagos_and:85": {
+      "id": "lagos_and:85",
+      "title": "Imaging Advances in Urolithiasis",
+      "year": 2017,
+      "authors": [
+        {
+          "id": "name:dalejoanne",
+          "name": "DaleJoanne"
+        },
+        {
+          "id": "name:marindaniele",
+          "name": "MarinDaniele"
+        },
+        {
+          "id": "name:lipkinmichael",
+          "name": "LipkinMichael"
+        },
+        {
+          "id": "name:premingerglenn",
+          "name": "PremingerGlenn"
+        }
+      ],
+      "venue": "Journal of Endourology",
+      "block_id": "rajan, gupta",
+      "paper_id": "2606026395",
+      "mention_id": "lagos_and:85",
+      "raw_name": "T GuptaRajan",
+      "coauthors": [
+        "DaleJoanne",
+        "MarinDaniele",
+        "LipkinMichael",
+        "PremingerGlenn"
+      ],
+      "institutions": [],
+      "gold_person_id": "0000-0002-2984-5010"
+    },
+    "lagos_and:86": {
+      "id": "lagos_and:86",
+      "title": "Methodology to register prostate B-mode and ARFI images to MR and histology",
+      "year": 2011,
+      "authors": [
+        {
+          "id": "name:christina m.l. hsu",
+          "name": "Christina M.L. Hsu"
+        },
+        {
+          "id": "name:thomas j. polascik",
+          "name": "Thomas J. Polascik"
+        },
+        {
+          "id": "name:matthew s. davenport",
+          "name": "Matthew S. Davenport"
+        },
+        {
+          "id": "name:christopher kauffman",
+          "name": "Christopher Kauffman"
+        },
+        {
+          "id": "name:evan kulbacki",
+          "name": "Evan Kulbacki"
+        },
+        {
+          "id": "name:john madden",
+          "name": "John Madden"
+        },
+        {
+          "id": "name:samantha l. lipman",
+          "name": "Samantha L. Lipman"
+        },
+        {
+          "id": "name:mark l. palmeri",
+          "name": "Mark L. Palmeri"
+        },
+        {
+          "id": "name:kathryn r. nightingale",
+          "name": "Kathryn R. Nightingale"
+        }
+      ],
+      "venue": "internaltional ultrasonics symposium",
+      "block_id": "rajan, gupta",
+      "paper_id": "277968171",
+      "mention_id": "lagos_and:86",
+      "raw_name": "Rajan T. Gupta",
+      "coauthors": [
+        "Christina M.L. Hsu",
+        "Thomas J. Polascik",
+        "Matthew S. Davenport",
+        "Christopher Kauffman",
+        "Evan Kulbacki",
+        "John Madden",
+        "Samantha L. Lipman",
+        "Mark L. Palmeri",
+        "Kathryn R. Nightingale"
+      ],
+      "institutions": [
+        "Duke University and Duke University Medical Center",
+        "Durham",
+        "NC",
+        "USA"
+      ],
+      "gold_person_id": "0000-0002-2984-5010"
+    },
+    "lagos_and:87": {
+      "id": "lagos_and:87",
+      "title": "Basis Function and PN Phase Generation in TDCS and WDCS towards Dynamic Spectrum Access",
+      "year": 2015,
+      "authors": [
+        {
+          "id": "name:mrinal sharma",
+          "name": "Mrinal Sharma"
+        }
+      ],
+      "venue": "international conference on communication systems and network technologies",
+      "block_id": "rajan, gupta",
+      "paper_id": "1617853460",
+      "mention_id": "lagos_and:87",
+      "raw_name": "Rajan Gupta",
+      "coauthors": [
+        "Mrinal Sharma"
+      ],
+      "institutions": [
+        "Dept. of Comput. Sci.",
+        "Univ. of Delhi",
+        "Delhi",
+        "India"
+      ],
+      "gold_person_id": "0000-0002-9851-4047"
+    },
+    "lagos_and:88": {
+      "id": "lagos_and:88",
+      "title": "Understanding Fraudulent Activities through M-Commerce Transactions",
+      "year": 2016,
+      "authors": [
+        {
+          "id": "name:sunil kumar muttoo",
+          "name": "Sunil Kumar Muttoo"
+        },
+        {
+          "id": "name:saibal kumar pal",
+          "name": "Saibal Kumar Pal"
+        }
+      ],
+      "venue": "",
+      "block_id": "rajan, gupta",
+      "paper_id": "2481279056",
+      "mention_id": "lagos_and:88",
+      "raw_name": "Rajan Gupta",
+      "coauthors": [
+        "Sunil Kumar Muttoo",
+        "Saibal Kumar Pal"
+      ],
+      "institutions": [
+        "University of Delhi",
+        "India"
+      ],
+      "gold_person_id": "0000-0002-9851-4047"
+    },
+    "lagos_and:89": {
+      "id": "lagos_and:89",
+      "title": "Proposal for integrated system architecture in utilities.",
+      "year": 2014,
+      "authors": [
+        {
+          "id": "name:sunil kumar muttoo",
+          "name": "Sunil Kumar Muttoo"
+        },
+        {
+          "id": "name:saibal k. pal",
+          "name": "Saibal K. Pal"
+        }
+      ],
+      "venue": "advances in computing and communications",
+      "block_id": "rajan, gupta",
+      "paper_id": "2015183140",
+      "mention_id": "lagos_and:89",
+      "raw_name": "Rajan Gupta",
+      "coauthors": [
+        "Sunil Kumar Muttoo",
+        "Saibal K. Pal"
+      ],
+      "institutions": [
+        "Department of Computer Science",
+        "Faculty of Mathematical Sciences",
+        "University of Delhi",
+        "India"
+      ],
+      "gold_person_id": "0000-0002-9851-4047"
+    },
+    "lagos_and:90": {
+      "id": "lagos_and:90",
+      "title": "Implementation & Analysis of Integrated Utility System in Developing Nation like India",
+      "year": 2016,
+      "authors": [
+        {
+          "id": "name:sunil kumar muttoo",
+          "name": "Sunil Kumar Muttoo"
+        },
+        {
+          "id": "name:saibal kumar pal",
+          "name": "Saibal Kumar Pal"
+        }
+      ],
+      "venue": "International Journal of Embedded Systems",
+      "block_id": "rajan, gupta",
+      "paper_id": "2461952366",
+      "mention_id": "lagos_and:90",
+      "raw_name": "Rajan Gupta",
+      "coauthors": [
+        "Sunil Kumar Muttoo",
+        "Saibal Kumar Pal"
+      ],
+      "institutions": [
+        "University of Delhi"
+      ],
+      "gold_person_id": "0000-0002-9851-4047"
+    },
+    "lagos_and:91": {
+      "id": "lagos_and:91",
+      "title": "Development of e-Governance in an Emerging Economy Like India: Assessment and Way Ahead for Key Components",
+      "year": 2017,
+      "authors": [
+        {
+          "id": "name:sunil kumar muttoo",
+          "name": "Sunil Kumar Muttoo"
+        },
+        {
+          "id": "name:saibal k. pal",
+          "name": "Saibal K. Pal"
+        }
+      ],
+      "venue": "international conference on theory and practice of electronic governance",
+      "block_id": "rajan, gupta",
+      "paper_id": "2616898655",
+      "mention_id": "lagos_and:91",
+      "raw_name": "Rajan Gupta",
+      "coauthors": [
+        "Sunil Kumar Muttoo",
+        "Saibal K. Pal"
+      ],
+      "institutions": [
+        "University of Delhi",
+        "Department of Computer Science",
+        "Delhi",
+        "India"
+      ],
+      "gold_person_id": "0000-0002-9851-4047"
+    },
+    "lagos_and:92": {
+      "id": "lagos_and:92",
+      "title": "Internet Traffic Surveillance & Network Monitoring in India: Case Study of NETRA",
+      "year": 2017,
+      "authors": [
+        {
+          "id": "name:sunil kumar muttoo",
+          "name": "Sunil Kumar Muttoo"
+        }
+      ],
+      "venue": "Network Protocols and Algorithms",
+      "block_id": "rajan, gupta",
+      "paper_id": "2577865656",
+      "mention_id": "lagos_and:92",
+      "raw_name": "Rajan Gupta",
+      "coauthors": [
+        "Sunil Kumar Muttoo"
+      ],
+      "institutions": [
+        "University of Delhi"
+      ],
+      "gold_person_id": "0000-0002-9851-4047"
+    },
+    "lagos_and:93": {
+      "id": "lagos_and:93",
+      "title": "Binary Division Fuzzy C-Means Clustering and Particle Swarm Optimization Based Efficient Intrusion Detection for E-Governance Systems",
+      "year": 2016,
+      "authors": [
+        {
+          "id": "name:sunil k. muttoo",
+          "name": "Sunil K. Muttoo"
+        },
+        {
+          "id": "name:saibal k. pal",
+          "name": "Saibal K. Pal"
+        }
+      ],
+      "venue": "International Review on Computers and Software",
+      "block_id": "rajan, gupta",
+      "paper_id": "2533745562",
+      "mention_id": "lagos_and:93",
+      "raw_name": "Rajan Gupta",
+      "coauthors": [
+        "Sunil K. Muttoo",
+        "Saibal K. Pal"
+      ],
+      "institutions": [
+        "Department of Computer Science",
+        "Faculty of Mathematical Sciences",
+        "University of Delhi"
+      ],
+      "gold_person_id": "0000-0002-9851-4047"
+    },
+    "lagos_and:94": {
+      "id": "lagos_and:94",
+      "title": "Design & Analysis of Clustering based Intrusion Detection Schemes for E-Governance",
+      "year": 2016,
+      "authors": [
+        {
+          "id": "name:sunil k. muttoo",
+          "name": "Sunil K. Muttoo"
+        },
+        {
+          "id": "name:saibal k pal",
+          "name": "Saibal K Pal"
+        }
+      ],
+      "venue": "The International Symposium on Intelligent Systems Technologies and Applications",
+      "block_id": "rajan, gupta",
+      "paper_id": "2519635815",
+      "mention_id": "lagos_and:94",
+      "raw_name": "Rajan Gupta",
+      "coauthors": [
+        "Sunil K. Muttoo",
+        "Saibal K Pal"
+      ],
+      "institutions": [
+        "University of Delhi"
+      ],
+      "gold_person_id": "0000-0002-9851-4047"
+    },
+    "lagos_and:95": {
+      "id": "lagos_and:95",
+      "title": "The Need of a Development Assessment Index for e-Governance in India",
+      "year": 2017,
+      "authors": [
+        {
+          "id": "name:sunil kumar muttoo",
+          "name": "Sunil Kumar Muttoo"
+        },
+        {
+          "id": "name:saibal k. pal",
+          "name": "Saibal K. Pal"
+        }
+      ],
+      "venue": "international conference on theory and practice of electronic governance",
+      "block_id": "rajan, gupta",
+      "paper_id": "2618571616",
+      "mention_id": "lagos_and:95",
+      "raw_name": "Rajan Gupta",
+      "coauthors": [
+        "Sunil Kumar Muttoo",
+        "Saibal K. Pal"
+      ],
+      "institutions": [
+        "University of Delhi",
+        "Department of Computer Science",
+        "Delhi",
+        "India"
+      ],
+      "gold_person_id": "0000-0002-9851-4047"
+    },
+    "lagos_and:96": {
+      "id": "lagos_and:96",
+      "title": "A Machine Learning Framework for Predicting Purchase by Online Customers based on Dynamic Pricing",
+      "year": 2014,
+      "authors": [
+        {
+          "id": "name:chaitanya pathak",
+          "name": "Chaitanya Pathak"
+        }
+      ],
+      "venue": "Procedia Computer Science",
+      "block_id": "rajan, gupta",
+      "paper_id": "2024972882",
+      "mention_id": "lagos_and:96",
+      "raw_name": "Rajan Gupta",
+      "coauthors": [
+        "Chaitanya Pathak"
+      ],
+      "institutions": [
+        "Department of Computer Science",
+        "Faculty of Mathematical Science",
+        "University of Delhi",
+        "Delhi \u2013 110007",
+        "INDIA"
+      ],
+      "gold_person_id": "0000-0002-9851-4047"
+    },
+    "lagos_and:97": {
+      "id": "lagos_and:97",
+      "title": "Design and Analysis of New Shuffle Encryption Schemes for Multimedia",
+      "year": 2012,
+      "authors": [
+        {
+          "id": "name:ankur aggarwal",
+          "name": "Ankur Aggarwal"
+        },
+        {
+          "id": "name:saibal k. pal",
+          "name": "Saibal K. Pal"
+        }
+      ],
+      "venue": "Defence Science Journal",
+      "block_id": "rajan, gupta",
+      "paper_id": "2158402470",
+      "mention_id": "lagos_and:97",
+      "raw_name": "Rajan Gupta",
+      "coauthors": [
+        "Ankur Aggarwal",
+        "Saibal K. Pal"
+      ],
+      "institutions": [
+        "University of Delhi",
+        "Delhi"
+      ],
+      "gold_person_id": "0000-0002-9851-4047"
+    },
+    "lagos_and:98": {
+      "id": "lagos_and:98",
+      "title": "Dynamic route map generation scheme for mobiles",
+      "year": 2015,
+      "authors": [
+        {
+          "id": "name:sunil k muttoo",
+          "name": "Sunil K Muttoo"
+        },
+        {
+          "id": "name:saibal k pal",
+          "name": "Saibal K Pal"
+        }
+      ],
+      "venue": "ieee india conference",
+      "block_id": "rajan, gupta",
+      "paper_id": "2342009296",
+      "mention_id": "lagos_and:98",
+      "raw_name": "Rajan Gupta",
+      "coauthors": [
+        "Sunil K Muttoo",
+        "Saibal K Pal"
+      ],
+      "institutions": [
+        "Department of Computer Science",
+        "University of Delhi",
+        "North Campus",
+        "110007",
+        "INDIA"
+      ],
+      "gold_person_id": "0000-0002-9851-4047"
+    },
+    "lagos_and:99": {
+      "id": "lagos_and:99",
+      "title": "Hybrid model to improve Bat algorithm performance",
+      "year": 2014,
+      "authors": [
+        {
+          "id": "name:neeharika chaudhary",
+          "name": "Neeharika Chaudhary"
+        },
+        {
+          "id": "name:saibal k. pal",
+          "name": "Saibal K. Pal"
+        }
+      ],
+      "venue": "advances in computing and communications",
+      "block_id": "rajan, gupta",
+      "paper_id": "2037773938",
+      "mention_id": "lagos_and:99",
+      "raw_name": "Rajan Gupta",
+      "coauthors": [
+        "Neeharika Chaudhary",
+        "Saibal K. Pal"
+      ],
+      "institutions": [
+        "Department of Computer Science",
+        "Faculty of Mathematical Sciences",
+        "University of Delhi",
+        "INDIA"
+      ],
+      "gold_person_id": "0000-0002-9851-4047"
+    },
+    "lagos_and:100": {
+      "id": "lagos_and:100",
+      "title": "Network Monitoring and Internet Traffic Surveillance System: Issues and Challenges in India",
+      "year": 2016,
+      "authors": [
+        {
+          "id": "name:saibal k. pal",
+          "name": "Saibal K. Pal"
+        },
+        {
+          "id": "name:sunil k. muttoo",
+          "name": "Sunil K. Muttoo"
+        }
+      ],
+      "venue": "",
+      "block_id": "rajan, gupta",
+      "paper_id": "2185357727",
+      "mention_id": "lagos_and:100",
+      "raw_name": "Rajan Gupta",
+      "coauthors": [
+        "Saibal K. Pal",
+        "Sunil K. Muttoo"
+      ],
+      "institutions": [
+        "Department of Computer Science",
+        "Faculty of Mathematical Sciences",
+        "University of Delhi",
+        "Delhi",
+        "India"
+      ],
+      "gold_person_id": "0000-0002-9851-4047"
+    },
+    "lagos_and:101": {
+      "id": "lagos_and:101",
+      "title": "Analysing Security Checkpoints for an Integrated Utility-Based Information System",
+      "year": 2016,
+      "authors": [
+        {
+          "id": "name:sunil k. muttoo",
+          "name": "Sunil K. Muttoo"
+        },
+        {
+          "id": "name:saibal k. pal",
+          "name": "Saibal K. Pal"
+        }
+      ],
+      "venue": "",
+      "block_id": "rajan, gupta",
+      "paper_id": "2505888476",
+      "mention_id": "lagos_and:101",
+      "raw_name": "Rajan Gupta",
+      "coauthors": [
+        "Sunil K. Muttoo",
+        "Saibal K. Pal"
+      ],
+      "institutions": [
+        "University of Delhi"
+      ],
+      "gold_person_id": "0000-0002-9851-4047"
+    },
+    "lagos_and:102": {
+      "id": "lagos_and:102",
+      "title": "Proposed Framework for Information Systems Security for e-Governance in Developing Nations",
+      "year": 2017,
+      "authors": [
+        {
+          "id": "name:sunil kumar muttoo",
+          "name": "Sunil Kumar Muttoo"
+        },
+        {
+          "id": "name:saibal k. pal",
+          "name": "Saibal K. Pal"
+        }
+      ],
+      "venue": "international conference on theory and practice of electronic governance",
+      "block_id": "rajan, gupta",
+      "paper_id": "2618989366",
+      "mention_id": "lagos_and:102",
+      "raw_name": "Rajan Gupta",
+      "coauthors": [
+        "Sunil Kumar Muttoo",
+        "Saibal K. Pal"
+      ],
+      "institutions": [
+        "University of Delhi",
+        "Department of Computer Science",
+        "Delhi",
+        "India"
+      ],
+      "gold_person_id": "0000-0002-9851-4047"
+    },
+    "lagos_and:103": {
+      "id": "lagos_and:103",
+      "title": "Comparative analysis of various communication systems for intelligent sensing of spectrum.",
+      "year": 2014,
+      "authors": [
+        {
+          "id": "name:mrinal sharma",
+          "name": "Mrinal Sharma"
+        }
+      ],
+      "venue": "advances in computing and communications",
+      "block_id": "rajan, gupta",
+      "paper_id": "2030369924",
+      "mention_id": "lagos_and:103",
+      "raw_name": "Rajan Gupta",
+      "coauthors": [
+        "Mrinal Sharma"
+      ],
+      "institutions": [
+        "Department of Computer Science",
+        "University of Delhi",
+        "India"
+      ],
+      "gold_person_id": "0000-0002-9851-4047"
+    },
+    "lagos_and:104": {
+      "id": "lagos_and:104",
+      "title": "Fuzzy C-Means Clustering and Particle Swarm Optimization based scheme for Common Service Center location allocation",
+      "year": 2017,
+      "authors": [
+        {
+          "id": "name:sunil kumar muttoo",
+          "name": "Sunil Kumar Muttoo"
+        },
+        {
+          "id": "name:saibal k. pal",
+          "name": "Saibal K. Pal"
+        }
+      ],
+      "venue": "Applied Intelligence",
+      "block_id": "rajan, gupta",
+      "paper_id": "2605642793",
+      "mention_id": "lagos_and:104",
+      "raw_name": "Rajan Gupta",
+      "coauthors": [
+        "Sunil Kumar Muttoo",
+        "Saibal K. Pal"
+      ],
+      "institutions": [
+        "University of Delhi"
+      ],
+      "gold_person_id": "0000-0002-9851-4047"
+    },
+    "lagos_and:105": {
+      "id": "lagos_and:105",
+      "title": "Web Mining and Analytics for Improving E-Government Services in India",
+      "year": 2017,
+      "authors": [
+        {
+          "id": "name:sunil k. muttoo",
+          "name": "Sunil K. Muttoo"
+        },
+        {
+          "id": "name:saibal k. pal",
+          "name": "Saibal K. Pal"
+        }
+      ],
+      "venue": "",
+      "block_id": "rajan, gupta",
+      "paper_id": "2507631234",
+      "mention_id": "lagos_and:105",
+      "raw_name": "Rajan Gupta",
+      "coauthors": [
+        "Sunil K. Muttoo",
+        "Saibal K. Pal"
+      ],
+      "institutions": [
+        "University of Delhi",
+        "India"
+      ],
+      "gold_person_id": "0000-0002-9851-4047"
+    }
+  },
+  "author_id_to_label": {
+    "0000-0002-2984-5010": "0",
+    "0000-0002-9851-4047": "1"
+  }
+}

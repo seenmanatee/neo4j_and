@@ -1,6 +1,16 @@
 ## Neo4j Graph for Name Disambiguation
 This repo now includes a two-step workflow to build a publication graph in Neo4j for author name disambiguation experiments.
 
+Shared IR
+- Canonical mentions format is defined in `configs/mentions_ir.md`
+- JSONL path: `data/processed/<dataset>/mentions.jsonl`
+
+Virtual environment setup
+- Create venv: `python3 -m venv .venv_name_disam`
+- Activate: `source .venv_name_disam/bin/activate`
+- Install deps: `pip install -r neo4j_and/requirements.txt`
+- Run scripts with venv active (or use `.venv_name_disam/bin/python` directly)
+
 1) Prepare OpenAlex data and cache
    - Script: `neo4j_data.py`
    - Action: fetch authors and publications for an ambiguous name and write JSON cache to `cache/<Author>_data.json`
@@ -13,6 +23,18 @@ This repo now includes a two-step workflow to build a publication graph in Neo4j
      - `COAUTHOR {coauthor: JSON, weight: int}` between publications sharing any author
      - `COVENUE {venue}` between publications sharing the same venue
    - Usage: set `URI`, `USER`, `PASSWORD`, `DB`, `PATH` in the main block, then run `PYTHONPATH=. python neo4j_import.py`
+
+3) Community detection + predictions
+   - Script: `community_detection.py`
+   - Action: run Leiden/Louvain on the Neo4j graph and emit `pred_clusters.jsonl`
+   - Example run: `python3 neo4j_and/community_detection.py --output pred_clusters.jsonl`
+   - Then evaluate with `python3 scripts/evaluate_b3.py --predictions pred_clusters.jsonl --mentions ...`
+
+Optional: combine multiple cache files
+- Script: `combine_cache_jsons.py`
+- Action: merge all `*_data.json` files in a cache directory into one JSON that `neo4j_import.py` can read.
+- Example run: `python3 neo4j_and/combine_cache_jsons.py --cache-dir neo4j_and/cache --output neo4j_and/cache/combined_data.json`
+- Then set `PATH` in `neo4j_import.py` to `neo4j_and/cache/combined_data.json`.
 
 Notes and observations
 - Publications for "David Nathan" cluster clearly; promising for community detection

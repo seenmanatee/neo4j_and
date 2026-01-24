@@ -1,0 +1,740 @@
+{
+  "author_name": "rajan, choudhary",
+  "author_data": {
+    "0000-0003-0901-5076": {
+      "id": "0000-0003-0901-5076",
+      "name": "Rajan Choudhary",
+      "works": [
+        "lagos_and:25",
+        "lagos_and:26",
+        "lagos_and:27",
+        "lagos_and:28",
+        "lagos_and:29",
+        "lagos_and:30",
+        "lagos_and:31",
+        "lagos_and:32",
+        "lagos_and:33",
+        "lagos_and:34",
+        "lagos_and:35",
+        "lagos_and:36",
+        "lagos_and:37"
+      ]
+    },
+    "0000-0001-6370-8071": {
+      "id": "0000-0001-6370-8071",
+      "name": "Rajan Choudhary",
+      "works": [
+        "lagos_and:38",
+        "lagos_and:39",
+        "lagos_and:40",
+        "lagos_and:41",
+        "lagos_and:42",
+        "lagos_and:43",
+        "lagos_and:44"
+      ]
+    }
+  },
+  "works_data": {
+    "lagos_and:25": {
+      "id": "lagos_and:25",
+      "title": "Permanent Deformation Characteristics of Warm Asphalt Binders under Reduced Aging Conditions",
+      "year": 2019,
+      "authors": [
+        {
+          "id": "name:ashok julaganti",
+          "name": "Ashok Julaganti"
+        },
+        {
+          "id": "name:abhinay kumar",
+          "name": "Abhinay Kumar"
+        }
+      ],
+      "venue": "Ksce Journal of Civil Engineering",
+      "block_id": "rajan, choudhary",
+      "paper_id": "2904985807",
+      "mention_id": "lagos_and:25",
+      "raw_name": "Rajan Choudhary",
+      "coauthors": [
+        "Ashok Julaganti",
+        "Abhinay Kumar"
+      ],
+      "institutions": [
+        "IIT Guwahati"
+      ],
+      "gold_person_id": "0000-0003-0901-5076"
+    },
+    "lagos_and:26": {
+      "id": "lagos_and:26",
+      "title": "Clogging evaluation of open graded friction course mixes with EAF steel slag and modified binders",
+      "year": 2018,
+      "authors": [
+        {
+          "id": "name:madhu lisha pattanaik",
+          "name": "Madhu Lisha Pattanaik"
+        },
+        {
+          "id": "name:bimlesh kumar",
+          "name": "Bimlesh Kumar"
+        }
+      ],
+      "venue": "Construction and Building Materials",
+      "block_id": "rajan, choudhary",
+      "paper_id": "2766924333",
+      "mention_id": "lagos_and:26",
+      "raw_name": "Rajan Choudhary",
+      "coauthors": [
+        "Madhu Lisha Pattanaik",
+        "Bimlesh Kumar"
+      ],
+      "institutions": [
+        "Department of Civil Engineering",
+        "Indian Institute of Technology Guwahati",
+        "Guwahati",
+        "Assam 781039",
+        "India"
+      ],
+      "gold_person_id": "0000-0003-0901-5076"
+    },
+    "lagos_and:27": {
+      "id": "lagos_and:27",
+      "title": "Properties of Waste Polyethylene Terephthalate (PET) Modified Asphalt Mixes: Dependence on PET Size, PET Content, and Mixing Process",
+      "year": 2018,
+      "authors": [
+        {
+          "id": "name:abhinay kumar",
+          "name": "Abhinay Kumar"
+        },
+        {
+          "id": "name:kishori murkute",
+          "name": "Kishori Murkute"
+        }
+      ],
+      "venue": "Periodica Polytechnica-civil Engineering",
+      "block_id": "rajan, choudhary",
+      "paper_id": "2788666463",
+      "mention_id": "lagos_and:27",
+      "raw_name": "Rajan Choudhary",
+      "coauthors": [
+        "Abhinay Kumar",
+        "Kishori Murkute"
+      ],
+      "institutions": [
+        "Indian Institute of Technology Guwahati"
+      ],
+      "gold_person_id": "0000-0003-0901-5076"
+    },
+    "lagos_and:28": {
+      "id": "lagos_and:28",
+      "title": "Calibration of HDM-4 models for Indian conditions of flexible pavement having modified bitumen in wearing course",
+      "year": 2018,
+      "authors": [
+        {
+          "id": "name:sanjay deori",
+          "name": "Sanjay Deori"
+        },
+        {
+          "id": "name:devesh tiwari",
+          "name": "Devesh Tiwari"
+        },
+        {
+          "id": "name:s. gangopadhyay",
+          "name": "S. Gangopadhyay"
+        }
+      ],
+      "venue": "International Journal of Pavement Engineering",
+      "block_id": "rajan, choudhary",
+      "paper_id": "2484792782",
+      "mention_id": "lagos_and:28",
+      "raw_name": "Rajan Choudhary",
+      "coauthors": [
+        "Sanjay Deori",
+        "Devesh Tiwari",
+        "S. Gangopadhyay"
+      ],
+      "institutions": [
+        "Department of Civil Engineering",
+        "Indian Institute of Technology Guwahati",
+        "Guwahati",
+        "India"
+      ],
+      "gold_person_id": "0000-0003-0901-5076"
+    },
+    "lagos_and:29": {
+      "id": "lagos_and:29",
+      "title": "Laboratory Evaluation of Mix Design Parameters of Open-Graded Friction Course Mixes with Electric Arc Furnace Steel Slag",
+      "year": 2018,
+      "authors": [
+        {
+          "id": "name:bimlesh kumar",
+          "name": "Bimlesh Kumar"
+        },
+        {
+          "id": "name:madhu lisha pattanaik",
+          "name": "Madhu Lisha Pattanaik"
+        }
+      ],
+      "venue": "Advances in Civil Engineering Materials",
+      "block_id": "rajan, choudhary",
+      "paper_id": "2898497181",
+      "mention_id": "lagos_and:29",
+      "raw_name": "Rajan Choudhary",
+      "coauthors": [
+        "Bimlesh Kumar",
+        "Madhu Lisha Pattanaik"
+      ],
+      "institutions": [
+        "Indian Institute of Technology Guwahati",
+        "Guwahati Assam India"
+      ],
+      "gold_person_id": "0000-0003-0901-5076"
+    },
+    "lagos_and:30": {
+      "id": "lagos_and:30",
+      "title": "Application of WMA Technology to Bituminous Base Course Mixes",
+      "year": 2018,
+      "authors": [
+        {
+          "id": "name:asho julaganti",
+          "name": "Asho Julaganti"
+        },
+        {
+          "id": "name:abhinay kumar",
+          "name": "Abhinay Kumar"
+        },
+        {
+          "id": "name:dipak arjun ugale",
+          "name": "Dipak Arjun Ugale"
+        }
+      ],
+      "venue": "Baltic Journal of Road and Bridge Engineering",
+      "block_id": "rajan, choudhary",
+      "paper_id": "2811295706",
+      "mention_id": "lagos_and:30",
+      "raw_name": "Rajan Choudhary",
+      "coauthors": [
+        "Asho Julaganti",
+        "Abhinay Kumar",
+        "Dipak Arjun Ugale"
+      ],
+      "institutions": [
+        "Dept of Civil Engineering",
+        "Indian Institute of Technology Guwahati",
+        "Guwahati",
+        "Assam",
+        "India"
+      ],
+      "gold_person_id": "0000-0003-0901-5076"
+    },
+    "lagos_and:31": {
+      "id": "lagos_and:31",
+      "title": "Fatigue characterisation of modified asphalt binders containing warm mix asphalt additives",
+      "year": 2018,
+      "authors": [
+        {
+          "id": "name:abhinay kumar",
+          "name": "Abhinay Kumar"
+        },
+        {
+          "id": "name:prithvi singh kandhal",
+          "name": "Prithvi Singh Kandhal"
+        },
+        {
+          "id": "name:ashok julaganti",
+          "name": "Ashok Julaganti"
+        },
+        {
+          "id": "name:om prakash behera",
+          "name": "Om Prakash Behera"
+        },
+        {
+          "id": "name:abhishek singh",
+          "name": "Abhishek Singh"
+        },
+        {
+          "id": "name:rajesh kumar",
+          "name": "Rajesh Kumar"
+        }
+      ],
+      "venue": "Road Materials and Pavement Design",
+      "block_id": "rajan, choudhary",
+      "paper_id": "2887522605",
+      "mention_id": "lagos_and:31",
+      "raw_name": "Rajan Choudhary",
+      "coauthors": [
+        "Abhinay Kumar",
+        "Prithvi Singh Kandhal",
+        "Ashok Julaganti",
+        "Om Prakash Behera",
+        "Abhishek Singh",
+        "Rajesh Kumar"
+      ],
+      "institutions": [
+        "Department of Civil Engineering",
+        "Indian Institute of Technology Guwahati",
+        "Guwahati",
+        "India"
+      ],
+      "gold_person_id": "0000-0003-0901-5076"
+    },
+    "lagos_and:32": {
+      "id": "lagos_and:32",
+      "title": "Rheology of modified binders under varying doses of WMA additive\u2013Sasobit",
+      "year": 2017,
+      "authors": [
+        {
+          "id": "name:ashok julaganti",
+          "name": "Ashok Julaganti"
+        },
+        {
+          "id": "name:abhinay kumar",
+          "name": "Abhinay Kumar"
+        }
+      ],
+      "venue": "Petroleum Science and Technology",
+      "block_id": "rajan, choudhary",
+      "paper_id": "2752889927",
+      "mention_id": "lagos_and:32",
+      "raw_name": "Rajan Choudhary",
+      "coauthors": [
+        "Ashok Julaganti",
+        "Abhinay Kumar"
+      ],
+      "institutions": [
+        "Department of Civil Engineering",
+        "Indian Institute of Technology Guwahati (IIT Guwahati)",
+        "Guwahati",
+        "India"
+      ],
+      "gold_person_id": "0000-0003-0901-5076"
+    },
+    "lagos_and:33": {
+      "id": "lagos_and:33",
+      "title": "Use of industrial wastes as filler in open-graded friction courses",
+      "year": 2017,
+      "authors": [
+        {
+          "id": "name:dibyatonu chattopadhyay",
+          "name": "Dibyatonu Chattopadhyay"
+        },
+        {
+          "id": "name:abhinay kumar",
+          "name": "Abhinay Kumar"
+        },
+        {
+          "id": "name:ashok julaganti",
+          "name": "Ashok Julaganti"
+        }
+      ],
+      "venue": "Baltic Journal of Road and Bridge Engineering",
+      "block_id": "rajan, choudhary",
+      "paper_id": "2732999082",
+      "mention_id": "lagos_and:33",
+      "raw_name": "Rajan Choudhary",
+      "coauthors": [
+        "Dibyatonu Chattopadhyay",
+        "Abhinay Kumar",
+        "Ashok Julaganti"
+      ],
+      "institutions": [
+        "Indian Institute of Technology Guwahati"
+      ],
+      "gold_person_id": "0000-0003-0901-5076"
+    },
+    "lagos_and:34": {
+      "id": "lagos_and:34",
+      "title": "Characterization of Fly Ash Bituminous Concrete Mixes",
+      "year": 2010,
+      "authors": [
+        {
+          "id": "name:vishal sharma",
+          "name": "Vishal Sharma"
+        },
+        {
+          "id": "name:satish chandra",
+          "name": "Satish Chandra"
+        }
+      ],
+      "venue": "Journal of Materials in Civil Engineering",
+      "block_id": "rajan, choudhary",
+      "paper_id": "2111252946",
+      "mention_id": "lagos_and:34",
+      "raw_name": "Rajan Choudhary",
+      "coauthors": [
+        "Vishal Sharma",
+        "Satish Chandra"
+      ],
+      "institutions": [],
+      "gold_person_id": "0000-0003-0901-5076"
+    },
+    "lagos_and:35": {
+      "id": "lagos_and:35",
+      "title": "Moisture susceptibility of WMA mixes with modified bituminous binders",
+      "year": 2017,
+      "authors": [
+        {
+          "id": "name:ashok julaganti",
+          "name": "Ashok Julaganti"
+        },
+        {
+          "id": "name:abhinay kumar",
+          "name": "Abhinay Kumar"
+        }
+      ],
+      "venue": "Petroleum Science and Technology",
+      "block_id": "rajan, choudhary",
+      "paper_id": "2752461446",
+      "mention_id": "lagos_and:35",
+      "raw_name": "Rajan Choudhary",
+      "coauthors": [
+        "Ashok Julaganti",
+        "Abhinay Kumar"
+      ],
+      "institutions": [
+        "Department of Civil Engineering",
+        "Indian Institute of Technology Guwahati",
+        "Guwahati",
+        "India"
+      ],
+      "gold_person_id": "0000-0003-0901-5076"
+    },
+    "lagos_and:36": {
+      "id": "lagos_and:36",
+      "title": "Evaluation of Frictional Pavement Resistance as a Function of Aggregate Physical Properties",
+      "year": 2017,
+      "authors": [
+        {
+          "id": "name:madhu lisha pattanaik",
+          "name": "Madhu Lisha Pattanaik"
+        },
+        {
+          "id": "name:bimlesh kumar",
+          "name": "Bimlesh Kumar"
+        }
+      ],
+      "venue": "Journal of Transportation Engineering, Part B: Pavements",
+      "block_id": "rajan, choudhary",
+      "paper_id": "2734349632",
+      "mention_id": "lagos_and:36",
+      "raw_name": "Rajan Choudhary",
+      "coauthors": [
+        "Madhu Lisha Pattanaik",
+        "Bimlesh Kumar"
+      ],
+      "institutions": [],
+      "gold_person_id": "0000-0003-0901-5076"
+    },
+    "lagos_and:37": {
+      "id": "lagos_and:37",
+      "title": "Performance Characteristics of Bituminous Concrete with Industrial Wastes as Filler",
+      "year": 2013,
+      "authors": [
+        {
+          "id": "name:satish chandra",
+          "name": "Satish Chandra"
+        }
+      ],
+      "venue": "Journal of Materials in Civil Engineering",
+      "block_id": "rajan, choudhary",
+      "paper_id": "2049477047",
+      "mention_id": "lagos_and:37",
+      "raw_name": "Rajan Choudhary",
+      "coauthors": [
+        "Satish Chandra"
+      ],
+      "institutions": [],
+      "gold_person_id": "0000-0003-0901-5076"
+    },
+    "lagos_and:38": {
+      "id": "lagos_and:38",
+      "title": "Preparation of nanocrystalline forsterite by combustion of different fuels and their comparative in-vitro bioactivity, dissolution behaviour and antibacterial studies",
+      "year": 2017,
+      "authors": [
+        {
+          "id": "name:prasanth manohar",
+          "name": "Prasanth Manohar"
+        },
+        {
+          "id": "name:jana vecstaudza",
+          "name": "Jana Vecstaudza"
+        },
+        {
+          "id": "name:maria josefa y\u00e1\u00f1ez-gasc\u00f3n",
+          "name": "Maria Josefa Y\u00e1\u00f1ez-Gasc\u00f3n"
+        },
+        {
+          "id": "name:horacio p\u00e9rez s\u00e1nchez",
+          "name": "Horacio P\u00e9rez S\u00e1nchez"
+        },
+        {
+          "id": "name:ramesh nachimuthu",
+          "name": "Ramesh Nachimuthu"
+        },
+        {
+          "id": "name:janis locs",
+          "name": "Janis Locs"
+        },
+        {
+          "id": "name:sasikumar swamiappan",
+          "name": "Sasikumar Swamiappan"
+        }
+      ],
+      "venue": "Materials Science and Engineering: C",
+      "block_id": "rajan, choudhary",
+      "paper_id": "2599332721",
+      "mention_id": "lagos_and:38",
+      "raw_name": "Rajan Choudhary",
+      "coauthors": [
+        "Prasanth Manohar",
+        "Jana Vecstaudza",
+        "Maria Josefa Y\u00e1\u00f1ez-Gasc\u00f3n",
+        "Horacio P\u00e9rez S\u00e1nchez",
+        "Ramesh Nachimuthu",
+        "Janis Locs",
+        "Sasikumar Swamiappan"
+      ],
+      "institutions": [
+        "Department of Chemistry",
+        "School of Advanced Sciences",
+        "VIT University",
+        "Vellore 632014",
+        "Tamil Nadu",
+        "India"
+      ],
+      "gold_person_id": "0000-0001-6370-8071"
+    },
+    "lagos_and:39": {
+      "id": "lagos_and:39",
+      "title": "In vitro bioactivity studies of larnite and larnite/chitin composites prepared from biowaste for biomedical applications",
+      "year": 2016,
+      "authors": [
+        {
+          "id": "name:senthil kumar venkatraman",
+          "name": "Senthil Kumar Venkatraman"
+        },
+        {
+          "id": "name:anjali rana",
+          "name": "Anjali Rana"
+        },
+        {
+          "id": "name:sasikumar swamiappan",
+          "name": "Sasikumar Swamiappan"
+        }
+      ],
+      "venue": "Bulletin of Materials Science",
+      "block_id": "rajan, choudhary",
+      "paper_id": "2497579268",
+      "mention_id": "lagos_and:39",
+      "raw_name": "Rajan Choudhary",
+      "coauthors": [
+        "Senthil Kumar Venkatraman",
+        "Anjali Rana",
+        "Sasikumar Swamiappan"
+      ],
+      "institutions": [
+        "Department of Chemistry",
+        "School of Advanced Sciences",
+        "VIT University",
+        "Vellore",
+        "India"
+      ],
+      "gold_person_id": "0000-0001-6370-8071"
+    },
+    "lagos_and:40": {
+      "id": "lagos_and:40",
+      "title": "In-vitro bioactivity of nanocrystalline and bulk larnite/chitosan composites: comparative study",
+      "year": 2015,
+      "authors": [
+        {
+          "id": "name:sivasankar koppala",
+          "name": "Sivasankar Koppala"
+        },
+        {
+          "id": "name:aviral srivastava",
+          "name": "Aviral Srivastava"
+        },
+        {
+          "id": "name:swamiappan sasikumar",
+          "name": "Swamiappan Sasikumar"
+        }
+      ],
+      "venue": "Journal of Sol-Gel Science and Technology",
+      "block_id": "rajan, choudhary",
+      "paper_id": "2071996162",
+      "mention_id": "lagos_and:40",
+      "raw_name": "Rajan Choudhary",
+      "coauthors": [
+        "Sivasankar Koppala",
+        "Aviral Srivastava",
+        "Swamiappan Sasikumar"
+      ],
+      "institutions": [
+        "VIT University"
+      ],
+      "gold_person_id": "0000-0001-6370-8071"
+    },
+    "lagos_and:41": {
+      "id": "lagos_and:41",
+      "title": "Antibacterial forsterite (Mg 2 SiO 4 ) scaffold: A promising bioceramic for load bearing applications",
+      "year": 2018,
+      "authors": [
+        {
+          "id": "name:ankita chatterjee",
+          "name": "Ankita Chatterjee"
+        },
+        {
+          "id": "name:senthil kumar venkatraman",
+          "name": "Senthil Kumar Venkatraman"
+        },
+        {
+          "id": "name:sivasankar koppala",
+          "name": "Sivasankar Koppala"
+        },
+        {
+          "id": "name:jayanthi abraham",
+          "name": "Jayanthi Abraham"
+        },
+        {
+          "id": "name:sasikumar swamiappan",
+          "name": "Sasikumar Swamiappan"
+        }
+      ],
+      "venue": "Bioactive Materials",
+      "block_id": "rajan, choudhary",
+      "paper_id": "2796070571",
+      "mention_id": "lagos_and:41",
+      "raw_name": "Rajan Choudhary",
+      "coauthors": [
+        "Ankita Chatterjee",
+        "Senthil Kumar Venkatraman",
+        "Sivasankar Koppala",
+        "Jayanthi Abraham",
+        "Sasikumar Swamiappan"
+      ],
+      "institutions": [],
+      "gold_person_id": "0000-0001-6370-8071"
+    },
+    "lagos_and:42": {
+      "id": "lagos_and:42",
+      "title": "In-vitro bioactivity, biocompatibility and dissolution studies of diopside prepared from biowaste by using sol\u2013gel combustion method",
+      "year": 2016,
+      "authors": [
+        {
+          "id": "name:jana vecstaudza",
+          "name": "Jana Vecstaudza"
+        },
+        {
+          "id": "name:g. krishnamurithy",
+          "name": "G. Krishnamurithy"
+        },
+        {
+          "id": "name:hanumantha rao balaji raghavendran",
+          "name": "Hanumantha Rao Balaji Raghavendran"
+        },
+        {
+          "id": "name:malliga raman murali",
+          "name": "Malliga Raman Murali"
+        },
+        {
+          "id": "name:tunku kamarul",
+          "name": "Tunku Kamarul"
+        },
+        {
+          "id": "name:sasikumar swamiappan",
+          "name": "Sasikumar Swamiappan"
+        },
+        {
+          "id": "name:janis locs",
+          "name": "Janis Locs"
+        }
+      ],
+      "venue": "Materials Science and Engineering: C",
+      "block_id": "rajan, choudhary",
+      "paper_id": "2346299433",
+      "mention_id": "lagos_and:42",
+      "raw_name": "Rajan Choudhary",
+      "coauthors": [
+        "Jana Vecstaudza",
+        "G. Krishnamurithy",
+        "Hanumantha Rao Balaji Raghavendran",
+        "Malliga Raman Murali",
+        "Tunku Kamarul",
+        "Sasikumar Swamiappan",
+        "Janis Locs"
+      ],
+      "institutions": [
+        "Department of Chemistry",
+        "School of Advanced Sciences",
+        "VIT University",
+        "Vellore -632014",
+        "Tamil Nadu",
+        "India"
+      ],
+      "gold_person_id": "0000-0001-6370-8071"
+    },
+    "lagos_and:43": {
+      "id": "lagos_and:43",
+      "title": "Bioactivity studies of calcium magnesium silicate prepared from eggshell waste by sol-gel combustion synthesis",
+      "year": 2015,
+      "authors": [
+        {
+          "id": "name:sivasankar koppala",
+          "name": "Sivasankar Koppala"
+        },
+        {
+          "id": "name:sasikumar swamiappan",
+          "name": "Sasikumar Swamiappan"
+        }
+      ],
+      "venue": "Journal of Asian Ceramic Societies",
+      "block_id": "rajan, choudhary",
+      "paper_id": "2073466056",
+      "mention_id": "lagos_and:43",
+      "raw_name": "Rajan Choudhary",
+      "coauthors": [
+        "Sivasankar Koppala",
+        "Sasikumar Swamiappan"
+      ],
+      "institutions": [
+        "Materials Chemistry Division",
+        "School of Advanced Sciences",
+        "VIT University",
+        "Vellore 632014",
+        "Tamilnadu",
+        "India"
+      ],
+      "gold_person_id": "0000-0001-6370-8071"
+    },
+    "lagos_and:44": {
+      "id": "lagos_and:44",
+      "title": "A Fundamental Approach Toward Polymers and Polymer Composites: Current Trends for Biomedical Applications",
+      "year": 2019,
+      "authors": [
+        {
+          "id": "name:mohit saraswat",
+          "name": "Mohit Saraswat"
+        },
+        {
+          "id": "name:senthil kumar venkatraman",
+          "name": "Senthil Kumar Venkatraman"
+        }
+      ],
+      "venue": "",
+      "block_id": "rajan, choudhary",
+      "paper_id": "2914247716",
+      "mention_id": "lagos_and:44",
+      "raw_name": "Rajan Choudhary",
+      "coauthors": [
+        "Mohit Saraswat",
+        "Senthil Kumar Venkatraman"
+      ],
+      "institutions": [
+        "Vellore Institute of Technology"
+      ],
+      "gold_person_id": "0000-0001-6370-8071"
+    }
+  },
+  "author_id_to_label": {
+    "0000-0003-0901-5076": "0",
+    "0000-0001-6370-8071": "1"
+  }
+}

@@ -3,8 +3,8 @@ import pandas as pd
 import json
 
 # Connect to your Neo4j instance
-URI = "bolt://localhost:7687"
-AUTH = ("neo4j", "and123$$")   # replace with your credentials
+URI = "neo4j://127.0.0.1:7687"
+AUTH = ("neo4j", "JohnGoat1000")   # replace with your credentials
 driver = GraphDatabase.driver(URI, auth=AUTH)
 
 def export_clusters():

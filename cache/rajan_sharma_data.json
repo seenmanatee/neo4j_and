@@ -1,0 +1,123 @@
+{
+  "author_name": "rajan, sharma",
+  "author_data": {
+    "0000-0002-4474-5296": {
+      "id": "0000-0002-4474-5296",
+      "name": "Rajan Sharma",
+      "works": [
+        "lagos_and:106",
+        "lagos_and:107"
+      ]
+    },
+    "0000-0001-9766-8389": {
+      "id": "0000-0001-9766-8389",
+      "name": "Rajan Sharma",
+      "works": [
+        "lagos_and:108"
+      ]
+    }
+  },
+  "works_data": {
+    "lagos_and:106": {
+      "id": "lagos_and:106",
+      "title": "Correction to: Economic Evaluations of Childhood Hearing Loss Screening Programmes: A Systematic Review and Critique",
+      "year": 2019,
+      "authors": [
+        {
+          "id": "name:yuanyuan gu",
+          "name": "Yuanyuan Gu"
+        },
+        {
+          "id": "name:teresa y. c. ching",
+          "name": "Teresa Y. C. Ching"
+        },
+        {
+          "id": "name:vivienne marnane",
+          "name": "Vivienne Marnane"
+        },
+        {
+          "id": "name:bonny parkinson",
+          "name": "Bonny Parkinson"
+        }
+      ],
+      "venue": "Applied Health Economics and Health Policy",
+      "block_id": "rajan, sharma",
+      "paper_id": "2919648168",
+      "mention_id": "lagos_and:106",
+      "raw_name": "Rajan Sharma",
+      "coauthors": [
+        "Yuanyuan Gu",
+        "Teresa Y. C. Ching",
+        "Vivienne Marnane",
+        "Bonny Parkinson"
+      ],
+      "institutions": [],
+      "gold_person_id": "0000-0002-4474-5296"
+    },
+    "lagos_and:107": {
+      "id": "lagos_and:107",
+      "title": "Prevalence of Intestinal Parasitosis Among School Children in Baglung District of Western Nepal",
+      "year": 2012,
+      "authors": [
+        {
+          "id": "name:shrestha a",
+          "name": "Shrestha A"
+        },
+        {
+          "id": "name:kc narayan",
+          "name": "Kc Narayan"
+        }
+      ],
+      "venue": "Kathmandu University Medical Journal",
+      "block_id": "rajan, sharma",
+      "paper_id": "2134857894",
+      "mention_id": "lagos_and:107",
+      "raw_name": "Sharma R",
+      "coauthors": [
+        "Shrestha A",
+        "Kc Narayan"
+      ],
+      "institutions": [
+        "Institute of Medicine",
+        "Maharajgunj Campus",
+        "#R##N#Tribhuwan Univeristy"
+      ],
+      "gold_person_id": "0000-0002-4474-5296"
+    },
+    "lagos_and:108": {
+      "id": "lagos_and:108",
+      "title": "Potato Cereal Extrudates: Chemical Composition, Functional Properties, in vitro Digestibility and Consumer Acceptability",
+      "year": 2018,
+      "authors": [
+        {
+          "id": "name:savita sharma",
+          "name": "Savita Sharma"
+        },
+        {
+          "id": "name:baljit singh",
+          "name": "Baljit Singh"
+        },
+        {
+          "id": "name:gurkirat kaur",
+          "name": "Gurkirat Kaur"
+        }
+      ],
+      "venue": "Journal of Nutrition and Food Sciences",
+      "block_id": "rajan, sharma",
+      "paper_id": "2888475587",
+      "mention_id": "lagos_and:108",
+      "raw_name": "Rajan Sharma",
+      "coauthors": [
+        "Savita Sharma",
+        "Baljit Singh",
+        "Gurkirat Kaur"
+      ],
+      "institutions": [],
+      "gold_person_id": "0000-0001-9766-8389"
+    }
+  },
+  "author_id_to_label": {
+    "0000-0002-4474-5296": "0",
+    "0000-0001-9766-8389": "1"
+  }
+}
