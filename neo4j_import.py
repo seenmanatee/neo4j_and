@@ -613,7 +613,7 @@ def main(URI, USER, PASSWORD, DB, PATH):
 
     pairs = imp.cotitle_pairs_tfidf()
     imp.add_cotitle_edge_from_pairs(pairs)
-    min_overlap = 0.5
+    min_overlap = 0.3
     imp.add_shared_references_edge(min_overlap)
     imp.add_coauthor_overlap_edge(min_overlap)
     imp.add_research_field_edge(min_overlap)
@@ -629,6 +629,6 @@ if __name__ == "__main__":
     USER = "neo4j"
     PASSWORD = "JohnGoat1000"
     DB = "neo4j"
-    PATH = "/Users/seanmaniti/name_disam_exp/neo4j_and/cache/combined_data.json"
+    PATH = "/Users/seanmaniti/name_disam_exp/cache/Koji Yasutomo_data.json"  #FILE EDIT HERE
 
     main(URI, USER, PASSWORD, DB, PATH)

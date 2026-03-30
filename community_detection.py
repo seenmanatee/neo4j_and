@@ -107,7 +107,7 @@ def run_leiden(G: nx.Graph, resolution: float = 1.0, seed: int = 42):
 
     # Build igraph from NetworkX
     edges = [(index_of[u], index_of[v]) for u, v in G.edges()]
-    weights = [float(G[u][v].get("weight", 1.0)) for u, v in G.edges()]
+    weights = [float(G[u][v].get("weight", 1.0)) for u, v in G.edges()] #HEREE
     g = ig.Graph(n=len(nodes), edges=edges, directed=False)
     g.es["weight"] = weights
 
@@ -167,6 +167,7 @@ def main() -> None:
         print(f"Leiden quality: {quality:.4f}")
 
     output_path = Path(args.output)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
     write_predictions(partition, output_path)
     print(f"Wrote predictions to {output_path}")
 

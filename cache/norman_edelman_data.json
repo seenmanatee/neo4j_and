@@ -1,0 +1,551 @@
+{
+  "author_name": "norman_edelman",
+  "author_data": {
+    "gold_person_1": {
+      "id": "gold_person_1",
+      "name": "Norman Edelman",
+      "works": [
+        "mini_physci:norman_edelman:W4244763863",
+        "mini_physci:norman_edelman:W2570497775:A5103913440",
+        "mini_physci:norman_edelman:W2092126221:A5103913440",
+        "mini_physci:norman_edelman:W2141274782:A5103913440",
+        "mini_physci:norman_edelman:W3122262462:A5103913440",
+        "mini_physci:norman_edelman:W2147848153:A5103913440",
+        "mini_physci:norman_edelman:W2026993441:A5103913440",
+        "mini_physci:norman_edelman:W2122352579:A5103913440"
+      ]
+    },
+    "gold_person_2": {
+      "id": "gold_person_2",
+      "name": "Norman H. Edelman",
+      "works": [
+        "mini_physci:norman_edelman:W1963739847:A5103913440"
+      ]
+    }
+  },
+  "works_data": {
+    "mini_physci:norman_edelman:W4244763863": {
+      "id": "mini_physci:norman_edelman:W4244763863",
+      "title": "Design of Pneumogram for Chronic Obstructive Pulmonary Disease Diagnosis",
+      "year": 2019,
+      "authors": [
+        {
+          "id": "name:d.k. ravish",
+          "name": "D.K. Ravish"
+        },
+        {
+          "id": "name:k. shanthi",
+          "name": "K. Shanthi"
+        },
+        {
+          "id": "name:nayana r. shenoy",
+          "name": "Nayana R. Shenoy"
+        },
+        {
+          "id": "name:s min",
+          "name": "S Min"
+        },
+        {
+          "id": "name:j kim",
+          "name": "J Kim"
+        },
+        {
+          "id": "name:h shin",
+          "name": "H Shin"
+        },
+        {
+          "id": "name:y yun",
+          "name": "Y Yun"
+        },
+        {
+          "id": "name:c lee",
+          "name": "C Lee"
+        },
+        {
+          "id": "name:m lee",
+          "name": "M Lee"
+        },
+        {
+          "id": "name:prabhu rajkumar",
+          "name": "Prabhu Rajkumar"
+        },
+        {
+          "id": "name:kamaraj pattabi",
+          "name": "Kamaraj Pattabi"
+        },
+        {
+          "id": "name:arvind selaraj",
+          "name": "Arvind Selaraj"
+        },
+        {
+          "id": "name:mill bhome",
+          "name": "Mill Bhome"
+        },
+        {
+          "id": "name:prashanta brashier",
+          "name": "Prashanta Brashier"
+        },
+        {
+          "id": "name:bhattacharya",
+          "name": "Bhattacharya"
+        },
+        {
+          "id": "name:m sanjay",
+          "name": "M Sanjay"
+        },
+        {
+          "id": "name:mehendale",
+          "name": "Mehendale"
+        },
+        {
+          "id": "name:jacome",
+          "name": "Jacome"
+        },
+        {
+          "id": "name:marques oliveira",
+          "name": "Marques Oliveira"
+        },
+        {
+          "id": "name:shih-hong li",
+          "name": "Shih-Hong Li"
+        },
+        {
+          "id": "name:bor-shing lin 2",
+          "name": "Bor-Shing Lin 2"
+        },
+        {
+          "id": "name:chen-han tsai",
+          "name": "Chen-Han Tsai"
+        },
+        {
+          "id": "name:cheng-ta yang",
+          "name": "Cheng-Ta Yang"
+        },
+        {
+          "id": "name:bor-shyh lin",
+          "name": "Bor-Shyh Lin"
+        },
+        {
+          "id": "name:c matiz",
+          "name": "C Matiz"
+        },
+        {
+          "id": "name:c",
+          "name": "C"
+        },
+        {
+          "id": "name:n olarte",
+          "name": "N Olarte"
+        },
+        {
+          "id": "name:l",
+          "name": "L"
+        },
+        {
+          "id": "name:a rubiano",
+          "name": "A Rubiano"
+        },
+        {
+          "id": "name:f",
+          "name": "F"
+        },
+        {
+          "id": "name:robert beckerman",
+          "name": "Robert Beckerman"
+        },
+        {
+          "id": "name:michael wegmann",
+          "name": "Michael Wegmann"
+        },
+        {
+          "id": "name:jo rae wright",
+          "name": "Jo Rae Wright"
+        },
+        {
+          "id": "name:gerald turino",
+          "name": "Gerald Turino"
+        },
+        {
+          "id": "name:james sheller",
+          "name": "James Sheller"
+        },
+        {
+          "id": "name:judy neubauer",
+          "name": "Judy Neubauer"
+        },
+        {
+          "id": "name:steven kunkel",
+          "name": "Steven Kunkel"
+        },
+        {
+          "id": "name:karen fulton",
+          "name": "Karen Fulton"
+        },
+        {
+          "id": "name:david earle",
+          "name": "David Earle"
+        },
+        {
+          "id": "name:nancy dunlap",
+          "name": "Nancy Dunlap"
+        },
+        {
+          "id": "name:christine cannon",
+          "name": "Christine Cannon"
+        },
+        {
+          "id": "name:leena pekka malmberg",
+          "name": "Leena Pekka Malmberg"
+        },
+        {
+          "id": "name:pesu",
+          "name": "Pesu"
+        },
+        {
+          "id": "name:r a anssi",
+          "name": "R A Anssi"
+        },
+        {
+          "id": "name:sovijarvi",
+          "name": "Sovijarvi"
+        },
+        {
+          "id": "name:kentaro ouchi",
+          "name": "Kentaro Ouchi"
+        },
+        {
+          "id": "name:k amit",
+          "name": "K Amit"
+        },
+        {
+          "id": "name:gupta",
+          "name": "Gupta"
+        },
+        {
+          "id": "name:k madhav",
+          "name": "K Madhav"
+        },
+        {
+          "id": "name:m ram",
+          "name": "M Ram"
+        },
+        {
+          "id": "name:e krishna",
+          "name": "E Krishna"
+        },
+        {
+          "id": "name:n komalla",
+          "name": "N Komalla"
+        },
+        {
+          "id": "name:k reddy",
+          "name": "K Reddy"
+        }
+      ],
+      "venue": "International Journal of Engineering and Advanced Technology",
+      "block_id": "norman_edelman",
+      "paper_id": "W4244763863",
+      "mention_id": "mini_physci:norman_edelman:W4244763863",
+      "raw_name": "Norman Edelman",
+      "coauthors": [
+        "D.K. Ravish",
+        "K. Shanthi",
+        "Nayana R. Shenoy",
+        "S Min",
+        "J Kim",
+        "H Shin",
+        "Y Yun",
+        "C Lee",
+        "M Lee",
+        "Prabhu Rajkumar",
+        "Kamaraj Pattabi",
+        "Arvind Selaraj",
+        "Mill Bhome",
+        "Prashanta Brashier",
+        "Bhattacharya",
+        "M Sanjay",
+        "Mehendale",
+        "Jacome",
+        "Marques Oliveira",
+        "Shih-Hong Li",
+        "Bor-Shing Lin 2",
+        "Chen-Han Tsai",
+        "Cheng-Ta Yang",
+        "Bor-Shyh Lin",
+        "C Matiz",
+        "C",
+        "N Olarte",
+        "L",
+        "A Rubiano",
+        "F",
+        "Robert Beckerman",
+        "Michael Wegmann",
+        "Jo Rae Wright",
+        "Gerald Turino",
+        "James Sheller",
+        "Judy Neubauer",
+        "Steven Kunkel",
+        "Karen Fulton",
+        "David Earle",
+        "Nancy Dunlap",
+        "Christine Cannon",
+        "Leena Pekka Malmberg",
+        "Pesu",
+        "R A Anssi",
+        "Sovijarvi",
+        "Kentaro Ouchi",
+        "K Amit",
+        "Gupta",
+        "K Madhav",
+        "M Ram",
+        "E Krishna",
+        "N Komalla",
+        "K Reddy"
+      ],
+      "institutions": [],
+      "gold_person_id": "gold_person_1"
+    },
+    "mini_physci:norman_edelman:W2570497775:A5103913440": {
+      "id": "mini_physci:norman_edelman:W2570497775:A5103913440",
+      "title": "Inverse relationship between nonadherence to original GOLD treatment guidelines and exacerbations of COPD",
+      "year": 2017,
+      "authors": [
+        {
+          "id": "name:hussein d. foda",
+          "name": "Hussein D. Foda"
+        },
+        {
+          "id": "name:anthony brehm",
+          "name": "Anthony Brehm"
+        },
+        {
+          "id": "name:karen goldsteen",
+          "name": "Karen Goldsteen"
+        }
+      ],
+      "venue": "International Journal of COPD",
+      "block_id": "norman_edelman",
+      "paper_id": "W2570497775",
+      "mention_id": "mini_physci:norman_edelman:W2570497775:A5103913440",
+      "raw_name": "Norman H. Edelman",
+      "coauthors": [
+        "Hussein D. Foda",
+        "Anthony Brehm",
+        "Karen Goldsteen"
+      ],
+      "institutions": [
+        "University Medical Center",
+        "Stony Brook University Hospital"
+      ],
+      "gold_person_id": "gold_person_1"
+    },
+    "mini_physci:norman_edelman:W2092126221:A5103913440": {
+      "id": "mini_physci:norman_edelman:W2092126221:A5103913440",
+      "title": "Venoarterial Extracorporeal Membrane Oxygenation in Adults With Cardiac Arrest",
+      "year": 2015,
+      "authors": [
+        {
+          "id": "name:jignesh patel",
+          "name": "Jignesh Patel"
+        },
+        {
+          "id": "name:elinor schoenfeld",
+          "name": "Elinor Schoenfeld"
+        },
+        {
+          "id": "name:sam parnia",
+          "name": "Sam Parnia"
+        },
+        {
+          "id": "name:adam j. singer",
+          "name": "Adam J. Singer"
+        }
+      ],
+      "venue": "Journal of Intensive Care Medicine",
+      "block_id": "norman_edelman",
+      "paper_id": "W2092126221",
+      "mention_id": "mini_physci:norman_edelman:W2092126221:A5103913440",
+      "raw_name": "Norman H. Edelman",
+      "coauthors": [
+        "Jignesh Patel",
+        "Elinor Schoenfeld",
+        "Sam Parnia",
+        "Adam J. Singer"
+      ],
+      "institutions": [
+        "Stony Brook University Hospital"
+      ],
+      "gold_person_id": "gold_person_1"
+    },
+    "mini_physci:norman_edelman:W1963739847:A5103913440": {
+      "id": "mini_physci:norman_edelman:W1963739847:A5103913440",
+      "title": "Relationships Between GOLD Staging, Outcomes, and Treatment Decisions for COPD at an Academic Department of Veterans Affairs (VA) Hospital",
+      "year": 2011,
+      "authors": [
+        {
+          "id": "name:hussein d. foda",
+          "name": "Hussein D. Foda"
+        },
+        {
+          "id": "name:karen goldsteen",
+          "name": "Karen Goldsteen"
+        },
+        {
+          "id": "name:raymond l. goldsteen",
+          "name": "Raymond L. Goldsteen"
+        }
+      ],
+      "venue": "CHEST Journal",
+      "block_id": "norman_edelman",
+      "paper_id": "W1963739847",
+      "mention_id": "mini_physci:norman_edelman:W1963739847:A5103913440",
+      "raw_name": "Norman H. Edelman",
+      "coauthors": [
+        "Hussein D. Foda",
+        "Karen Goldsteen",
+        "Raymond L. Goldsteen"
+      ],
+      "institutions": [],
+      "gold_person_id": "gold_person_2"
+    },
+    "mini_physci:norman_edelman:W2141274782:A5103913440": {
+      "id": "mini_physci:norman_edelman:W2141274782:A5103913440",
+      "title": "Improving Asthma Outcomes: Evidence-Based Health Policy Priorities",
+      "year": 2009,
+      "authors": [
+        {
+          "id": "name:katherine pruitt",
+          "name": "Katherine Pruitt"
+        },
+        {
+          "id": "name:janice nolen",
+          "name": "Janice Nolen"
+        },
+        {
+          "id": "name:kirema garcia-reyes",
+          "name": "Kirema Garcia-Reyes"
+        },
+        {
+          "id": "name:neil schachter",
+          "name": "Neil Schachter"
+        }
+      ],
+      "venue": "Pediatric Asthma Allergy & Immunology",
+      "block_id": "norman_edelman",
+      "paper_id": "W2141274782",
+      "mention_id": "mini_physci:norman_edelman:W2141274782:A5103913440",
+      "raw_name": "Norman H. Edelman",
+      "coauthors": [
+        "Katherine Pruitt",
+        "Janice Nolen",
+        "Kirema Garcia-Reyes",
+        "Neil Schachter"
+      ],
+      "institutions": [],
+      "gold_person_id": "gold_person_1"
+    },
+    "mini_physci:norman_edelman:W3122262462:A5103913440": {
+      "id": "mini_physci:norman_edelman:W3122262462:A5103913440",
+      "title": "The Cost of Primary Care Doctors",
+      "year": 2009,
+      "authors": [
+        {
+          "id": "name:sherry glied",
+          "name": "Sherry Glied"
+        },
+        {
+          "id": "name:ashwin prabhu",
+          "name": "Ashwin Prabhu"
+        }
+      ],
+      "venue": "Forum for Health Economics & Policy",
+      "block_id": "norman_edelman",
+      "paper_id": "W3122262462",
+      "mention_id": "mini_physci:norman_edelman:W3122262462:A5103913440",
+      "raw_name": "Norman H. Edelman",
+      "coauthors": [
+        "Sherry Glied",
+        "Ashwin Prabhu"
+      ],
+      "institutions": [
+        "State University of New York",
+        "Stony Brook University",
+        "Columbia University"
+      ],
+      "gold_person_id": "gold_person_1"
+    },
+    "mini_physci:norman_edelman:W2147848153:A5103913440": {
+      "id": "mini_physci:norman_edelman:W2147848153:A5103913440",
+      "title": "The Cost of Primary Care Doctors",
+      "year": 2008,
+      "authors": [
+        {
+          "id": "name:sherry glied",
+          "name": "Sherry Glied"
+        },
+        {
+          "id": "name:ashwin prabhu",
+          "name": "Ashwin Prabhu"
+        }
+      ],
+      "venue": "National Bureau of Economic Research",
+      "block_id": "norman_edelman",
+      "paper_id": "W2147848153",
+      "mention_id": "mini_physci:norman_edelman:W2147848153:A5103913440",
+      "raw_name": "Norman H. Edelman",
+      "coauthors": [
+        "Sherry Glied",
+        "Ashwin Prabhu"
+      ],
+      "institutions": [
+        "National Bureau of Economic Research",
+        "Stony Brook University",
+        "Columbia University"
+      ],
+      "gold_person_id": "gold_person_1"
+    },
+    "mini_physci:norman_edelman:W2026993441:A5103913440": {
+      "id": "mini_physci:norman_edelman:W2026993441:A5103913440",
+      "title": "Considerable Progress in Protecting People from Secondhand Smoke",
+      "year": 2007,
+      "authors": [],
+      "venue": "American Journal of Respiratory and Critical Care Medicine",
+      "block_id": "norman_edelman",
+      "paper_id": "W2026993441",
+      "mention_id": "mini_physci:norman_edelman:W2026993441:A5103913440",
+      "raw_name": "Norman H. Edelman",
+      "coauthors": [],
+      "institutions": [
+        "American Lung Association"
+      ],
+      "gold_person_id": "gold_person_1"
+    },
+    "mini_physci:norman_edelman:W2122352579:A5103913440": {
+      "id": "mini_physci:norman_edelman:W2122352579:A5103913440",
+      "title": "Research Fellowships in Pulmonary and Critical Care",
+      "year": 2002,
+      "authors": [
+        {
+          "id": "name:j. kirkwood",
+          "name": "J. Kirkwood"
+        }
+      ],
+      "venue": "CHEST Journal",
+      "block_id": "norman_edelman",
+      "paper_id": "W2122352579",
+      "mention_id": "mini_physci:norman_edelman:W2122352579:A5103913440",
+      "raw_name": "Norman H. Edelman",
+      "coauthors": [
+        "J. Kirkwood"
+      ],
+      "institutions": [
+        "American Lung Association"
+      ],
+      "gold_person_id": "gold_person_1"
+    }
+  },
+  "author_id_to_label": {
+    "gold_person_1": "0",
+    "gold_person_2": "1"
+  }
+}
