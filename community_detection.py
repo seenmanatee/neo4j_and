@@ -5,15 +5,14 @@ import json
 from pathlib import Path
 
 from neo4j import GraphDatabase
+from neo4j.exceptions import Neo4jError
 import networkx as nx
 
-# Louvain (python-louvain)
 try:
     import community as community_louvain  # pip install python-louvain
 except Exception:
     community_louvain = None
 
-# Leiden (igraph + leidenalg)
 try:
     import igraph as ig
     import leidenalg as la
@@ -22,111 +21,192 @@ except Exception:
     la = None
 
 
-def load_pub_graph_from_neo4j(uri, user, password, db,
-                              coauthor_scale: float = 1.0,
-                              covenue_scale: float = 1.0,
-                              cotitle_scale: float = 1.2,
-                              use_log_coauthor: bool = True) -> nx.Graph:
+def load_pub_graph_from_neo4j(uri, user, password, db) -> nx.Graph:
     """
-    Build a weighted, undirected NetworkX graph from Neo4j PUBLICATION relationships.
-
-    Weights:
-      - COAUTHOR: coauthor_scale * (log(1 + weight) if use_log_coauthor else weight; defaults to 1.0 if missing)
-      - COVENUE : covenue_scale * 1.0 (if r.weight is null or 0) else r.weight
-      - COTITLE : cotitle_scale * coalesce(r.similarity, 0.0)
+    Build a weighted, undirected NetworkX graph from `SIMILAR.weight`.
     """
     driver = GraphDatabase.driver(uri, auth=(user, password))
-
-    q = """
-    MATCH (p1:PUBLICATION)-[r:COAUTHOR|COVENUE|COTITLE]-(p2:PUBLICATION)
-    WITH p1.id AS a, p2.id AS b, type(r) AS t, r
-    WITH a, b, t, r,
-         CASE
-           WHEN t = 'COAUTHOR' THEN $coauthorScale *
-                CASE
-                  WHEN r.weight IS NULL THEN 1.0
-                  ELSE (CASE WHEN $useLog THEN log(1 + toFloat(r.weight))
-                             ELSE toFloat(r.weight) END)
-                END
-           WHEN t = 'COVENUE'  THEN $covenueScale *
-                CASE
-                  WHEN r.weight IS NULL OR toFloat(r.weight) = 0 THEN 1.0
-                  ELSE toFloat(r.weight)
-                END
-           WHEN t = 'COTITLE'  THEN $cotitleScale * coalesce(toFloat(r.similarity), 0.0)
-           ELSE 0.0
-         END AS w
-    RETURN a, b, w
+    query = """
+    MATCH (p1:PUBLICATION)-[r:SIMILAR]-(p2:PUBLICATION)
+    RETURN p1.id AS a, p2.id AS b, coalesce(toFloat(r.weight), 0.0) AS w
     """
 
-    G = nx.Graph()
+    graph = nx.Graph()
     with driver.session(database=db) as session:
-        for rec in session.run(q,
-                               coauthorScale=coauthor_scale,
-                               covenueScale=covenue_scale,
-                               cotitleScale=cotitle_scale,
-                               useLog=use_log_coauthor):
-            a, b, w = rec["a"], rec["b"], float(rec["w"])
-            if not a or not b or a == b or w <= 0.0:
+        for record in session.run(query):
+            a, b, weight = record["a"], record["b"], float(record["w"])
+            if not a or not b or a == b or weight <= 0.0:
                 continue
-            if G.has_edge(a, b):
-                G[a][b]["weight"] += w
+            if graph.has_edge(a, b):
+                graph[a][b]["weight"] += weight
             else:
-                G.add_edge(a, b, weight=w)
+                graph.add_edge(a, b, weight=weight)
     driver.close()
-    return G
+    return graph
 
 
-def run_louvain(G: nx.Graph, resolution: float = 1.0, seed: int = 42):
-    """
-    Run Louvain on a NetworkX graph.
-    Returns:
-      (partition_dict, modularity)
-    """
+def run_louvain(graph: nx.Graph, resolution: float = 1.0, seed: int = 42):
     if community_louvain is None:
         raise RuntimeError("python-louvain not installed. `pip install python-louvain`")
-    part = community_louvain.best_partition(G, weight="weight",
-                                            resolution=resolution,
-                                            random_state=seed)
-    Q = community_louvain.modularity(part, G, weight="weight")
-    return part, Q
+    partition = community_louvain.best_partition(
+        graph,
+        weight="weight",
+        resolution=resolution,
+        random_state=seed,
+    )
+    modularity = community_louvain.modularity(partition, graph, weight="weight")
+    return partition, modularity
 
 
-def run_leiden(G: nx.Graph, resolution: float = 1.0, seed: int = 42):
-    """
-    Run Leiden (CPM objective) on a NetworkX graph.
-    Returns:
-      (partition_dict, quality)
-    """
+def run_leiden(graph: nx.Graph, resolution: float = 1.0, seed: int = 42):
     if ig is None or la is None:
         raise RuntimeError("Leiden not installed. `pip install python-igraph leidenalg`")
 
-    # Map NetworkX nodes -> indices
-    nodes = list(G.nodes())
-    index_of = {n: i for i, n in enumerate(nodes)}
+    nodes = list(graph.nodes())
+    index_of = {node_id: index for index, node_id in enumerate(nodes)}
+    edges = [(index_of[u], index_of[v]) for u, v in graph.edges()]
+    weights = [float(graph[u][v].get("weight", 1.0)) for u, v in graph.edges()]
 
-    # Build igraph from NetworkX
-    edges = [(index_of[u], index_of[v]) for u, v in G.edges()]
-    weights = [float(G[u][v].get("weight", 1.0)) for u, v in G.edges()] #HEREE
-    g = ig.Graph(n=len(nodes), edges=edges, directed=False)
-    g.es["weight"] = weights
+    ig_graph = ig.Graph(n=len(nodes), edges=edges, directed=False)
+    ig_graph.es["weight"] = weights
 
-    # Leiden with Constant Potts Model (CPM) resolution parameter
-    part = la.find_partition(
-        g,
-        la.CPMVertexPartition,
-        weights=g.es["weight"],
+    partition = la.find_partition(
+        ig_graph,
+        la.RBConfigurationVertexPartition,
+        weights=ig_graph.es["weight"],
         resolution_parameter=resolution,
-        seed=seed
+        seed=seed,
     )
-    membership = part.membership
-    partition = {nodes[i]: int(membership[i]) for i in range(len(nodes))}
-    quality = part.quality()
-    return partition, quality
+    membership = partition.membership
+    node_partition = {nodes[i]: int(membership[i]) for i in range(len(nodes))}
+    return node_partition, partition.quality()
+
+
+def _drop_graph_if_exists(driver, db: str, graph_name: str) -> None:
+    with driver.session(database=db) as session:
+        try:
+            session.run(
+                "CALL gds.graph.drop($graph_name, false) YIELD graphName RETURN graphName",
+                graph_name=graph_name,
+            ).consume()
+        except Neo4jError as error:
+            message = str(error)
+            if (
+                "procedure.procedurenotfound" in message.lower()
+                or "no such procedure" in message.lower()
+                or "not found" in message.lower()
+                or "does not exist" in message.lower()
+            ):
+                return
+            raise
+
+
+def _gds_available(driver, db: str) -> bool:
+    with driver.session(database=db) as session:
+        try:
+            record = session.run(
+                """
+                SHOW PROCEDURES
+                YIELD name
+                WHERE name IN ['gds.graph.project', 'gds.leiden.write']
+                RETURN count(*) AS procedure_count
+                """
+            ).single()
+            return bool(record and int(record["procedure_count"]) >= 2)
+        except Neo4jError:
+            return False
+
+
+def run_gds_leiden(
+    uri: str,
+    user: str,
+    password: str,
+    db: str,
+    graph_name: str,
+    write_property: str,
+    seed: int,
+):
+    """
+    Project `SIMILAR` as an undirected weighted graph and run GDS Leiden.
+    """
+    driver = GraphDatabase.driver(uri, auth=(user, password))
+    try:
+        if not _gds_available(driver, db):
+            raise RuntimeError(
+                "Neo4j GDS procedures are not available on this database instance. "
+                "Falling back requires local Leiden (`python-igraph` + `leidenalg`) instead."
+            )
+        _drop_graph_if_exists(driver, db, graph_name)
+
+        project_query = """
+        CALL gds.graph.project(
+            $graph_name,
+            'PUBLICATION',
+            {
+                SIMILAR: {
+                    orientation: 'UNDIRECTED',
+                    properties: 'weight'
+                }
+            }
+        )
+        YIELD graphName, nodeCount, relationshipCount
+        RETURN graphName, nodeCount, relationshipCount
+        """
+        leiden_query = """
+        CALL gds.leiden.write(
+            $graph_name,
+            {
+                writeProperty: $write_property,
+                relationshipWeightProperty: 'weight',
+                randomSeed: $seed
+            }
+        )
+        YIELD communityCount, modularity, modularities, ranLevels, nodePropertiesWritten
+        RETURN communityCount, modularity, modularities, ranLevels, nodePropertiesWritten
+        """
+        predictions_query = """
+        MATCH (p:PUBLICATION)
+        WHERE p[$write_property] IS NOT NULL
+        RETURN p.id AS node_id, toString(p[$write_property]) AS cluster_id
+        ORDER BY node_id
+        """
+
+        with driver.session(database=db) as session:
+            projection_stats = session.run(project_query, graph_name=graph_name).single()
+            leiden_stats = session.run(
+                leiden_query,
+                graph_name=graph_name,
+                write_property=write_property,
+                seed=seed,
+            ).single()
+            predictions = {
+                record["node_id"]: record["cluster_id"]
+                for record in session.run(predictions_query, write_property=write_property)
+            }
+        
+        return predictions, {
+            "graphName": projection_stats["graphName"],
+            "nodeCount": projection_stats["nodeCount"],
+            "relationshipCount": projection_stats["relationshipCount"],
+            "communityCount": leiden_stats["communityCount"],
+            "modularity": leiden_stats["modularity"],
+            "modularities": leiden_stats["modularities"],
+            "ranLevels": leiden_stats["ranLevels"],
+            "nodePropertiesWritten": leiden_stats["nodePropertiesWritten"],
+        }
+    except Neo4jError as error:
+        raise RuntimeError(
+            "GDS Leiden failed. Confirm the Neo4j Graph Data Science plugin is installed "
+            "and that the `SIMILAR.weight` relationships exist."
+        ) from error
+    finally:
+        try:
+            _drop_graph_if_exists(driver, db, graph_name)
+        finally:
+            driver.close()
 
 
 def write_predictions(partition: dict, output_path: Path) -> None:
-    # Emit mention_id/pred_cluster_id JSONL for evaluate_b3.py.
     with output_path.open("w", encoding="utf-8") as handle:
         for node_id, cluster_id in partition.items():
             handle.write(
@@ -144,27 +224,53 @@ def main() -> None:
     parser.add_argument("--user", default="neo4j", help="Neo4j username")
     parser.add_argument("--password", default="JohnGoat1000", help="Neo4j password")
     parser.add_argument("--db", default="neo4j", help="Neo4j database name")
-    parser.add_argument("--method", default="leiden", choices=["leiden", "louvain"], help="Clustering method")
-    parser.add_argument("--resolution", type=float, default=1.0, help="Resolution parameter")
+    parser.add_argument(
+        "--method",
+        default="leiden",
+        choices=["gds-leiden", "leiden", "louvain"],
+        help="Clustering method",
+    )
+    parser.add_argument("--resolution", type=float, default=1.0, help="Resolution parameter for local algorithms")
     parser.add_argument("--seed", type=int, default=42, help="Random seed")
     parser.add_argument("--output", default="pred_clusters.jsonl", help="Output JSONL path")
+    parser.add_argument("--graph-name", default="pubGraph", help="Temporary GDS in-memory graph name")
+    parser.add_argument("--write-property", default="communityId", help="Node property written by GDS Leiden")
     args = parser.parse_args()
 
-    G = load_pub_graph_from_neo4j(
-        args.uri,
-        args.user,
-        args.password,
-        args.db,
-    )
-
-    if args.method == "louvain":
-        partition, modularity = run_louvain(G, resolution=args.resolution, seed=args.seed)
-        print(f"Louvain partition size: {len(set(partition.values()))}")
-        print(f"Louvain modularity: {modularity:.4f}")
+    if args.method == "gds-leiden":
+        try:
+            partition, stats = run_gds_leiden(
+                args.uri,
+                args.user,
+                args.password,
+                args.db,
+                args.graph_name,
+                args.write_property,
+                args.seed,
+            )
+            print(f"GDS Leiden communities: {stats['communityCount']}")
+            print(f"GDS Leiden modularity: {stats['modularity']:.4f}")
+            print(
+                f"Projected graph: {stats['nodeCount']} nodes, "
+                f"{stats['relationshipCount']} undirected relationships"
+            )
+        except RuntimeError as error:
+            print(str(error))
+            print("Falling back to local Leiden over `SIMILAR.weight`.")
+            graph = load_pub_graph_from_neo4j(args.uri, args.user, args.password, args.db)
+            partition, quality = run_leiden(graph, resolution=args.resolution, seed=args.seed)
+            print(f"Leiden partition size: {len(set(partition.values()))}")
+            print(f"Leiden quality: {quality:.4f}")
     else:
-        partition, quality = run_leiden(G, resolution=args.resolution, seed=args.seed)
-        print(f"Leiden partition size: {len(set(partition.values()))}")
-        print(f"Leiden quality: {quality:.4f}")
+        graph = load_pub_graph_from_neo4j(args.uri, args.user, args.password, args.db)
+        if args.method == "louvain":
+            partition, modularity = run_louvain(graph, resolution=args.resolution, seed=args.seed)
+            print(f"Louvain partition size: {len(set(partition.values()))}")
+            print(f"Louvain modularity: {modularity:.4f}")
+        else:
+            partition, quality = run_leiden(graph, resolution=args.resolution, seed=args.seed)
+            print(f"Leiden partition size: {len(set(partition.values()))}")
+            print(f"Leiden quality: {quality:.4f}")
 
     output_path = Path(args.output)
     output_path.parent.mkdir(parents=True, exist_ok=True)
