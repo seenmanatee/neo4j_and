@@ -1,0 +1,562 @@
+{
+  "author_name": {
+    "name": "Joseph Bloomer",
+    "clusters_count": 2
+  },
+  "author_data": {
+    "bloomer_joseph_0": {
+      "id": "bloomer_joseph_0",
+      "ids": [
+        "A5108549221"
+      ],
+      "name": "Joseph R. Bloomer",
+      "name_first": "Joseph",
+      "name_middle": "R.",
+      "name_last": "Bloomer",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 36,
+      "works": [
+        "W2031067362",
+        "W2180660046",
+        "W1974125090",
+        "W2625865516",
+        "W2625138361",
+        "W2320516452",
+        "W2044518460",
+        "W2166660261",
+        "W2074193626",
+        "W2077280413",
+        "W2052425126",
+        "W4322697620",
+        "W185638079",
+        "W2045690727",
+        "W152918045",
+        "W1975088301",
+        "W1983056467",
+        "W2058399326",
+        "W2045008450",
+        "W1697423467",
+        "W2050492310",
+        "W875474728",
+        "W2153073992",
+        "W2049840301",
+        "W2111689173",
+        "W4211033277",
+        "W1786909161",
+        "W1770318599",
+        "W2004567585",
+        "W2972877043",
+        "W2912955494",
+        "W2965785954",
+        "W4409761595",
+        "W2897462486",
+        "W2018549815",
+        "W2057340046"
+      ]
+    },
+    "bloomer_joseph_1": {
+      "id": "bloomer_joseph_1",
+      "ids": [
+        "A5120656510"
+      ],
+      "name": "Joseph I. Bloomer",
+      "name_first": "Joseph",
+      "name_middle": "I.",
+      "name_last": "Bloomer",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 1,
+      "works": [
+        "W4416375576"
+      ]
+    }
+  },
+  "works_data": {
+    "W2031067362": {
+      "id": "W2031067362",
+      "title": "Recommendations for the Diagnosis and Treatment of the Acute Porphyrias",
+      "year": 2005,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "Annals of Internal Medicine",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W2180660046": {
+      "id": "W2180660046",
+      "title": "Afamelanotide for Erythropoietic Protoporphyria",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "New England Journal of Medicine",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W1974125090": {
+      "id": "W1974125090",
+      "title": "Acute Porphyrias in the USA: Features of 108\u00a0Subjects from Porphyrias Consortium",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "The American Journal of Medicine",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W2625865516": {
+      "id": "W2625865516",
+      "title": "Acute hepatic porphyrias: Recommendations for evaluation and long\u2010term management",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "Hepatology",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W2625138361": {
+      "id": "W2625138361",
+      "title": "Clinical, Biochemical, and Genetic Characterization of North American Patients With Erythropoietic Protoporphyria and X-linked Protoporphyria",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "JAMA Dermatology",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W2320516452": {
+      "id": "W2320516452",
+      "title": "Diabetes Mellitus Predicts Occurrence of Cirrhosis and Hepatocellular Cancer in Alcoholic Liver and Non-alcoholic Fatty Liver Diseases",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "Journal of Clinical and Translational Hepatology",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W2044518460": {
+      "id": "W2044518460",
+      "title": "Intermittent Unexplained Abdominal Pain: Is It Porphyria?",
+      "year": 2007,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "Clinical Gastroenterology and Hepatology",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W2166660261": {
+      "id": "W2166660261",
+      "title": "Heme synthetase deficiency in human protoporphyria. Demonstration of the defect in liver and cultured skin fibroblasts.",
+      "year": 1975,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "Journal of Clinical Investigation",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W2074193626": {
+      "id": "W2074193626",
+      "title": "Studies of bilirubin kinetics in normal adults",
+      "year": 1969,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "Journal of Clinical Investigation",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W2077280413": {
+      "id": "W2077280413",
+      "title": "Constitutional hepatic dysfunction (Gilbert's syndrome)",
+      "year": 1970,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "The American Journal of Medicine",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W2052425126": {
+      "id": "W2052425126",
+      "title": "Liver transplantation for erythropoietic protoporphyria liver disease",
+      "year": 2005,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "Liver Transplantation",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W4322697620": {
+      "id": "W4322697620",
+      "title": "Elevations in Skin Tissue Levels of Bile Acids in Human Cholestasis: Relation to Serum Levels and to Pruritus",
+      "year": 1977,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "Gastroenterology",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W185638079": {
+      "id": "W185638079",
+      "title": "Elevations in skin tissue levels of bile acids in human cholestasis: relation to serum levels and topruritus.",
+      "year": 1977,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "Munich Personal RePEc Archive (Ludwig Maximilian University of Munich)",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W2045690727": {
+      "id": "W2045690727",
+      "title": "The liver in protoporphyria",
+      "year": 1988,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "Hepatology",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W152918045": {
+      "id": "W152918045",
+      "title": "Loss-of-Function Ferrochelatase and Gain-of-Function Erythroid-Specific 5-Aminolevulinate Synthase Mutations Causing Erythropoietic Protoporphyria and X-Linked Protoporphyria in North American Patients Reveal Novel Mutations and a High Prevalence of X-Linked Protoporphyria",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "Molecular Medicine",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W1975088301": {
+      "id": "W1975088301",
+      "title": "Sequential Liver and Bone Marrow Transplantation for Treatment of Erythropoietic Protoporphyria",
+      "year": 2006,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "PEDIATRICS",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W1983056467": {
+      "id": "W1983056467",
+      "title": "Environmental chemical exposures and disturbances of heme synthesis.",
+      "year": 1997,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "Environmental Health Perspectives",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W2058399326": {
+      "id": "W2058399326",
+      "title": "Mortality in patients with acute intermittent porphyria requiring hospitalization: A United States case series",
+      "year": 1996,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "American Journal of Medical Genetics",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W2045008450": {
+      "id": "W2045008450",
+      "title": "Regulation of ferrochelatase gene expression by hypoxia",
+      "year": 2004,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "Life Sciences",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W1697423467": {
+      "id": "W1697423467",
+      "title": "Progressive bile duct injury after thiabendazole administration",
+      "year": 1987,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "Gastroenterology",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W2050492310": {
+      "id": "W2050492310",
+      "title": "Equivalent survival following liver transplantation in patients with non-alcoholic steatohepatitis compared with patients with other liver diseases",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "HPB",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W875474728": {
+      "id": "W875474728",
+      "title": "Autoimmune Markers Do Not Impact Clinical Presentation or Natural History of Steatohepatitis-Related Liver Disease",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "Digestive Diseases and Sciences",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W2153073992": {
+      "id": "W2153073992",
+      "title": "Racial differences in hepatitis C treatment eligibility",
+      "year": 2011,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "Hepatology",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W2049840301": {
+      "id": "W2049840301",
+      "title": "Liver metabolism of porphyrins and haem",
+      "year": 1998,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "Journal of Gastroenterology and Hepatology",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W2111689173": {
+      "id": "W2111689173",
+      "title": "Abnormal mitoferrin-1 expression in patients with erythropoietic protoporphyria",
+      "year": 2011,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "Experimental Hematology",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W4211033277": {
+      "id": "W4211033277",
+      "title": "The porphyrias",
+      "year": 1989,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "Disease-a-Month",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W1786909161": {
+      "id": "W1786909161",
+      "title": "Pitfalls in Erythrocyte Protoporphyrin Measurement for Diagnosis and Monitoring of Protoporphyrias",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "Clinical Chemistry",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W1770318599": {
+      "id": "W1770318599",
+      "title": "Enzymatic formation of zinc-protoporphyrin by rat liver and its potential effect on hepatic heme metabolism",
+      "year": 1983,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "Gastroenterology",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W2004567585": {
+      "id": "W2004567585",
+      "title": "Comparison of fecal urobilinogen excretion with bilirubin production in normal volunteers and patients with increased bilirubin production",
+      "year": 1970,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "Clinica Chimica Acta",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W2972877043": {
+      "id": "W2972877043",
+      "title": "Evaluating quality of life tools in North American patients with erythropoietic protoporphyria and X\u2010linked protoporphyria",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "JIMD Reports",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W2912955494": {
+      "id": "W2912955494",
+      "title": "Feasibility of cellular bioenergetics as a biomarker in porphyria patients",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "Molecular Genetics and Metabolism Reports",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W2965785954": {
+      "id": "W2965785954",
+      "title": "Results of a pilot study of isoniazid in patients with erythropoietic protoporphyria",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "Molecular Genetics and Metabolism",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W4409761595": {
+      "id": "W4409761595",
+      "title": "A Success Story: Breeding of Burrowing Petrels (procellariidae) Before and After the Extinction of Feral Cats Felis Catus at Subantarctic Marion Island",
+      "year": 1995,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "Marine ornithology",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W2897462486": {
+      "id": "W2897462486",
+      "title": "Strong correlation of ferrochelatase enzymatic activity with Mitoferrin-1 mRNA in lymphoblasts of patients with protoporphyria",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "Molecular Genetics and Metabolism",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W2018549815": {
+      "id": "W2018549815",
+      "title": "Liver Allograft Rejection : An Analysis of the Use of Biopsy in Determining Outcome of Rejection",
+      "year": 1987,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "The American Journal of Surgical Pathology",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W2057340046": {
+      "id": "W2057340046",
+      "title": "Canalicular Bile Secretion in Man STUDIES UTILIZING THE BILIARY CLEARANCE OF [14C]MANNITOL",
+      "year": 1974,
+      "authors": [
+        {
+          "name": "Joseph R. Bloomer",
+          "id": "A5108549221"
+        }
+      ],
+      "venue": "Journal of Clinical Investigation",
+      "gold_person_id": "bloomer_joseph_0"
+    },
+    "W4416375576": {
+      "id": "W4416375576",
+      "title": "Underrepresented Groups in Survey Data: Looking Into the Black Box of Selection on Unobservables",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Joseph I. Bloomer",
+          "id": "A5120656510"
+        }
+      ],
+      "venue": "SSRN Electronic Journal",
+      "gold_person_id": "bloomer_joseph_1"
+    }
+  }
+}

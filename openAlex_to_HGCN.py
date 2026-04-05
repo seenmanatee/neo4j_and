@@ -121,11 +121,16 @@ def fetch_author_data(author_name, max_results=200):
     print(f"Found {len(authors_data)} authors matching {author_name}")
     return authors_data
 
-def fetch_works_for_author(author_id, max_works=100):
+def fetch_works_for_author(author_id, author_name, max_works=100):
     """
     Fetch works (publications) for a specific author ID from OpenAlex API
     """
     print(f"Fetching works for author ID {author_id}...")
+    
+    # Compute query last name for filtering
+    name_parts = author_name.lower().split()
+    query_last = name_parts[-1] if name_parts else ""
+    
     cursor = "*"
     works = []
     fetched_count = 0
@@ -149,13 +154,17 @@ def fetch_works_for_author(author_id, max_works=100):
                 # Extract needed fields
                 work_id = work["id"].replace("https://openalex.org/", "")
                 
-                # Get authors
+                # Get authors, filtered by last name
                 authors = []
                 for authorship in work.get("authorships", []):
                     if "author" in authorship:
-                        author_name = authorship["author"].get("display_name", "")
-                        author_id = authorship["author"]["id"].replace("https://openalex.org/", "")
-                        authors.append({"name": author_name, "id": author_id})
+                        author_name_in_work = authorship["author"].get("display_name", "")
+                        author_id_in_work = authorship["author"]["id"].replace("https://openalex.org/", "")
+                        
+                        # Filter: only include if last name matches query last name
+                        name_obj = HumanName(author_name_in_work)
+                        if name_obj.last.lower() == query_last:
+                            authors.append({"name": author_name_in_work, "id": author_id_in_work})
                 
                 # Get venue
                 venue_name = ""
@@ -364,11 +373,61 @@ def save_data_to_json(author_name, author_data, works_data, author_id_to_label):
     """Save the fetched data to JSON for future use"""
     print(f"Saving data for {author_name} to JSON...")
     
+    # Compute clusters_count
+    clusters_count = len(set(author_id_to_label.values()))
+    
+    # Group by label
+    label_to_ids = defaultdict(list)
+    for aid, label in author_id_to_label.items():
+        label_to_ids[label].append(aid)
+    
+    # Transform author_data
+    new_author_data = {}
+    for aid, author in author_data.items():
+        label = author_id_to_label[aid]
+        ids = label_to_ids[label]
+        
+        name_obj = HumanName(author["name"])
+        first = name_obj.first.lower().replace(' ', '_') if name_obj.first else 'unknown'
+        last = name_obj.last.lower().replace(' ', '_') if name_obj.last else 'unknown'
+        gold_id = f"{last}_{first}_{label}"
+        
+        works = author.get("works", [])
+        works_count = len(works)
+        
+        new_author = {
+            "id": gold_id,
+            "ids": ids,
+            "name": author["name"],
+            "name_first": name_obj.first,
+            "name_middle": name_obj.middle,
+            "name_last": name_obj.last,
+            "field": "",
+            "email": None,
+            "linkedin": None,
+            "socials": [],
+            "works_count": works_count,
+            "works": works
+        }
+        
+        new_author_data[gold_id] = new_author
+    
+    # Add gold_person_id to works
+    for gold_id, author in new_author_data.items():
+        for work_id in author["works"]:
+            if work_id in works_data:
+                works_data[work_id]["gold_person_id"] = gold_id
+    
     data = {
-        "author_name": author_name,
-        "author_data": author_data,
-        "works_data": works_data,
-        "author_id_to_label": author_id_to_label
+        "author_name": {"name": author_name, "clusters_count": clusters_count},
+        "author_data": new_author_data,
+        "works_data": works_data
+    }
+    
+    data = {
+        "author_name": {"name": author_name, "clusters_count": clusters_count},
+        "author_data": new_author_data,
+        "works_data": works_data
     }
     
     # Create directory if it doesn't exist
@@ -506,7 +565,7 @@ if __name__ == "__main__":
     # 2. Fetch works for each author
     works_data = {}
     for author_id, author in author_data.items():
-        author_works = fetch_works_for_author(author_id, args.max_works)
+        author_works = fetch_works_for_author(author_id, args.name, args.max_works)
         author["works"] = [w["id"] for w in author_works]
         
         # Add works to global works data

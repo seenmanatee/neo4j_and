@@ -1,0 +1,1346 @@
+{
+  "author_name": {
+    "name": "Peter Cram",
+    "clusters_count": 2
+  },
+  "author_data": {
+    "cram_peter_0": {
+      "id": "cram_peter_0",
+      "ids": [
+        "A5071026390"
+      ],
+      "name": "Peter Cram",
+      "name_first": "Peter",
+      "name_middle": "",
+      "name_last": "Cram",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 91,
+      "works": [
+        "W2123019826",
+        "W2098724530",
+        "W2062160342",
+        "W2117590783",
+        "W2057816078",
+        "W3130222794",
+        "W2145469101",
+        "W2107855730",
+        "W3092473338",
+        "W3139107611",
+        "W2019173364",
+        "W2047572577",
+        "W2323821981",
+        "W2055447218",
+        "W2124640846",
+        "W2774644753",
+        "W4308370081",
+        "W2101427359",
+        "W2318613914",
+        "W2612176626",
+        "W2161994519",
+        "W2035626257",
+        "W2765144428",
+        "W3039949814",
+        "W2109249689",
+        "W1972694824",
+        "W2052198145",
+        "W2270878015",
+        "W2550074790",
+        "W2061164006",
+        "W1988685867",
+        "W2146875433",
+        "W2956057809",
+        "W2128818245",
+        "W4362522301",
+        "W3099371497",
+        "W4224862689",
+        "W4401878296",
+        "W4311649109",
+        "W4302307431",
+        "W4321350510",
+        "W4403216743",
+        "W4365998100",
+        "W4280599594",
+        "W4407908217",
+        "W2035695911",
+        "W2160157401",
+        "W1911900618",
+        "W2041823563",
+        "W1990592715",
+        "W2142987513",
+        "W2090373984",
+        "W2555832979",
+        "W2265286685",
+        "W2090965646",
+        "W2140152774",
+        "W2091588777",
+        "W2511189382",
+        "W3034041588",
+        "W2033083839",
+        "W2414742332",
+        "W2127041066",
+        "W2597634623",
+        "W2810448750",
+        "W1999169936",
+        "W2150936757",
+        "W234324894",
+        "W2060796722",
+        "W2555583797",
+        "W2162350528",
+        "W1764092428",
+        "W2612344714",
+        "W2079938553",
+        "W4242310435",
+        "W1972619077",
+        "W1113655846",
+        "W2069796052",
+        "W2512166791",
+        "W2787194022",
+        "W2799338906",
+        "W2045501413",
+        "W2897796023",
+        "W2994895350",
+        "W2166144489",
+        "W1489747249",
+        "W2001828786",
+        "W2588172621",
+        "W2941438568",
+        "W4229006237",
+        "W2918580253",
+        "W2329242510"
+      ]
+    },
+    "cram_peter_1": {
+      "id": "cram_peter_1",
+      "ids": [
+        "A5112759631"
+      ],
+      "name": "Peter Cram",
+      "name_first": "Peter",
+      "name_middle": "",
+      "name_last": "Cram",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 2,
+      "works": [
+        "W2885382321",
+        "W4230706099"
+      ]
+    }
+  },
+  "works_data": {
+    "W2123019826": {
+      "id": "W2123019826",
+      "title": "Total Knee Arthroplasty Volume, Utilization, and Outcomes Among Medicare Beneficiaries, 1991-2010",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "JAMA",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2098724530": {
+      "id": "W2098724530",
+      "title": "The Impact of a Celebrity Promotional Campaign on the Use of Colon Cancer Screening",
+      "year": 2003,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Archives of Internal Medicine",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2062160342": {
+      "id": "W2062160342",
+      "title": "Effects of weekend admission and hospital teaching status on in-hospital mortality",
+      "year": 2004,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "The American Journal of Medicine",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2117590783": {
+      "id": "W2117590783",
+      "title": "Racial disparities in knee and hip total joint arthroplasty: an 18-year analysis of national medicare data",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Annals of the Rheumatic Diseases",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2057816078": {
+      "id": "W2057816078",
+      "title": "Clinical Characteristics and Outcomes of Medicare Patients Undergoing Total Hip Arthroplasty, 1991-2008",
+      "year": 2011,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "JAMA",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W3130222794": {
+      "id": "W3130222794",
+      "title": "Virtual care use before and during the COVID-19 pandemic: a repeated cross-sectional study",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "CMAJ Open",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2145469101": {
+      "id": "W2145469101",
+      "title": "Incidence of and Risk Factors for 30-Day Readmission Following Elective Primary Total Joint Arthroplasty: Analysis From the ACS-NSQIP",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "The Journal of Arthroplasty",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2107855730": {
+      "id": "W2107855730",
+      "title": "Impact of Telemedicine Intensive Care Unit Coverage on Patient Outcomes",
+      "year": 2011,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Archives of Internal Medicine",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W3092473338": {
+      "id": "W3092473338",
+      "title": "Association of Receipt of Palliative Care Interventions With Health Care Use, Quality of Life, and Symptom Burden Among Adults With Chronic Noncancer Illness",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "JAMA",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W3139107611": {
+      "id": "W3139107611",
+      "title": "Rural Telemedicine Use Before and During the COVID-19 Pandemic: Repeated Cross-sectional Study",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Journal of Medical Internet Research",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2019173364": {
+      "id": "W2019173364",
+      "title": "Risk Factors for Metastatic Disease at Presentation with Osteosarcoma",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Journal of Bone and Joint Surgery",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2047572577": {
+      "id": "W2047572577",
+      "title": "Trends in the Use of Total Ankle Replacement and Ankle Arthrodesis in the United States Medicare Population",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Foot & Ankle International",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2323821981": {
+      "id": "W2323821981",
+      "title": "The Effect of Advancing Age on Total Joint Replacement Outcomes",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Geriatric Orthopaedic Surgery & Rehabilitation",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2055447218": {
+      "id": "W2055447218",
+      "title": "Cardiac Revascularization in Specialty and General Hospitals",
+      "year": 2005,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "New England Journal of Medicine",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2124640846": {
+      "id": "W2124640846",
+      "title": "A Comparison of Total Hip and Knee Replacement in Specialty and General Hospitals",
+      "year": 2007,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Journal of Bone and Joint Surgery",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2774644753": {
+      "id": "W2774644753",
+      "title": "Patient characteristics, resource use and outcomes associated with general internal medicine hospital care: the General Medicine Inpatient Initiative (GEMINI) retrospective cohort study",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "CMAJ Open",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W4308370081": {
+      "id": "W4308370081",
+      "title": "Trial of an Intervention to Improve Acute Heart Failure Outcomes",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "New England Journal of Medicine",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2101427359": {
+      "id": "W2101427359",
+      "title": "Trends in the Use of Percutaneous Ventricular Assist Devices",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "JAMA Internal Medicine",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2318613914": {
+      "id": "W2318613914",
+      "title": "Mortality and Financial Burden of Periprosthetic Fractures of the Femur",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Geriatric Orthopaedic Surgery & Rehabilitation",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2612176626": {
+      "id": "W2612176626",
+      "title": "Associations Between Short or Long Length\u00a0of Stay and 30-Day Readmission and\u00a0Mortality in Hospitalized Patients With Heart\u00a0Failure",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "JACC Heart Failure",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2161994519": {
+      "id": "W2161994519",
+      "title": "The Costs of Critical Care Telemedicine Programs",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "CHEST Journal",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2035626257": {
+      "id": "W2035626257",
+      "title": "Adverse Outcomes in Hip Arthroplasty: Long-Term Trends",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Journal of Bone and Joint Surgery",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2765144428": {
+      "id": "W2765144428",
+      "title": "Payments by US pharmaceutical and medical device manufacturers to US medical journal editors: retrospective observational study",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "BMJ",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W3039949814": {
+      "id": "W3039949814",
+      "title": "Association between palliative care and healthcare outcomes among adults with terminal non-cancer illness: population based matched cohort study",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "BMJ",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2109249689": {
+      "id": "W2109249689",
+      "title": "Availability of Consumer Prices From US Hospitals for a Common Surgical Procedure",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "JAMA Internal Medicine",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W1972694824": {
+      "id": "W1972694824",
+      "title": "Staff acceptance of a telemedicine intensive care unit program: A qualitative study",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Journal of Critical Care",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2052198145": {
+      "id": "W2052198145",
+      "title": "Hospital readmission after hip fracture",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Archives of Orthopaedic and Trauma Surgery",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2270878015": {
+      "id": "W2270878015",
+      "title": "Early Coronary Angiography and Survival After Out-of-Hospital Cardiac Arrest",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Circulation Cardiovascular Interventions",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2550074790": {
+      "id": "W2550074790",
+      "title": "Risk of fractures after stroke",
+      "year": 2016,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Neurology",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2061164006": {
+      "id": "W2061164006",
+      "title": "The association between hospital obstetrical volume and maternal postpartum complications",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "American Journal of Obstetrics and Gynecology",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W1988685867": {
+      "id": "W1988685867",
+      "title": "Trends in and disparities for acute myocardial infarction: an analysis of Medicare claims data from 1992 to 2010",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "BMC Medicine",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2146875433": {
+      "id": "W2146875433",
+      "title": "Isometric knee extension force measured using a handheld dynamometer with and without belt-stabilization",
+      "year": 2011,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Physiotherapy Theory and Practice",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2956057809": {
+      "id": "W2956057809",
+      "title": "Utilization and Outcomes for Spine Surgery in the United States and Canada",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Spine",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2128818245": {
+      "id": "W2128818245",
+      "title": "Relation between hospital orthopaedic specialisation and outcomes in patients aged 65 and older: retrospective analysis of US Medicare data",
+      "year": 2010,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "BMJ",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W4362522301": {
+      "id": "W4362522301",
+      "title": "Differences in Treatment Patterns and Outcomes of Acute Myocardial Infarction for Low- and High-Income Patients in 6 Countries",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "JAMA",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W3099371497": {
+      "id": "W3099371497",
+      "title": "Increasing Wait-Time Mortality for Severe Aortic Stenosis",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Circulation Cardiovascular Interventions",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W4224862689": {
+      "id": "W4224862689",
+      "title": "Virtual care use during the COVID-19 pandemic and its impact on healthcare utilization in patients with chronic disease: A population-based repeated cross-sectional study",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "PLoS ONE",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W4401878296": {
+      "id": "W4401878296",
+      "title": "2024 ACC/AHA Key Data Elements and Definitions for Social Determinants of Health in Cardiology: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Data Standards",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Circulation Cardiovascular Quality and Outcomes",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W4311649109": {
+      "id": "W4311649109",
+      "title": "Association of Medicare Advantage vs Traditional Medicare With 30-Day Mortality Among Patients With Acute Myocardial Infarction",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "JAMA",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W4302307431": {
+      "id": "W4302307431",
+      "title": "Readmission Reduction as a Hospital Quality Measure",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "JAMA",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W4321350510": {
+      "id": "W4321350510",
+      "title": "Work like a Doc: A comparison of regulations on residents' working hours in 14 high-income countries",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Health Policy",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W4403216743": {
+      "id": "W4403216743",
+      "title": "Annual Wellness Visits and Early Dementia Diagnosis Among Medicare Beneficiaries",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "JAMA Network Open",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W4365998100": {
+      "id": "W4365998100",
+      "title": "Emergency department utilization, admissions, and revisits in the United States (New York), Canada (Ontario), and New Zealand: A retrospective <scp>cross\u2010sectional</scp> analysis",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Academic Emergency Medicine",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W4280599594": {
+      "id": "W4280599594",
+      "title": "Are Income-based Differences in TKA Use and Outcomes Reduced in a Single-payer System? A Large-database Comparison of the United States and Canada",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Clinical Orthopaedics and Related Research",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W4407908217": {
+      "id": "W4407908217",
+      "title": "Comparing Community\u2010Level Social Determinants of Health With Patient Race in Total Hip Arthroplasty Outcomes",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Arthritis Care & Research",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2035695911": {
+      "id": "W2035695911",
+      "title": "The frequency of missed test results and associated treatment delays in a highly computerized health system",
+      "year": 2007,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "BMC Family Practice",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2160157401": {
+      "id": "W2160157401",
+      "title": "Staff Acceptance of Tele-ICU Coverage",
+      "year": 2010,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "CHEST Journal",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W1911900618": {
+      "id": "W1911900618",
+      "title": "Changing Trends in the Treatment of Femoral Neck Fractures",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Journal of Bone and Joint Surgery",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2041823563": {
+      "id": "W2041823563",
+      "title": "Medical Tourism Services Available to Residents of the United States",
+      "year": 2010,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Journal of General Internal Medicine",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W1990592715": {
+      "id": "W1990592715",
+      "title": "Cost-effectiveness of automated external defibrillator deployment in selected public locations",
+      "year": 2003,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Journal of General Internal Medicine",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2142987513": {
+      "id": "W2142987513",
+      "title": "Hospital Variation in Survival Trends for In\u2010hospital Cardiac Arrest",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Journal of the American Heart Association",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2090373984": {
+      "id": "W2090373984",
+      "title": "Impact of an Intensive Care Unit Telemedicine Program on Patient Outcomes in an Integrated Health Care System",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "JAMA Internal Medicine",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2555832979": {
+      "id": "W2555832979",
+      "title": "Trends in Operative and Nonoperative Hip Fracture Management 1990\u20132014: A Longitudinal Analysis of Manitoba Administrative Data",
+      "year": 2016,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Journal of the American Geriatrics Society",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2265286685": {
+      "id": "W2265286685",
+      "title": "Racial Disparities in Revascularization Rates Among Patients With Similar Insurance Coverage",
+      "year": 2009,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Journal of the National Medical Association",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2090965646": {
+      "id": "W2090965646",
+      "title": "Are African American Patients More Likely to Receive a Total Knee Arthroplasty in a Low-quality Hospital?",
+      "year": 2011,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Clinical Orthopaedics and Related Research",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2140152774": {
+      "id": "W2140152774",
+      "title": "Effect of Race on Outcomes (Stroke and Death) in\u00a0Patients\u00a0&gt;65\u00a0Years With Atrial Fibrillation",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "The American Journal of Cardiology",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2091588777": {
+      "id": "W2091588777",
+      "title": "Differences in Admitting Hospital Characteristics for Black and White Medicare Beneficiaries With Acute Myocardial Infarction",
+      "year": 2011,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Circulation",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2511189382": {
+      "id": "W2511189382",
+      "title": "Impact of an Integrated Hip Fracture Inpatient Program on Length of Stay and Costs",
+      "year": 2016,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Journal of Orthopaedic Trauma",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W3034041588": {
+      "id": "W3034041588",
+      "title": "Association of Low-Value Testing With Subsequent Health Care Use and Clinical Outcomes Among Low-risk Primary Care Outpatients Undergoing an Annual Health Examination",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "JAMA Internal Medicine",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2033083839": {
+      "id": "W2033083839",
+      "title": "Bleeding Rates in Veterans Affairs Patients with Atrial Fibrillation Who Switch from Warfarin to Dabigatran",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "The American Journal of Medicine",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2414742332": {
+      "id": "W2414742332",
+      "title": "Failure to Recognize and Act on Abnormal Test Results: The Case of Screening Bone Densitometry",
+      "year": 2005,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "The Joint Commission Journal on Quality and Patient Safety",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2127041066": {
+      "id": "W2127041066",
+      "title": "Prevalence and characteristics of hospitalized adults on chronic opioid therapy",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Journal of Hospital Medicine",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2597634623": {
+      "id": "W2597634623",
+      "title": "Disparities in Knee and Hip Arthroplasty Outcomes: an Observational Analysis of the ACS-NSQIP Clinical Registry",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Journal of Racial and Ethnic Health Disparities",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2810448750": {
+      "id": "W2810448750",
+      "title": "Can Patient Selection Explain the Obesity Paradox in Orthopaedic Hip Surgery? An Analysis of the ACS-NSQIP Registry",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Clinical Orthopaedics and Related Research",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W1999169936": {
+      "id": "W1999169936",
+      "title": "Testing and treatment for osteoporosis following hip fracture in an integrated U.S. healthcare delivery system",
+      "year": 2011,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Osteoporosis International",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2150936757": {
+      "id": "W2150936757",
+      "title": "Long-Term Trends in Hip Arthroplasty Use and Volume",
+      "year": 2011,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "The Journal of Arthroplasty",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W234324894": {
+      "id": "W234324894",
+      "title": "The Continuing Problem of Missed Test Results in an Integrated Health System with an Advanced Electronic Medical Record",
+      "year": 2007,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "The Joint Commission Journal on Quality and Patient Safety",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2060796722": {
+      "id": "W2060796722",
+      "title": "The Trends in Treatment of Femoral Neck Fractures in the Medicare Population from 1991 to 2008",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Journal of Bone and Joint Surgery",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2555583797": {
+      "id": "W2555583797",
+      "title": "Understanding Preferences for Osteoporosis Information to Develop an Osteoporosis Patient Education Brochure",
+      "year": 2016,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "The Permanente Journal",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2162350528": {
+      "id": "W2162350528",
+      "title": "Variation of Medicare Payments for Total Knee Arthroplasty",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "The Journal of Arthroplasty",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W1764092428": {
+      "id": "W1764092428",
+      "title": "Use of Mechanical Circulatory Support in Percutaneous Coronary Intervention in the United States",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "The American Journal of Cardiology",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2612344714": {
+      "id": "W2612344714",
+      "title": "Patient-reported reasons for nonadherence to recommended osteoporosis pharmacotherapy",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Journal of the American Pharmacists Association",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2079938553": {
+      "id": "W2079938553",
+      "title": "Are Patients With Serious Mental Illness More Likely to be Admitted to Nursing Homes With More Deficiencies in Care?",
+      "year": 2011,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Medical Care",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W4242310435": {
+      "id": "W4242310435",
+      "title": "A Comparison of Total Hip and Knee Replacement in Specialty and General Hospitals",
+      "year": 2007,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Journal of Bone and Joint Surgery",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W1972619077": {
+      "id": "W1972619077",
+      "title": "Patient Perspectives of Dabigatran: Analysis of Online Discussion Forums",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Patient",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W1113655846": {
+      "id": "W1113655846",
+      "title": "What Drives Variation in Episode-of-care Payments for Primary TKA? An Analysis of Medicare Administrative Data",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Clinical Orthopaedics and Related Research",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2069796052": {
+      "id": "W2069796052",
+      "title": "Mentally Ill Medicare Patients Less Likely Than Others To Receive Certain Types Of Surgery",
+      "year": 2011,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Health Affairs",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2512166791": {
+      "id": "W2512166791",
+      "title": "A&amp;nbsp;journal club for peer mentorship: helping to navigate the transition to independent practice",
+      "year": 2016,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Perspectives on Medical Education",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2787194022": {
+      "id": "W2787194022",
+      "title": "A Systematic Review of Interventions to Follow-Up Test Results Pending at Discharge",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Journal of General Internal Medicine",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2799338906": {
+      "id": "W2799338906",
+      "title": "Utilization and Short\u2010Term Outcomes of Primary Total Hip and Knee Arthroplasty in the United States and Canada",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Arthritis & Rheumatology",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2045501413": {
+      "id": "W2045501413",
+      "title": "Uncompensated care provided by for-profit, not-for-profit, and government owned hospitals",
+      "year": 2010,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "BMC Health Services Research",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2897796023": {
+      "id": "W2897796023",
+      "title": "Physician Characteristics Associated With Ordering 4 Low-Value Screening Tests in Primary Care",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "JAMA Network Open",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2994895350": {
+      "id": "W2994895350",
+      "title": "The risk of death within 5 years of first hospital admission in older adults",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Canadian Medical Association Journal",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2166144489": {
+      "id": "W2166144489",
+      "title": "Characteristics and Outcomes of America\u2019s Lowest-Performing Hospitals",
+      "year": 2009,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Circulation Cardiovascular Quality and Outcomes",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W1489747249": {
+      "id": "W1489747249",
+      "title": "Cost-effectiveness of in-home automated external defibrillators for individuals at increased risk of sudden cardiac death",
+      "year": 2005,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Journal of General Internal Medicine",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2001828786": {
+      "id": "W2001828786",
+      "title": "Forceps Delivery Volumes in Teaching and Nonteaching Hospitals",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Academic Medicine",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2588172621": {
+      "id": "W2588172621",
+      "title": "Introduction of Tele-ICU in rural hospitals: Changing organisational culture to harness benefits",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Intensive and Critical Care Nursing",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2941438568": {
+      "id": "W2941438568",
+      "title": "Screening and Treatment for Osteoporosis After Stroke",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Stroke",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W4229006237": {
+      "id": "W4229006237",
+      "title": "Variation in revascularisation use and outcomes of patients in hospital with acute myocardial infarction across six high income countries: cross sectional cohort study",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "BMJ",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2918580253": {
+      "id": "W2918580253",
+      "title": "Follow\u2010Up of Incidental High\u2010Risk Pulmonary Nodules on Computed Tomography Pulmonary Angiography at Care Transitions",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Journal of Hospital Medicine",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2329242510": {
+      "id": "W2329242510",
+      "title": "Bundled Payments for Elective Primary Total Knee Arthroplasty",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5071026390"
+        }
+      ],
+      "venue": "Geriatric Orthopaedic Surgery & Rehabilitation",
+      "gold_person_id": "cram_peter_0"
+    },
+    "W2885382321": {
+      "id": "W2885382321",
+      "title": "Abstract P314: The Impact of Hospital Cardiac Specialization on Outcomes After Coronary Artery Bypass Graft Surgery: Analysis of Medicare Claims Data",
+      "year": 2011,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5112759631"
+        }
+      ],
+      "venue": "Circulation Cardiovascular Quality and Outcomes",
+      "gold_person_id": "cram_peter_1"
+    },
+    "W4230706099": {
+      "id": "W4230706099",
+      "title": "VIRTUAL COLONOSCOPY; REAL MISSES",
+      "year": 2003,
+      "authors": [
+        {
+          "name": "Peter Cram",
+          "id": "A5112759631"
+        }
+      ],
+      "venue": "The American Journal of Gastroenterology",
+      "gold_person_id": "cram_peter_1"
+    }
+  }
+}

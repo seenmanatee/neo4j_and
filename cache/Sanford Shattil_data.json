@@ -1,0 +1,1486 @@
+{
+  "author_name": {
+    "name": "Sanford Shattil",
+    "clusters_count": 2
+  },
+  "author_data": {
+    "shattil_sanford_0": {
+      "id": "shattil_sanford_0",
+      "ids": [
+        "A5060459487"
+      ],
+      "name": "Sanford J. Shattil",
+      "name_first": "Sanford",
+      "name_middle": "J.",
+      "name_last": "Shattil",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 100,
+      "works": [
+        "W2040379229",
+        "W2090659127",
+        "W1601529928",
+        "W1493824599",
+        "W1895802579",
+        "W2046737719",
+        "W1593965037",
+        "W2079323372",
+        "W1500795239",
+        "W2003698382",
+        "W1970923523",
+        "W1995553619",
+        "W2062613174",
+        "W4239907137",
+        "W2271164797",
+        "W1982536372",
+        "W2480455676",
+        "W2073150096",
+        "W2132770583",
+        "W1967343185",
+        "W2108496308",
+        "W2119636762",
+        "W2201926879",
+        "W1604088022",
+        "W2901744711",
+        "W2210532669",
+        "W2486426969",
+        "W1982403032",
+        "W2084660025",
+        "W2105496404",
+        "W2001274636",
+        "W3206568801",
+        "W2027234515",
+        "W2157809114",
+        "W2086636087",
+        "W1964754149",
+        "W1990981421",
+        "W2004909339",
+        "W2008718488",
+        "W2092036242",
+        "W1976074410",
+        "W2085584480",
+        "W2917815814",
+        "W2493925730",
+        "W2059050116",
+        "W2037501997",
+        "W1924175076",
+        "W2069575222",
+        "W2115819535",
+        "W1606956077",
+        "W1565477787",
+        "W1604015258",
+        "W2104755948",
+        "W1540271729",
+        "W2039012502",
+        "W2024191052",
+        "W1824468361",
+        "W2016938853",
+        "W2003976708",
+        "W2491446616",
+        "W1560618466",
+        "W127317704",
+        "W1991503015",
+        "W1968260614",
+        "W1634736267",
+        "W1505258801",
+        "W2024406862",
+        "W2138828504",
+        "W2481188226",
+        "W2169481463",
+        "W1998910415",
+        "W2463131134",
+        "W2493796904",
+        "W2477164724",
+        "W2051903847",
+        "W2478929502",
+        "W1968821921",
+        "W2502042151",
+        "W2009264307",
+        "W1604356365",
+        "W2123941139",
+        "W2481042206",
+        "W2501750897",
+        "W2035136679",
+        "W2039038314",
+        "W2914253585",
+        "W2025929177",
+        "W2087879203",
+        "W3023307013",
+        "W2069416242",
+        "W2131171345",
+        "W2506988997",
+        "W2094718311",
+        "W1996544591",
+        "W2891017215",
+        "W3006387795",
+        "W2751835528",
+        "W4206388889",
+        "W2089562291",
+        "W2037465103"
+      ]
+    },
+    "shattil_sanford_1": {
+      "id": "shattil_sanford_1",
+      "ids": [
+        "A5108277896"
+      ],
+      "name": "Sanford J. Shattil",
+      "name_first": "Sanford",
+      "name_middle": "J.",
+      "name_last": "Shattil",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 3,
+      "works": [
+        "W2032055408",
+        "W3155065301",
+        "W1988350764"
+      ]
+    }
+  },
+  "works_data": {
+    "W2040379229": {
+      "id": "W2040379229",
+      "title": "Talin Binding to Integrin \u00df Tails: A Final Common Step in Integrin Activation",
+      "year": 2003,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Science",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2090659127": {
+      "id": "W2090659127",
+      "title": "The final steps of integrin activation: the end game",
+      "year": 2010,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Nature Reviews Molecular Cell Biology",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W1601529928": {
+      "id": "W1601529928",
+      "title": "Changes in the platelet membrane glycoprotein IIb.IIIa complex during platelet activation.",
+      "year": 1985,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Journal of Biological Chemistry",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W1493824599": {
+      "id": "W1493824599",
+      "title": "Complement proteins C5b-9 cause release of membrane vesicles from the platelet surface that are enriched in the membrane receptor for coagulation factor Va and express prothrombinase activity.",
+      "year": 1988,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Journal of Biological Chemistry",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W1895802579": {
+      "id": "W1895802579",
+      "title": "Integrin Signaling: The Platelet Paradigm",
+      "year": 1998,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Blood",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2046737719": {
+      "id": "W2046737719",
+      "title": "Integrins: dynamic scaffolds for adhesion and signaling in platelets",
+      "year": 2004,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Blood",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W1593965037": {
+      "id": "W1593965037",
+      "title": "Assembly of the Platelet Prothrombinase Complex Is Linked to Vesiculation of the Platelet Plasma Membrane",
+      "year": 1989,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Journal of Biological Chemistry",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2079323372": {
+      "id": "W2079323372",
+      "title": "Integrin activation controls metastasis in human breast cancer",
+      "year": 2001,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Proceedings of the National Academy of Sciences",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W1500795239": {
+      "id": "W1500795239",
+      "title": "Breaking the Integrin Hinge",
+      "year": 1996,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Journal of Biological Chemistry",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2003698382": {
+      "id": "W2003698382",
+      "title": "Src kinase activation by direct interaction with the integrin \u03b2 cytoplasmic domain",
+      "year": 2003,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Proceedings of the National Academy of Sciences",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W1970923523": {
+      "id": "W1970923523",
+      "title": "Integrins and Actin Filaments: Reciprocal Regulation of Cell Adhesion and Signaling",
+      "year": 2000,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Journal of Biological Chemistry",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W1995553619": {
+      "id": "W1995553619",
+      "title": "Reconstructing and Deconstructing Agonist-Induced Activation of Integrin \u03b1IIb\u03b23",
+      "year": 2006,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Current Biology",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2062613174": {
+      "id": "W2062613174",
+      "title": "Membrane glycoprotein IV (CD36) is physically associated with the Fyn, Lyn, and Yes protein-tyrosine kinases in human platelets.",
+      "year": 1991,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Proceedings of the National Academy of Sciences",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W4239907137": {
+      "id": "W4239907137",
+      "title": "Integrin regulation",
+      "year": 2005,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Current Opinion in Cell Biology",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2271164797": {
+      "id": "W2271164797",
+      "title": "Integrin-based therapeutics: biological basis, clinical use and new drugs",
+      "year": 2016,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Nature Reviews Drug Discovery",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W1982536372": {
+      "id": "W1982536372",
+      "title": "Coordinate interactions of Csk, Src, and Syk kinases with \u03b1IIb\u03b23 initiate integrin signaling to the cytoskeleton",
+      "year": 2002,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "The Journal of Cell Biology",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2480455676": {
+      "id": "W2480455676",
+      "title": "Commentary on and reprint of Poiesz BJ, Ruscetti FW, Gazdar AF, Bunn PA, Minna JD, Gallo RC, Detection and isolation of type C retrovirus particles from fresh and cultured lymphocytes of a patient with cutaneous T cell lymphoma, in Proceedings of the National Academy of Sciences (1980) 77:7415\u20137419",
+      "year": 2000,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Elsevier eBooks",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2073150096": {
+      "id": "W2073150096",
+      "title": "The GPIIb/IIIa (integrin \u03b1IIb\u03b23) odyssey: a technology-driven saga of a receptor with twists, turns, and even a bend",
+      "year": 2008,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Blood",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2132770583": {
+      "id": "W2132770583",
+      "title": "Visualizing extravasation dynamics of metastatic tumor cells",
+      "year": 2010,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Journal of Cell Science",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W1967343185": {
+      "id": "W1967343185",
+      "title": "The Clinical Importance of Acquired Abnormalities of Platelet Function",
+      "year": 1991,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "New England Journal of Medicine",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2108496308": {
+      "id": "W2108496308",
+      "title": "RIAM Activates Integrins by Linking Talin to Ras GTPase Membrane-targeting Sequences",
+      "year": 2008,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Journal of Biological Chemistry",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2119636762": {
+      "id": "W2119636762",
+      "title": "Syk, c-Src, the \u03b1v\u03b23 integrin, and ITAM immunoreceptors, in concert, regulate osteoclastic bone resorption",
+      "year": 2007,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "The Journal of Cell Biology",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2201926879": {
+      "id": "W2201926879",
+      "title": "An integrin \u03b1v\u03b23\u2013c-Src oncogenic unit promotes anchorage-independence and tumor progression",
+      "year": 2009,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Nature Medicine",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W1604088022": {
+      "id": "W1604088022",
+      "title": "Rac recruits high-affinity integrin \u03b1v\u03b23 to lamellipodia in endothelial cell migration",
+      "year": 2001,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Nature Cell Biology",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2901744711": {
+      "id": "W2901744711",
+      "title": "NCCN Guidelines Insights: Cancer-Associated Venous Thromboembolic Disease, Version 2.2018",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Journal of the National Comprehensive Cancer Network",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2210532669": {
+      "id": "W2210532669",
+      "title": "Cancer-Associated Venous Thromboembolic Disease, Version 1.2015",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Journal of the National Comprehensive Cancer Network",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2486426969": {
+      "id": "W2486426969",
+      "title": "Commentary on and reprint of Wotherspoon AC, Ortiz-Hidalgo C, Falzon MR, Isaacson PG, Helicobacter pylori-associated gastritis and primary B-cell gastric lymphoma, in Lancet (1991) 338:1175\u20131176",
+      "year": 2000,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Elsevier eBooks",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W1982403032": {
+      "id": "W1982403032",
+      "title": "Megakaryocytes derived from embryonic stem cells implicate CalDAG-GEFI in integrin signaling",
+      "year": 2002,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Proceedings of the National Academy of Sciences",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2084660025": {
+      "id": "W2084660025",
+      "title": "The Classical Lancefield Antigen of Group A Streptococcus Is a Virulence Determinant with Implications for Vaccine Design",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Cell Host & Microbe",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2105496404": {
+      "id": "W2105496404",
+      "title": "Matrix-specific Suppression of Integrin Activation in Shear Stress Signaling",
+      "year": 2006,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Molecular Biology of the Cell",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2001274636": {
+      "id": "W2001274636",
+      "title": "Megakaryocytes derived from human embryonic stem cells: a genetically tractable system to study megakaryocytopoiesis and integrin function",
+      "year": 2006,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Journal of Thrombosis and Haemostasis",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W3206568801": {
+      "id": "W3206568801",
+      "title": "Cancer-Associated Venous Thromboembolic Disease, Version 2.2021, NCCN Clinical Practice Guidelines in Oncology.",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "PubMed",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2027234515": {
+      "id": "W2027234515",
+      "title": "Microfluidic devices for studies of shear-dependent platelet adhesion",
+      "year": 2008,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Lab on a Chip",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2157809114": {
+      "id": "W2157809114",
+      "title": "Mechanisms and consequences of agonist-induced talin recruitment to platelet integrin \u03b1IIb\u03b23",
+      "year": 2008,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "The Journal of Cell Biology",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2086636087": {
+      "id": "W2086636087",
+      "title": "The Mechanism of Kindlin-Mediated Activation of Integrin \u03b1IIb\u03b23",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Current Biology",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W1964754149": {
+      "id": "W1964754149",
+      "title": "Regulation of Outside-in Signaling in Platelets by Integrin-associated Protein Kinase C\u03b2",
+      "year": 2004,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Journal of Biological Chemistry",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W1990981421": {
+      "id": "W1990981421",
+      "title": "Platelet integrins and immunoreceptors",
+      "year": 2007,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Immunological Reviews",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2004909339": {
+      "id": "W2004909339",
+      "title": "In vivo cleaved CDCP1 promotes early tumor dissemination via complexing with activated \u03b21 integrin and induction of FAK/PI3K/Akt motility signaling",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Oncogene",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2008718488": {
+      "id": "W2008718488",
+      "title": "Kindlin-2 regulates podocyte adhesion and fibronectin matrix deposition through interactions with phosphoinositides and integrins",
+      "year": 2011,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Journal of Cell Science",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2092036242": {
+      "id": "W2092036242",
+      "title": "Integrin \u03b1v\u03b23 Drives Slug Activation and Stemness in the Pregnant and Neoplastic Mammary Gland",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Developmental Cell",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W1976074410": {
+      "id": "W1976074410",
+      "title": "Cyclic GMP and Protein Kinase G Control a Src-Containing Mechanosome in Osteoblasts",
+      "year": 2010,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Science Signaling",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2085584480": {
+      "id": "W2085584480",
+      "title": "The Primacy of \u03b21 Integrin Activation in the Metastatic Cascade",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "PLoS ONE",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2917815814": {
+      "id": "W2917815814",
+      "title": "SHARPIN at the nexus of integrin, immune, and inflammatory signaling in human platelets",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Proceedings of the National Academy of Sciences",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2493925730": {
+      "id": "W2493925730",
+      "title": "Commentary on and reprint of EPIC (Evaluation of 7E3 for the Prevention of Ischemic Complications) Investigators, The, Use of monoclonal antibody directed against the platelet glycoprotein IIb/IIIa receptor in high-risk coronary angioplasty, in New England Journal of Medicine (1994) 330:956\u2013961",
+      "year": 2000,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Elsevier eBooks",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2059050116": {
+      "id": "W2059050116",
+      "title": "Platelet hypersensitivity induced by cholesterol incorporation.",
+      "year": 1975,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Journal of Clinical Investigation",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2037501997": {
+      "id": "W2037501997",
+      "title": "Modification of red cell membrane structure by cholesterol-rich lipid dispersions. A model for the primary spur cell defect.",
+      "year": 1975,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Journal of Clinical Investigation",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W1924175076": {
+      "id": "W1924175076",
+      "title": "Modulation of platelet function through adhesion receptors. A dual role for glycoprotein IIb-IIIa (integrin alpha IIb beta 3) mediated by fibrinogen and glycoprotein Ib-von Willebrand factor.",
+      "year": 1992,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Journal of Biological Chemistry",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2069575222": {
+      "id": "W2069575222",
+      "title": "Modulation of the Affinity of Integrin \u03b1 <sub>IIb</sub> \u03b2 <sub>3</sub> (GPIIb-IIIa) by the Cytoplasmic Domain of \u03b1 <sub>IIb</sub>",
+      "year": 1991,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Science",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2115819535": {
+      "id": "W2115819535",
+      "title": "Signaling networks linking integrins and Rho family GTPases",
+      "year": 2000,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Trends in Biochemical Sciences",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W1606956077": {
+      "id": "W1606956077",
+      "title": "Platelet-derived microparticles express high affinity receptors for factor VIII.",
+      "year": 1991,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Journal of Biological Chemistry",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W1565477787": {
+      "id": "W1565477787",
+      "title": "Tyrosine phosphorylation and cytoskeletal reorganization in platelets are triggered by interaction of integrin receptors with their immobilized ligands",
+      "year": 1993,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Journal of Biological Chemistry",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W1604015258": {
+      "id": "W1604015258",
+      "title": "Induction of the fibrinogen receptor on human platelets by intracellular mediators.",
+      "year": 1987,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Journal of Biological Chemistry",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2104755948": {
+      "id": "W2104755948",
+      "title": "Complementary Roles for Receptor Clustering and Conformational Change in the Adhesive and Signaling Functions of Integrin \u03b1IIb\u03b23",
+      "year": 1998,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "The Journal of Cell Biology",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W1540271729": {
+      "id": "W1540271729",
+      "title": "Regulation of the protein tyrosine kinase pp72syk by platelet agonists and the integrin alpha IIb beta 3.",
+      "year": 1994,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Journal of Biological Chemistry",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2039012502": {
+      "id": "W2039012502",
+      "title": "Adhesive signaling in platelets",
+      "year": 1994,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Current Opinion in Cell Biology",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2024191052": {
+      "id": "W2024191052",
+      "title": "The Conserved Membrane-proximal Region of an Integrin Cytoplasmic Domain Specifies Ligand Binding Affinity",
+      "year": 1995,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Journal of Biological Chemistry",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W1824468361": {
+      "id": "W1824468361",
+      "title": "Signaling Through Platelet Integrin \u03b1IIb\u03b23: Inside-out, Outside-in, and Sideways",
+      "year": 1999,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Thrombosis and Haemostasis",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2016938853": {
+      "id": "W2016938853",
+      "title": "Signaling through GP Ib-IX-V activates \u03b1IIb\u03b23 independently of other receptors",
+      "year": 2004,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Blood",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2003976708": {
+      "id": "W2003976708",
+      "title": "Identification of a novel integrin signaling pathway involving the kinase Syk and the guanine nucleotide exchange factor Vav1",
+      "year": 1998,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Current Biology",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2491446616": {
+      "id": "W2491446616",
+      "title": "Commentary on and reprint of Nowell PC, Hungerford DA, A minute chromosome in human chronic granulocytic leukemia, in Science (1960) 132:1497",
+      "year": 2000,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Elsevier eBooks",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W1560618466": {
+      "id": "W1560618466",
+      "title": "Relationships between Rap1b, Affinity Modulation of Integrin \u03b1IIb\u03b23, and the Actin Cytoskeleton",
+      "year": 2002,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Journal of Biological Chemistry",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W127317704": {
+      "id": "W127317704",
+      "title": "Genetic and Pharmacological Analyses of Syk Function in IIb\u03b23 Signaling in Platelets",
+      "year": 1999,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Blood",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W1991503015": {
+      "id": "W1991503015",
+      "title": "Mechanisms and Consequences of Affinity Modulation of Integrin \u03b1V\u03b23 Detected with a Novel Patch-engineered Monovalent Ligand",
+      "year": 1999,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Journal of Biological Chemistry",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W1968260614": {
+      "id": "W1968260614",
+      "title": "Activation of Syk protein tyrosine kinase through interaction with integrin \u03b2 cytoplasmic domains",
+      "year": 2001,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Current Biology",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W1634736267": {
+      "id": "W1634736267",
+      "title": "Phosphoinositide 3-Kinase \u03b3 and p85/Phosphoinositide 3-Kinase in Platelets",
+      "year": 1996,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Journal of Biological Chemistry",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W1505258801": {
+      "id": "W1505258801",
+      "title": "Conformational changes in fibrinogen elicited by its interaction with platelet membrane glycoprotein GPIIb-IIIa.",
+      "year": 1993,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Journal of Biological Chemistry",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2024406862": {
+      "id": "W2024406862",
+      "title": "Integrins and Src: dynamic duo of adhesion signaling",
+      "year": 2005,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Trends in Cell Biology",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2138828504": {
+      "id": "W2138828504",
+      "title": "The antithrombotic potential of selective blockade of talin-dependent integrin \u03b1IIb\u03b23 (platelet GPIIb\u2013IIIa) activation",
+      "year": 2007,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Journal of Clinical Investigation",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2481188226": {
+      "id": "W2481188226",
+      "title": "Commentary on and reprint of Davie EW, Ratnoff OD, Waterfall sequence for intrinsic blood clotting, in Science (1964) 145:1310\u20131311",
+      "year": 2000,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Elsevier eBooks",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2169481463": {
+      "id": "W2169481463",
+      "title": "PTP-1B is an essential positive regulator of platelet integrin signaling",
+      "year": 2005,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "The Journal of Cell Biology",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W1998910415": {
+      "id": "W1998910415",
+      "title": "The N-terminal SH2 Domains of Syk and ZAP-70 Mediate Phosphotyrosine-independent Binding to Integrin \u03b2 Cytoplasmic Domains",
+      "year": 2002,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Journal of Biological Chemistry",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2463131134": {
+      "id": "W2463131134",
+      "title": "RhoA and the Function of Platelet Integrin \u03b1IIb\u03b23",
+      "year": 1998,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Blood",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2493796904": {
+      "id": "W2493796904",
+      "title": "Commentary on and reprint of Born GVR, Aggregation of blood platelets by adenosine diphosphate and its reversal, in Nature (1962) 194:927\u2013929",
+      "year": 2000,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Elsevier eBooks",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2477164724": {
+      "id": "W2477164724",
+      "title": "Commentary on and reprint of Bouroncle BA, Wiseman BK, Doan CA, Leukemic reticuloendotheliosis, in Blood (1958) 13:609\u2013630",
+      "year": 2000,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Elsevier eBooks",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2051903847": {
+      "id": "W2051903847",
+      "title": "Specification of the Direction of Adhesive Signaling by the Integrin \u03b2 Cytoplasmic Domain",
+      "year": 2005,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Journal of Biological Chemistry",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2478929502": {
+      "id": "W2478929502",
+      "title": "Commentary on and reprint of Lichtenstein L, Histiocytosis X: Integration of eosinophilic granuloma of bone, Letterer-Siwe disease and Schuller\u2014Christian disease as related manifestations of a single nosologic entity, in American Medical Association Archives of Pathology (1953) 56:84\u2013102",
+      "year": 2000,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Elsevier eBooks",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W1968821921": {
+      "id": "W1968821921",
+      "title": "Roles of focal adhesion kinase (FAK) in megakaryopoiesis and platelet function: studies using a megakaryocyte lineage\u2013specific FAK knockout",
+      "year": 2007,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Blood",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2502042151": {
+      "id": "W2502042151",
+      "title": "Commentary on and reprint of Gatti RA, Allen HD, Meuwissen HJ, Hong R, Good RA, Immunological reconstitution of sex-linked lymphopenic deficiency, in Lancet (1968) 2:1366\u20131369",
+      "year": 2000,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Elsevier eBooks",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2009264307": {
+      "id": "W2009264307",
+      "title": "Lateral Clustering of Platelet GP Ib-IX Complexes Leads to Up-regulation of the Adhesive Function of Integrin \u03b1IIb\u03b23",
+      "year": 2002,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Journal of Biological Chemistry",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W1604356365": {
+      "id": "W1604356365",
+      "title": "Detection of Integrin \u03b1IIb\u03b23Clustering in Living Cells",
+      "year": 2003,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Journal of Biological Chemistry",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2123941139": {
+      "id": "W2123941139",
+      "title": "A role for PKC\u03b8 in outside\u2010in \u03b1IIb\u03b23 signaling",
+      "year": 2006,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Journal of Thrombosis and Haemostasis",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2481042206": {
+      "id": "W2481042206",
+      "title": "Commentary on and reprint of Pauling L, Itano HA, Singer SJ, Wells IC, Sickle cell anemia, a molecular disease, in Science (1949) 110:543\u2013548",
+      "year": 2000,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Elsevier eBooks",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2501750897": {
+      "id": "W2501750897",
+      "title": "Commentary on and reprint of Waldenstr\u00f6m J, Incipient myelomatosis or \u201cessential hyperglobulinemia with fibrinogenopenia\u201d\u2014a new syndrome?, in Acta Medica Scandinavica (1944) 117:216\u2013247",
+      "year": 2000,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Elsevier eBooks",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2035136679": {
+      "id": "W2035136679",
+      "title": "ADAP interactions with talin and kindlin promote platelet integrin \u03b1IIb\u03b23 activation and stable fibrinogen binding",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Blood",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2039038314": {
+      "id": "W2039038314",
+      "title": "EGFR-dependent pancreatic carcinoma cell metastasis through Rap1 activation",
+      "year": 2011,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Oncogene",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2914253585": {
+      "id": "W2914253585",
+      "title": "uPAR isoform 2 forms a dimer and induces severe kidney disease in mice",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Journal of Clinical Investigation",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2025929177": {
+      "id": "W2025929177",
+      "title": "Antithrombotic effects of targeting \u03b1IIb\u03b23 signaling in platelets",
+      "year": 2008,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Blood",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2087879203": {
+      "id": "W2087879203",
+      "title": "Kindlins, Integrin Activation and the Regulation of Talin Recruitment to \u03b1IIb\u03b23",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "PLoS ONE",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W3023307013": {
+      "id": "W3023307013",
+      "title": "A Mechanism for Modulation of Cellular Responses to VEGF",
+      "year": 2000,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Molecular Cell",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2069416242": {
+      "id": "W2069416242",
+      "title": "Glycoprotein Ib\u2013IX-mediated activation of integrin \u03b1IIb\u03b23: effects of receptor clustering and von Willebrand factor adhesion",
+      "year": 2003,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Journal of Thrombosis and Haemostasis",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2131171345": {
+      "id": "W2131171345",
+      "title": "Integrin \u03b1V is necessary for gastrulation movements that regulate vertebrate body asymmetry",
+      "year": 2010,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Development",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2506988997": {
+      "id": "W2506988997",
+      "title": "Commentary on and reprint of Cooley TB, Lee PA, A series of cases of splenomegaly in children with anemia and peculiar bone changes, in Transactions of the American Pediatric Society (1925) 37:29\u201330, 1925",
+      "year": 2000,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Elsevier eBooks",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2094718311": {
+      "id": "W2094718311",
+      "title": "Interaction of kindlin-2 with integrin \u03b23 promotes outside-in signaling responses by the \u03b1V\u03b23 vitronectin receptor",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Blood",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W1996544591": {
+      "id": "W1996544591",
+      "title": "The \u03b23 integrin cytoplasmic tail: protein scaffold and control freak",
+      "year": 2009,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Journal of Thrombosis and Haemostasis",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2891017215": {
+      "id": "W2891017215",
+      "title": "Rap1 binding to the talin 1 F0 domain makes a minimal contribution to murine platelet GPIIb-IIIa activation",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Blood Advances",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W3006387795": {
+      "id": "W3006387795",
+      "title": "Underlying Immune Disorder May Predispose Some Transthyretin Amyloidosis Subjects to Inotersen-Mediated Thrombocytopenia",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Nucleic Acid Therapeutics",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2751835528": {
+      "id": "W2751835528",
+      "title": "Optogenetic interrogation of integrin \u03b1V\u03b23 function in endothelial cells",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Journal of Cell Science",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W4206388889": {
+      "id": "W4206388889",
+      "title": "Platelet SHARPIN regulates platelet adhesion and inflammatory responses through associations with \u03b1IIb\u03b23 and LUBAC",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Blood Advances",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2089562291": {
+      "id": "W2089562291",
+      "title": "Affinity modulation of the alpha IIb beta 3 integrin (platelet GPIIb-IIIa) is an intrinsic property of the receptor.",
+      "year": 1990,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Cell Regulation",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2037465103": {
+      "id": "W2037465103",
+      "title": "Effect of Ca <sup>2+</sup> on GP IIb-IIIa Interactions With Integrilin",
+      "year": 1997,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5060459487"
+        }
+      ],
+      "venue": "Circulation",
+      "gold_person_id": "shattil_sanford_0"
+    },
+    "W2032055408": {
+      "id": "W2032055408",
+      "title": "Role of calcium and calpain in complement-induced vesiculation of the platelet plasma membrane and in the exposure of the platelet factor Va receptor",
+      "year": 1990,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5108277896"
+        }
+      ],
+      "venue": "Biochemistry",
+      "gold_person_id": "shattil_sanford_1"
+    },
+    "W3155065301": {
+      "id": "W3155065301",
+      "title": "Optogenetics-based localization of talin to the plasma membrane promotes activation of \u03b23 integrins",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5108277896"
+        }
+      ],
+      "venue": "Journal of Biological Chemistry",
+      "gold_person_id": "shattil_sanford_1"
+    },
+    "W1988350764": {
+      "id": "W1988350764",
+      "title": "An enzyme-linked immunosorbent assay to identify inhibitors of activation of platelet integrin \u03b1IIb\u03b23",
+      "year": 1995,
+      "authors": [
+        {
+          "name": "Sanford J. Shattil",
+          "id": "A5108277896"
+        }
+      ],
+      "venue": "Journal of Immunological Methods",
+      "gold_person_id": "shattil_sanford_1"
+    }
+  }
+}

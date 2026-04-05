@@ -40,7 +40,7 @@ def fetch_data(name):
     #3. Fetch works for each author
     works_data = {}
     for author_id, author in author_data.items():
-        author_works = oth.fetch_works_for_author(author_id)
+        author_works = oth.fetch_works_for_author(author_id, name)
         author["works"] = [w["id"] for w in author_works]
 
         for work in author_works:

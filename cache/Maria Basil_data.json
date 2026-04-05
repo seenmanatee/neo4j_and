@@ -1,0 +1,327 @@
+{
+  "author_name": {
+    "name": "Maria Basil",
+    "clusters_count": 3
+  },
+  "author_data": {
+    "basil_maria_0": {
+      "id": "basil_maria_0",
+      "ids": [
+        "A5064965148"
+      ],
+      "name": "Maria C. Basil",
+      "name_first": "Maria",
+      "name_middle": "C.",
+      "name_last": "Basil",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 16,
+      "works": [
+        "W2198808464",
+        "W3014259712",
+        "W2003539449",
+        "W4221078835",
+        "W3135360764",
+        "W4200554832",
+        "W4385381520",
+        "W3090160959",
+        "W2911484303",
+        "W4323040923",
+        "W4295466467",
+        "W2990343983",
+        "W3176570718",
+        "W4229021943",
+        "W3095718278",
+        "W3145153286"
+      ]
+    },
+    "basil_maria_1": {
+      "id": "basil_maria_1",
+      "ids": [
+        "A5109485430"
+      ],
+      "name": "Maria C Basil",
+      "name_first": "Maria",
+      "name_middle": "C",
+      "name_last": "Basil",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 1,
+      "works": [
+        "W3119866666"
+      ]
+    },
+    "basil_maria_2": {
+      "id": "basil_maria_2",
+      "ids": [
+        "A5129031136"
+      ],
+      "name": "Maria Basil",
+      "name_first": "Maria",
+      "name_middle": "",
+      "name_last": "Basil",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 2,
+      "works": [
+        "W7135282834",
+        "W7135290702"
+      ]
+    }
+  },
+  "works_data": {
+    "W2198808464": {
+      "id": "W2198808464",
+      "title": "Specialized pro-resolving mediators: endogenous regulators of infection and inflammation",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Maria C. Basil",
+          "id": "A5064965148"
+        }
+      ],
+      "venue": "Nature reviews. Immunology",
+      "gold_person_id": "basil_maria_0"
+    },
+    "W3014259712": {
+      "id": "W3014259712",
+      "title": "The Cellular and Physiological Basis for Lung Repair and Regeneration: Past, Present, and Future",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Maria C. Basil",
+          "id": "A5064965148"
+        }
+      ],
+      "venue": "Cell stem cell",
+      "gold_person_id": "basil_maria_0"
+    },
+    "W2003539449": {
+      "id": "W2003539449",
+      "title": "Identification of Chimeric Antigen Receptors That Mediate Constitutive or Inducible Proliferation of T Cells",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Maria C. Basil",
+          "id": "A5064965148"
+        }
+      ],
+      "venue": "Cancer Immunology Research",
+      "gold_person_id": "basil_maria_0"
+    },
+    "W4221078835": {
+      "id": "W4221078835",
+      "title": "Human distal airways contain a multipotent secretory cell that can regenerate alveoli",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Maria C. Basil",
+          "id": "A5064965148"
+        }
+      ],
+      "venue": "Nature",
+      "gold_person_id": "basil_maria_0"
+    },
+    "W3135360764": {
+      "id": "W3135360764",
+      "title": "Genomic, epigenomic, and biophysical cues controlling the emergence of the lung alveolus",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Maria C. Basil",
+          "id": "A5064965148"
+        }
+      ],
+      "venue": "Science",
+      "gold_person_id": "basil_maria_0"
+    },
+    "W4200554832": {
+      "id": "W4200554832",
+      "title": "A census of the lung: CellCards from LungMAP",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Maria C. Basil",
+          "id": "A5064965148"
+        }
+      ],
+      "venue": "Developmental Cell",
+      "gold_person_id": "basil_maria_0"
+    },
+    "W4385381520": {
+      "id": "W4385381520",
+      "title": "Guided construction of single cell reference for human and mouse lung",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Maria C. Basil",
+          "id": "A5064965148"
+        }
+      ],
+      "venue": "Nature Communications",
+      "gold_person_id": "basil_maria_0"
+    },
+    "W3090160959": {
+      "id": "W3090160959",
+      "title": "STAT3\u2013BDNF\u2013TrkB signalling promotes alveolar epithelial regeneration after lung injury",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Maria C. Basil",
+          "id": "A5064965148"
+        }
+      ],
+      "venue": "Nature Cell Biology",
+      "gold_person_id": "basil_maria_0"
+    },
+    "W2911484303": {
+      "id": "W2911484303",
+      "title": "A SFTPC BRICHOS mutant links epithelial ER stress and spontaneous lung fibrosis",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Maria C. Basil",
+          "id": "A5064965148"
+        }
+      ],
+      "venue": "JCI Insight",
+      "gold_person_id": "basil_maria_0"
+    },
+    "W4323040923": {
+      "id": "W4323040923",
+      "title": "Biophysical forces mediated by respiration maintain lung alveolar epithelial cell fate",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Maria C. Basil",
+          "id": "A5064965148"
+        }
+      ],
+      "venue": "Cell",
+      "gold_person_id": "basil_maria_0"
+    },
+    "W4295466467": {
+      "id": "W4295466467",
+      "title": "Single-cell transcriptomics reveals skewed cellular communication and phenotypic shift in pulmonary artery remodeling",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Maria C. Basil",
+          "id": "A5064965148"
+        }
+      ],
+      "venue": "JCI Insight",
+      "gold_person_id": "basil_maria_0"
+    },
+    "W2990343983": {
+      "id": "W2990343983",
+      "title": "Lung regeneration: a tale of mice and men",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Maria C. Basil",
+          "id": "A5064965148"
+        }
+      ],
+      "venue": "Seminars in Cell and Developmental Biology",
+      "gold_person_id": "basil_maria_0"
+    },
+    "W3176570718": {
+      "id": "W3176570718",
+      "title": "Type II alveolar cell MHCII improves respiratory viral disease outcomes while exhibiting limited antigen presentation",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Maria C. Basil",
+          "id": "A5064965148"
+        }
+      ],
+      "venue": "Nature Communications",
+      "gold_person_id": "basil_maria_0"
+    },
+    "W4229021943": {
+      "id": "W4229021943",
+      "title": "Microstructured Hydrogels to Guide Self\u2010Assembly and Function of Lung Alveolospheres",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Maria C. Basil",
+          "id": "A5064965148"
+        }
+      ],
+      "venue": "Advanced Materials",
+      "gold_person_id": "basil_maria_0"
+    },
+    "W3095718278": {
+      "id": "W3095718278",
+      "title": "mTORC1 activation in lung mesenchyme drives sex- and age-dependent pulmonary structure and function decline",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Maria C. Basil",
+          "id": "A5064965148"
+        }
+      ],
+      "venue": "Nature Communications",
+      "gold_person_id": "basil_maria_0"
+    },
+    "W3145153286": {
+      "id": "W3145153286",
+      "title": "Activation of STING Signaling Pathway Effectively Blocks Human Coronavirus Infection",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Maria C. Basil",
+          "id": "A5064965148"
+        }
+      ],
+      "venue": "Journal of Virology",
+      "gold_person_id": "basil_maria_0"
+    },
+    "W3119866666": {
+      "id": "W3119866666",
+      "title": "\u201cMake the Implicit Explicit\u201d: Measuring Perceptions of Gender Bias and Creating a Gender Bias Curriculum for Internal Medicine Residents",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Maria C Basil",
+          "id": "A5109485430"
+        }
+      ],
+      "venue": "Advances in Medical Education and Practice",
+      "gold_person_id": "basil_maria_1"
+    },
+    "W7135282834": {
+      "id": "W7135282834",
+      "title": "Effects of NOTCH Signaling on the Progenitor Function of iRASC to Differentiate into Other Airway Epithelial Cells",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Maria Basil",
+          "id": "A5129031136"
+        }
+      ],
+      "venue": "ScholarlyCommons (University of Pennsylvania)",
+      "gold_person_id": "basil_maria_2"
+    },
+    "W7135290702": {
+      "id": "W7135290702",
+      "title": "Developmental Changes in CFTR Expression in Alveolar Type 2 Cells of the Postnatal Ferret Lung",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Maria Basil",
+          "id": "A5129031136"
+        }
+      ],
+      "venue": "Scholarly Commons (University of Pennsylvania)",
+      "gold_person_id": "basil_maria_2"
+    }
+  }
+}

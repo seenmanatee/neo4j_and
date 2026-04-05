@@ -1,0 +1,27 @@
+[
+  {
+     "name": "Joseph Bloomer",
+     "complexity": 5.366,
+     "category": "easy"
+   },
+   {
+     "name": "Sanford Shattil",
+     "complexity": 5.7746,
+     "category": "easy"
+   },
+   {
+     "name": "Peter Cram",
+     "complexity": 5.7991,
+     "category": "easy"
+   },
+   {
+     "name": "Claude Piantadosi",
+     "complexity": 6.319,
+     "category": "easy"
+   },
+   {
+     "name": "Maria Basil",
+     "complexity": 8.6876,
+     "category": "easy"
+   }
+]

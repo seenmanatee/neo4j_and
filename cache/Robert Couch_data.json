@@ -1,0 +1,2284 @@
+{
+  "author_name": {
+    "name": "Robert Couch",
+    "clusters_count": 16
+  },
+  "author_data": {
+    "couch_robert_0": {
+      "id": "couch_robert_0",
+      "ids": [
+        "A5112016847"
+      ],
+      "name": "Robert B. Couch",
+      "name_first": "Robert",
+      "name_middle": "B.",
+      "name_last": "Couch",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 87,
+      "works": [
+        "W2095633747",
+        "W2157547565",
+        "W2315519241",
+        "W1966623111",
+        "W2411091524",
+        "W2136713302",
+        "W2118306668",
+        "W2171241315",
+        "W2315802413",
+        "W2152368843",
+        "W2118490555",
+        "W2109250794",
+        "W582147111",
+        "W1981336473",
+        "W2136687565",
+        "W1965540493",
+        "W4206708282",
+        "W3122654268",
+        "W2067253046",
+        "W2041114103",
+        "W2110750448",
+        "W1989483194",
+        "W2272937037",
+        "W3020911517",
+        "W2050306167",
+        "W2081022718",
+        "W2022547167",
+        "W2105395255",
+        "W1977519122",
+        "W2098137295",
+        "W2080855765",
+        "W2140939393",
+        "W1928788567",
+        "W2167279670",
+        "W1973128338",
+        "W1997897448",
+        "W1942417735",
+        "W2041252187",
+        "W1933498741",
+        "W2071113812",
+        "W2892797088",
+        "W2996253479",
+        "W1758863252",
+        "W2156604913",
+        "W2110267072",
+        "W1978785759",
+        "W2140020233",
+        "W2121448471",
+        "W2051793642",
+        "W2122507032",
+        "W1978891127",
+        "W1988772027",
+        "W2022051536",
+        "W2402834990",
+        "W1551608563",
+        "W4313376833",
+        "W2043287495",
+        "W2387058300",
+        "W1488380334",
+        "W2031592214",
+        "W1999895030",
+        "W2063557533",
+        "W2089688620",
+        "W2139605783",
+        "W2016253207",
+        "W2162940389",
+        "W1993780517",
+        "W2136258883",
+        "W1991475889",
+        "W3123046441",
+        "W4313561480",
+        "W2097606030",
+        "W2055521109",
+        "W4313307036",
+        "W1566301355",
+        "W2332977226",
+        "W1883049695",
+        "W1966564556",
+        "W1549353381",
+        "W2143470066",
+        "W1981207512",
+        "W4205738103",
+        "W1970315269",
+        "W4313311459",
+        "W2044867279",
+        "W2000363291",
+        "W2080530038"
+      ]
+    },
+    "couch_robert_1": {
+      "id": "couch_robert_1",
+      "ids": [
+        "A5000498682"
+      ],
+      "name": "Robert Couch",
+      "name_first": "Robert",
+      "name_middle": "",
+      "name_last": "Couch",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 29,
+      "works": [
+        "W1991449126",
+        "W2146591423",
+        "W2148372168",
+        "W2103884329",
+        "W2803641758",
+        "W2203395861",
+        "W3204733094",
+        "W2141587978",
+        "W2141509655",
+        "W1582208440",
+        "W2048210380",
+        "W2898906372",
+        "W2147699024",
+        "W2167875511",
+        "W2891756748",
+        "W3181350235",
+        "W2009896974",
+        "W2301359231",
+        "W2132747619",
+        "W2012142785",
+        "W2335106033",
+        "W2052668391",
+        "W1991780901",
+        "W2048573045",
+        "W2094577793",
+        "W2152335043",
+        "W2059602154",
+        "W1987411147",
+        "W1974705143"
+      ]
+    },
+    "couch_robert_2": {
+      "id": "couch_robert_2",
+      "ids": [
+        "A5031687478"
+      ],
+      "name": "Robert Couch",
+      "name_first": "Robert",
+      "name_middle": "",
+      "name_last": "Couch",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 3,
+      "works": [
+        "W2124494264",
+        "W2074325515",
+        "W2145679789"
+      ]
+    },
+    "couch_robert_3": {
+      "id": "couch_robert_3",
+      "ids": [
+        "A5026558688"
+      ],
+      "name": "Robert T. Couch",
+      "name_first": "Robert",
+      "name_middle": "T.",
+      "name_last": "Couch",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 1,
+      "works": [
+        "W2067494864"
+      ]
+    },
+    "couch_robert_4": {
+      "id": "couch_robert_4",
+      "ids": [
+        "A5058589825"
+      ],
+      "name": "Robert Couch",
+      "name_first": "Robert",
+      "name_middle": "",
+      "name_last": "Couch",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 2,
+      "works": [
+        "W2587308428",
+        "W2590555768"
+      ]
+    },
+    "couch_robert_5": {
+      "id": "couch_robert_5",
+      "ids": [
+        "A5109127442"
+      ],
+      "name": "Robert B. Couch",
+      "name_first": "Robert",
+      "name_middle": "B.",
+      "name_last": "Couch",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 1,
+      "works": [
+        "W2016033723"
+      ]
+    },
+    "couch_robert_6": {
+      "id": "couch_robert_6",
+      "ids": [
+        "A5035126446"
+      ],
+      "name": "Robert P. Couch",
+      "name_first": "Robert",
+      "name_middle": "P.",
+      "name_last": "Couch",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 1,
+      "works": [
+        "W2028899603"
+      ]
+    },
+    "couch_robert_7": {
+      "id": "couch_robert_7",
+      "ids": [
+        "A5015323272"
+      ],
+      "name": "Robert H. Couch",
+      "name_first": "Robert",
+      "name_middle": "H.",
+      "name_last": "Couch",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 7,
+      "works": [
+        "W147274065",
+        "W2953123379",
+        "W131460866",
+        "W1989962819",
+        "W2951139092",
+        "W2950593187",
+        "W2950920727"
+      ]
+    },
+    "couch_robert_8": {
+      "id": "couch_robert_8",
+      "ids": [
+        "A5008971214"
+      ],
+      "name": "Robert Alexander Couch",
+      "name_first": "Robert",
+      "name_middle": "Alexander",
+      "name_last": "Couch",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 2,
+      "works": [
+        "W241450717",
+        "W2790964879"
+      ]
+    },
+    "couch_robert_9": {
+      "id": "couch_robert_9",
+      "ids": [
+        "A5072159772"
+      ],
+      "name": "Robert Gibbs Couch",
+      "name_first": "Robert",
+      "name_middle": "Gibbs",
+      "name_last": "Couch",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 1,
+      "works": [
+        "W98232177"
+      ]
+    },
+    "couch_robert_10": {
+      "id": "couch_robert_10",
+      "ids": [
+        "A5128572759"
+      ],
+      "name": "Robert Couch",
+      "name_first": "Robert",
+      "name_middle": "",
+      "name_last": "Couch",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 2,
+      "works": [
+        "W7134364143",
+        "W7134378073"
+      ]
+    },
+    "couch_robert_11": {
+      "id": "couch_robert_11",
+      "ids": [
+        "A5075896275"
+      ],
+      "name": "Robert F. Couch",
+      "name_first": "Robert",
+      "name_middle": "F.",
+      "name_last": "Couch",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 2,
+      "works": [
+        "W1639729208",
+        "W341698194"
+      ]
+    },
+    "couch_robert_12": {
+      "id": "couch_robert_12",
+      "ids": [
+        "A5065586110"
+      ],
+      "name": "Robert D. Couch",
+      "name_first": "Robert",
+      "name_middle": "D.",
+      "name_last": "Couch",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 1,
+      "works": [
+        "W4248387032"
+      ]
+    },
+    "couch_robert_13": {
+      "id": "couch_robert_13",
+      "ids": [
+        "A5052050208"
+      ],
+      "name": "Robert Danna Couch",
+      "name_first": "Robert",
+      "name_middle": "Danna",
+      "name_last": "Couch",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 1,
+      "works": [
+        "W2726757873"
+      ]
+    },
+    "couch_robert_14": {
+      "id": "couch_robert_14",
+      "ids": [
+        "A5056883913"
+      ],
+      "name": "Robert Edward Couch",
+      "name_first": "Robert",
+      "name_middle": "Edward",
+      "name_last": "Couch",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 2,
+      "works": [
+        "W3184327534",
+        "W633288694"
+      ]
+    },
+    "couch_robert_15": {
+      "id": "couch_robert_15",
+      "ids": [
+        "A5052430606"
+      ],
+      "name": "Robert Joseph Couch",
+      "name_first": "Robert",
+      "name_middle": "Joseph",
+      "name_last": "Couch",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 1,
+      "works": [
+        "W2221275532"
+      ]
+    }
+  },
+  "works_data": {
+    "W2095633747": {
+      "id": "W2095633747",
+      "title": "Immunization with SARS Coronavirus Vaccines Leads to Pulmonary Immunopathology on Challenge with the SARS Virus",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "PLoS ONE",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2157547565": {
+      "id": "W2157547565",
+      "title": "IMMUNITY TO INFLUENZA IN MAN",
+      "year": 1983,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Annual Review of Microbiology",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2315519241": {
+      "id": "W2315519241",
+      "title": "Interpandemic Influenza in the Houston Area, 1974\u201376",
+      "year": 1978,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "New England Journal of Medicine",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W1966623111": {
+      "id": "W1966623111",
+      "title": "Respiratory Viral Infections in Immunocompetent and Immunocompromised Persons",
+      "year": 1997,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "The American Journal of Medicine",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2411091524": {
+      "id": "W2411091524",
+      "title": "Immunization with inactivated Middle East Respiratory Syndrome coronavirus vaccine leads to lung immunopathology on challenge with live virus",
+      "year": 2016,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Human Vaccines & Immunotherapeutics",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2136713302": {
+      "id": "W2136713302",
+      "title": "Antibody Correlates and Predictors of Immunity to Naturally Occurring Influenza in Humans and the Importance of Antibody to the Neuraminidase",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "The Journal of Infectious Diseases",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2118306668": {
+      "id": "W2118306668",
+      "title": "Early Patterns of Gene Expression Correlate With the Humoral Immune Response to Influenza Vaccination in Humans",
+      "year": 2011,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "The Journal of Infectious Diseases",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2171241315": {
+      "id": "W2171241315",
+      "title": "Generation of a Transgenic Mouse Model of Middle East Respiratory Syndrome Coronavirus Infection and Disease",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Journal of Virology",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2315802413": {
+      "id": "W2315802413",
+      "title": "Adrenal Involvement in the Antiphospholipid Syndrome",
+      "year": 2003,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Medicine",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2152368843": {
+      "id": "W2152368843",
+      "title": "Safety of High Doses of Influenza Vaccine and Effect on Antibody Responses in Elderly Persons",
+      "year": 2006,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Archives of Internal Medicine",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2118490555": {
+      "id": "W2118490555",
+      "title": "Safety and immunogenicity of a high dosage trivalent influenza vaccine among elderly subjects",
+      "year": 2007,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Vaccine",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2109250794": {
+      "id": "W2109250794",
+      "title": "Influenza A virus infection engenders a poor antibody response against the ectodomain of matrix protein 2",
+      "year": 2006,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Virology Journal",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W582147111": {
+      "id": "W582147111",
+      "title": "Host Transcriptional Response to Influenza and Other Acute Respiratory Viral Infections \u2013 A Prospective Cohort Study",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "PLoS Pathogens",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W1981336473": {
+      "id": "W1981336473",
+      "title": "Nasal Vaccination,<i>Escherichia coli</i>Enterotoxin, and Bell's Palsy",
+      "year": 2004,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "New England Journal of Medicine",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2136687565": {
+      "id": "W2136687565",
+      "title": "Integrative genomic analysis of the human immune response to influenza vaccination",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "eLife",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W1965540493": {
+      "id": "W1965540493",
+      "title": "A high dosage influenza vaccine induced significantly more neuraminidase antibody than standard vaccine among elderly subjects",
+      "year": 2009,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Vaccine",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W4206708282": {
+      "id": "W4206708282",
+      "title": "Correction: Immunization with SARS Coronavirus Vaccines Leads to Pulmonary Immunopathology on Challenge with the SARS Virus",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "PLoS ONE",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W3122654268": {
+      "id": "W3122654268",
+      "title": "The Desire to Acquire and IPO Long-Run Underperformance",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Journal of Financial and Quantitative Analysis",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2067253046": {
+      "id": "W2067253046",
+      "title": "A Randomized Clinical Trial of an Inactivated Avian Influenza A (H7N7) Vaccine",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "PLoS ONE",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2041114103": {
+      "id": "W2041114103",
+      "title": "Randomized comparative study of the serum antihemagglutinin and antineuraminidase antibody responses to six licensed trivalent influenza vaccines",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Vaccine",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2110750448": {
+      "id": "W2110750448",
+      "title": "False-Positive Results in a Recombinant Severe Acute Respiratory Syndrome-Associated Coronavirus (SARS-CoV) Nucleocapsid Enzyme-Linked Immunosorbent Assay Due to HCoV-OC43 and HCoV-229E Rectified by Western Blotting with Recombinant SARS-CoV Spike Polypeptide",
+      "year": 2004,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Journal of Clinical Microbiology",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W1989483194": {
+      "id": "W1989483194",
+      "title": "Pause on Avian Flu Transmission Research",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Science",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2272937037": {
+      "id": "W2272937037",
+      "title": "Characterization and Demonstration of the Value of a Lethal Mouse Model of Middle East Respiratory Syndrome Coronavirus Infection and Disease",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Journal of Virology",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W3020911517": {
+      "id": "W3020911517",
+      "title": "Transmission Studies Resume for Avian Flu",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Science",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2050306167": {
+      "id": "W2050306167",
+      "title": "Evaluations for In Vitro Correlates of Immunogenicity of Inactivated Influenza A H5, H7 and H9 Vaccines in Humans",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "PLoS ONE",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2081022718": {
+      "id": "W2081022718",
+      "title": "Clinical Responses to Undiluted and Diluted Smallpox Vaccine",
+      "year": 2002,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "New England Journal of Medicine",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2022547167": {
+      "id": "W2022547167",
+      "title": "Prevention and Treatment of Influenza",
+      "year": 2000,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "New England Journal of Medicine",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2105395255": {
+      "id": "W2105395255",
+      "title": "Influenza Among Hospitalized Adults with Leukemia",
+      "year": 1997,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Clinical Infectious Diseases",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W1977519122": {
+      "id": "W1977519122",
+      "title": "Human H3N2 Influenza Viruses Isolated from 1968 To 2012 Show Varying Preference for Receptor Substructures with No Apparent Consequences for Disease or Spread",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "PLoS ONE",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2098137295": {
+      "id": "W2098137295",
+      "title": "Dose\u2010Related Safety and Immunogenicity of a Trivalent Baculovirus\u2010Expressed Influenza\u2010Virus Hemagglutinin Vaccine in Elderly Adults",
+      "year": 2006,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "The Journal of Infectious Diseases",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2080855765": {
+      "id": "W2080855765",
+      "title": "Seasonal inactivated influenza virus vaccines",
+      "year": 2008,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Vaccine",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2140939393": {
+      "id": "W2140939393",
+      "title": "Evaluation of Influenza A/Hong Kong/123/77 (H1N1) <i>ts</i> -1A2 and Cold-Adapted Recombinant Viruses in Seronegative Adult Volunteers",
+      "year": 1980,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Infection and Immunity",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W1928788567": {
+      "id": "W1928788567",
+      "title": "Age Distribution of Patients with Medically-Attended Illnesses Caused by Sequential Variants of Influenza A/H1N1: Comparison to Age-Specific Infection Rates, 1978\u20131989",
+      "year": 1991,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "American Journal of Epidemiology",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2167279670": {
+      "id": "W2167279670",
+      "title": "EPIDEMIOLOGIC OBSERVATIONS OF INFLUENZA B VIRUS INFECTIONS IN HOUSTON, TEXAS, 1976\u20131977",
+      "year": 1980,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "American Journal of Epidemiology",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W1973128338": {
+      "id": "W1973128338",
+      "title": "Epidemiology of Influenza A virus infection in patients with acute or chronic leukemia",
+      "year": 1995,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Supportive Care in Cancer",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W1997897448": {
+      "id": "W1997897448",
+      "title": "A dose\u2013response evaluation of inactivated influenza vaccine given intranasally and intramuscularly to healthy young adults",
+      "year": 2007,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Vaccine",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W1942417735": {
+      "id": "W1942417735",
+      "title": "The virtue of participatory governance: a <scp>M</scp>ac<scp>I</scp>ntyrean alternative to shareholder maximization",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Business Ethics A European Review",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2041252187": {
+      "id": "W2041252187",
+      "title": "Superior antigen-specific CD4+T-cell response with AS03-adjuvantation of a trivalent influenza vaccine in a randomised trial of adults aged 65 and older",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "BMC Infectious Diseases",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W1933498741": {
+      "id": "W1933498741",
+      "title": "BOLIVIAN HEMORRHAGIC FEVER PROBABLY TRANSMITTED BY PERSONAL CONTACT1",
+      "year": 1965,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "American Journal of Epidemiology",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2071113812": {
+      "id": "W2071113812",
+      "title": "Picornavirus, the Most Common Respiratory Virus Causing Infection among Patients of All Ages Hospitalized with Acute Respiratory Illness",
+      "year": 2011,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Journal of Clinical Microbiology",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2892797088": {
+      "id": "W2892797088",
+      "title": "Elevated Human Dipeptidyl Peptidase 4 Expression Reduces the Susceptibility of hDPP4 Transgenic Mice to Middle East Respiratory Syndrome Coronavirus Infection and Disease",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "The Journal of Infectious Diseases",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2996253479": {
+      "id": "W2996253479",
+      "title": "The Virtues of Equality and Dissensus: MacIntyre in a Dialogue with Ranci\u00e8re and Mouffe",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Journal of Business Ethics",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W1758863252": {
+      "id": "W1758863252",
+      "title": "Economy suspended: the possibilities of a <scp>B</scp>adiouian business ethics",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Business Ethics A European Review",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2156604913": {
+      "id": "W2156604913",
+      "title": "A Prospective Study of Chronic Herpes Simplex Virus Infection and Recurrent Herpes Labialis in Humans",
+      "year": 1970,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "The Journal of Immunology",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2110267072": {
+      "id": "W2110267072",
+      "title": "Effects of Low- and High-Passage Influenza Virus Infection in Normal and Nude Mice",
+      "year": 1977,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Infection and Immunity",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W1978785759": {
+      "id": "W1978785759",
+      "title": "Studies with Rhinoviruses in Volunteers: Production of Illness, Effect of Naturally Acquired Antibody, and Demonstration of a Protective Effect Not Associated with Serum Antibody*",
+      "year": 1964,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Journal of Clinical Investigation",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2140020233": {
+      "id": "W2140020233",
+      "title": "Improvement of Inactivated Influenza Virus Vaccines",
+      "year": 1997,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "The Journal of Infectious Diseases",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2121448471": {
+      "id": "W2121448471",
+      "title": "Dose\u2010Related Safety and Immunogenicity of Baculovirus\u2010Expressed Trivalent Influenza Vaccine: A Double\u2010Blind, Controlled Trial in Adult Patients with Non\u2010Hodgkin B Cell Lymphoma",
+      "year": 2006,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "The Journal of Infectious Diseases",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2051793642": {
+      "id": "W2051793642",
+      "title": "Contrasting effects of type I interferon as a mucosal adjuvant for influenza vaccine in mice and humans",
+      "year": 2009,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Vaccine",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2122507032": {
+      "id": "W2122507032",
+      "title": "Dose\u2010Dependent Neutralizing\u2010Antibody Responses to Vaccinia",
+      "year": 2004,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "The Journal of Infectious Diseases",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W1978891127": {
+      "id": "W1978891127",
+      "title": "Global Gene Expression Profiling in Infants With Acute Respiratory Syncytial Virus Broncholitis Demonstrates Systemic Activation of Interferon Signaling Networks",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "The Pediatric Infectious Disease Journal",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W1988772027": {
+      "id": "W1988772027",
+      "title": "Control of mucosal virus infection by influenza nucleoprotein-specific CD8+ cytotoxic T lymphocytes",
+      "year": 2007,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Respiratory Research",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2022051536": {
+      "id": "W2022051536",
+      "title": "Herpes Zoster-Associated Encephalitis",
+      "year": 1983,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Medicine",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2402834990": {
+      "id": "W2402834990",
+      "title": "THE ROLE OF NASAL SECRETION AND SERUM ANTIBODY IN THE RHINOVIRUS COMMON COLD1",
+      "year": 1966,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "American Journal of Epidemiology",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W1551608563": {
+      "id": "W1551608563",
+      "title": "Exposure to Cold Environment and Rhinovirus Common Cold",
+      "year": 1968,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "New England Journal of Medicine",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W4313376833": {
+      "id": "W4313376833",
+      "title": "Rhinovirus Neutralizing Antibody in Tears, Parotid Saliva, Nasal Secretions and Serum",
+      "year": 1967,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "The Journal of Immunology",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2043287495": {
+      "id": "W2043287495",
+      "title": "Advances in Influenza Virus Vaccine Researcha",
+      "year": 1993,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Annals of the New York Academy of Sciences",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2387058300": {
+      "id": "W2387058300",
+      "title": "HOMOLOGOUS AND HETEROLOGOUS RESISTANCE TO RHINOVIRUS COMMON COLD1",
+      "year": 1965,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "American Journal of Epidemiology",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W1488380334": {
+      "id": "W1488380334",
+      "title": "PRODUCTION OF TRACHEOBRONCHITIS IN VOLUNTEERS WITH RHINOVIRUS IN A SMALL-PARTICLE AEROSOL1",
+      "year": 1965,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "American Journal of Epidemiology",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2031592214": {
+      "id": "W2031592214",
+      "title": "Diminished Influenza A Virus-Specific MHC Class I-Restricted Cytotoxic T Lymphocyte Activity among Elderly Persons",
+      "year": 1993,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Viral Immunology",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W1999895030": {
+      "id": "W1999895030",
+      "title": "Editorial Response: Influenza, Influenza Virus Vaccine, and Human Immunodeficiency Virus Infection",
+      "year": 1999,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Clinical Infectious Diseases",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2063557533": {
+      "id": "W2063557533",
+      "title": "Fetal Thyrotoxicosis: A Case Report and Recommendations for Prediction, Diagnosis, and Treatment",
+      "year": 1995,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Thyroid",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2089688620": {
+      "id": "W2089688620",
+      "title": "Influenza: Prospects for Control",
+      "year": 2000,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Annals of Internal Medicine",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2139605783": {
+      "id": "W2139605783",
+      "title": "Immunization against Influenza: Comparison of Various Topical and Parenteral Regimens Containing Inactivated and/or Live Attenuated Vaccines in Healthy Adults",
+      "year": 2001,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "The Journal of Infectious Diseases",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2016253207": {
+      "id": "W2016253207",
+      "title": "Interest Tax Shields: A Barrier Options Approach",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Review of Quantitative Finance and Accounting",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2162940389": {
+      "id": "W2162940389",
+      "title": "Reducing the Dose of Smallpox Vaccine Reduces Vaccine\u2010Associated Morbidity without Reducing Vaccination Success Rates or Immune Responses",
+      "year": 2007,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "The Journal of Infectious Diseases",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W1993780517": {
+      "id": "W1993780517",
+      "title": "A New Antiviral Agent for Influenza \u2014 Is There a Clinical Niche?",
+      "year": 1997,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "New England Journal of Medicine",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2136258883": {
+      "id": "W2136258883",
+      "title": "Increasing Doses of an Inactivated Influenza A/H1N1 Vaccine Induce Increasing Levels of Cross\u2010Reacting Antibody to Subsequent, Antigenically Different, Variants",
+      "year": 2008,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "The Journal of Infectious Diseases",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W1991475889": {
+      "id": "W1991475889",
+      "title": "Evaluation of age-related differences in the immunogenicity of a G9 H9N2 influenza vaccine",
+      "year": 2011,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Vaccine",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W3123046441": {
+      "id": "W3123046441",
+      "title": "Are fair value options created equal? A study of SFAS 159 and earnings volatility",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Advances in Accounting",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W4313561480": {
+      "id": "W4313561480",
+      "title": "Value creation and the internal goods of business",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Frontiers in Sociology",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2097606030": {
+      "id": "W2097606030",
+      "title": "Antibody to <i>Mycoplasma pneumoniae</i> in Nasal Secretions and Sputa of Experimentally Infected Human Volunteers",
+      "year": 1973,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Infection and Immunity",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2055521109": {
+      "id": "W2055521109",
+      "title": "Clinical and epidemiological importance of influenza a viruses resistant to amantadine and rimantadine",
+      "year": 1992,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Reviews in Medical Virology",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W4313307036": {
+      "id": "W4313307036",
+      "title": "Changes in IgA and IgG Concentrations in Nasal Secretions Prior to the Appearance of Antibody during Viral Respiratory Infection in Man",
+      "year": 1970,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "The Journal of Immunology",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W1566301355": {
+      "id": "W1566301355",
+      "title": "Cytokines and impaired CD8+ CTL activity among elderly persons and the enhancing effect of IL-121This paper was presented at the First International Conference on Immunology and Aging, June 13\u201319, 1996, Bethesda, MD, USA.1",
+      "year": 1997,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Mechanisms of Ageing and Development",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2332977226": {
+      "id": "W2332977226",
+      "title": "THE INFLUENZA HERALD WAVE1",
+      "year": 1982,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "American Journal of Epidemiology",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W1883049695": {
+      "id": "W1883049695",
+      "title": "Amantadine Therapy of Epidemic Influenza A <sub>2</sub> (Hong Kong)",
+      "year": 1970,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Infection and Immunity",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W1966564556": {
+      "id": "W1966564556",
+      "title": "Production of Illness with a Small-Particle Aerosol of Coxsackie A21*",
+      "year": 1965,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Journal of Clinical Investigation",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W1549353381": {
+      "id": "W1549353381",
+      "title": "Lymphocyte cytotoxicity to influenza virus-infected cells. II. Requirement for antibody and non-T lymphocytes.",
+      "year": 1977,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "PubMed",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2143470066": {
+      "id": "W2143470066",
+      "title": "Trivalent Attenuated Cold-Adapted Influenza Virus Vaccine: Reduced Viral Shedding and Serum Antibody Responses in Susceptible Adults",
+      "year": 1993,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "The Journal of Infectious Diseases",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W1981207512": {
+      "id": "W1981207512",
+      "title": "Rimantadine prophylaxis in children",
+      "year": 1988,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "The Pediatric Infectious Disease Journal",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W4205738103": {
+      "id": "W4205738103",
+      "title": "Current research on respiratory viral infections: Third International Symposium",
+      "year": 2001,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Antiviral Research",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W1970315269": {
+      "id": "W1970315269",
+      "title": "Comparison of amantadine and rimantadine for prevention of type A (Russian) influenza",
+      "year": 1981,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Antiviral Research",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W4313311459": {
+      "id": "W4313311459",
+      "title": "Lymphocyte Cytotoxicity to Influenza Virus-Infected Cells",
+      "year": 1977,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "The Journal of Immunology",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2044867279": {
+      "id": "W2044867279",
+      "title": "Effect of live attenuated, cold recombinant (CR) influenza virus vaccines on pulmonary function in healthy and asthmatic adults",
+      "year": 1990,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Vaccine",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2000363291": {
+      "id": "W2000363291",
+      "title": "Influenza A subtype cross-protection after immunization of outbred mice with a purified chimeric NS1/HA2 influenza virus protein",
+      "year": 1994,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "Vaccine",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W2080530038": {
+      "id": "W2080530038",
+      "title": "Measures for Control of Influenza",
+      "year": 1999,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5112016847"
+        }
+      ],
+      "venue": "PharmacoEconomics",
+      "gold_person_id": "couch_robert_0"
+    },
+    "W1991449126": {
+      "id": "W1991449126",
+      "title": "Hypertension with or without adrenal hyperplasia due to different inherited mutations in the potassium channel <i>KCNJ5</i>",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5000498682"
+        }
+      ],
+      "venue": "Proceedings of the National Academy of Sciences",
+      "gold_person_id": "couch_robert_1"
+    },
+    "W2146591423": {
+      "id": "W2146591423",
+      "title": "Incident vertebral fractures among children with rheumatic disorders 12 months after glucocorticoid initiation: A national observational study",
+      "year": 2011,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5000498682"
+        }
+      ],
+      "venue": "Arthritis Care & Research",
+      "gold_person_id": "couch_robert_1"
+    },
+    "W2148372168": {
+      "id": "W2148372168",
+      "title": "High Incidence of Vertebral Fractures in Children With Acute Lymphoblastic Leukemia 12 Months After the Initiation of Therapy",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5000498682"
+        }
+      ],
+      "venue": "Journal of Clinical Oncology",
+      "gold_person_id": "couch_robert_1"
+    },
+    "W2103884329": {
+      "id": "W2103884329",
+      "title": "Incident Vertebral Fractures and Risk Factors in the First Three Years Following Glucocorticoid Initiation Among Pediatric Patients With Rheumatic Disorders",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5000498682"
+        }
+      ],
+      "venue": "Journal of Bone and Mineral Research",
+      "gold_person_id": "couch_robert_1"
+    },
+    "W2803641758": {
+      "id": "W2803641758",
+      "title": "Bone Morbidity and Recovery in Children With Acute Lymphoblastic Leukemia: Results of a Six-Year Prospective Cohort Study",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5000498682"
+        }
+      ],
+      "venue": "Journal of Bone and Mineral Research",
+      "gold_person_id": "couch_robert_1"
+    },
+    "W2203395861": {
+      "id": "W2203395861",
+      "title": "Incident Vertebral Fractures in Children With Leukemia During the Four Years Following Diagnosis",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5000498682"
+        }
+      ],
+      "venue": "The Journal of Clinical Endocrinology & Metabolism",
+      "gold_person_id": "couch_robert_1"
+    },
+    "W3204733094": {
+      "id": "W3204733094",
+      "title": "Transgender Youth Referred to Clinics for Gender-Affirming Medical Care in Canada",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5000498682"
+        }
+      ],
+      "venue": "PEDIATRICS",
+      "gold_person_id": "couch_robert_1"
+    },
+    "W2141587978": {
+      "id": "W2141587978",
+      "title": "Allgrove syndrome: an autosomal recessive syndrome of ACTH insensitivity, achalasia and alacrima",
+      "year": 1991,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5000498682"
+        }
+      ],
+      "venue": "Clinical Endocrinology",
+      "gold_person_id": "couch_robert_1"
+    },
+    "W2141509655": {
+      "id": "W2141509655",
+      "title": "The Choice of Normative Pediatric Reference Database Changes Spine Bone Mineral Density Z-Scores But Not the Relationship Between Bone Mineral Density and Prevalent Vertebral Fractures",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5000498682"
+        }
+      ],
+      "venue": "The Journal of Clinical Endocrinology & Metabolism",
+      "gold_person_id": "couch_robert_1"
+    },
+    "W1582208440": {
+      "id": "W1582208440",
+      "title": "Diabetes education for children with type 1 diabetes mellitus and their families.",
+      "year": 2008,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5000498682"
+        }
+      ],
+      "venue": "PubMed",
+      "gold_person_id": "couch_robert_1"
+    },
+    "W2048210380": {
+      "id": "W2048210380",
+      "title": "Skeletal findings in the first 12\u00a0months following initiation of glucocorticoid therapy for pediatric nephrotic syndrome",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5000498682"
+        }
+      ],
+      "venue": "Osteoporosis International",
+      "gold_person_id": "couch_robert_1"
+    },
+    "W2898906372": {
+      "id": "W2898906372",
+      "title": "Predicted Benign and Synonymous Variants in CYP11A1 Cause Primary Adrenal Insufficiency Through Missplicing",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5000498682"
+        }
+      ],
+      "venue": "Journal of the Endocrine Society",
+      "gold_person_id": "couch_robert_1"
+    },
+    "W2147699024": {
+      "id": "W2147699024",
+      "title": "Prader-Willi syndrome, excessive daytime sleepiness, and narcoleptic symptoms: a case report",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5000498682"
+        }
+      ],
+      "venue": "Journal of Medical Case Reports",
+      "gold_person_id": "couch_robert_1"
+    },
+    "W2167875511": {
+      "id": "W2167875511",
+      "title": "Glucocorticoid\u2010related changes in body mass index among children and adolescents with rheumatic diseases",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5000498682"
+        }
+      ],
+      "venue": "Arthritis Care & Research",
+      "gold_person_id": "couch_robert_1"
+    },
+    "W2891756748": {
+      "id": "W2891756748",
+      "title": "Impact of Vertebral Fractures and Glucocorticoid Exposure on Height Deficits in Children During Treatment of Leukemia",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5000498682"
+        }
+      ],
+      "venue": "The Journal of Clinical Endocrinology & Metabolism",
+      "gold_person_id": "couch_robert_1"
+    },
+    "W3181350235": {
+      "id": "W3181350235",
+      "title": "Osteoporotic Fractures and Vertebral Body Reshaping in Children With Glucocorticoid-Treated Rheumatic Disorders",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5000498682"
+        }
+      ],
+      "venue": "The Journal of Clinical Endocrinology & Metabolism",
+      "gold_person_id": "couch_robert_1"
+    },
+    "W2009896974": {
+      "id": "W2009896974",
+      "title": "Effect of Bacille Calmette-Gu\u00e9rin Vaccination on C-Peptide Secretion in Children Newly Diagnosed With IDDM",
+      "year": 1998,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5000498682"
+        }
+      ],
+      "venue": "Diabetes Care",
+      "gold_person_id": "couch_robert_1"
+    },
+    "W2301359231": {
+      "id": "W2301359231",
+      "title": "Death from hyponatraemia-induced cerebral oedema associated with MDMA (\"Ecstasy\") use.",
+      "year": 1999,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5000498682"
+        }
+      ],
+      "venue": "PubMed",
+      "gold_person_id": "couch_robert_1"
+    },
+    "W2132747619": {
+      "id": "W2132747619",
+      "title": "Serum GH response to pharmacological stimuli and physical exercise in two siblings with two new inactivating mutations in the GH-releasing hormone receptor gene",
+      "year": 2002,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5000498682"
+        }
+      ],
+      "venue": "European Journal of Endocrinology",
+      "gold_person_id": "couch_robert_1"
+    },
+    "W2012142785": {
+      "id": "W2012142785",
+      "title": "Hypothalamic-Pituitary-Thyroid Axis Changes in Children after Cardiac Surgery",
+      "year": 2009,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5000498682"
+        }
+      ],
+      "venue": "The Journal of Clinical Endocrinology & Metabolism",
+      "gold_person_id": "couch_robert_1"
+    },
+    "W2335106033": {
+      "id": "W2335106033",
+      "title": "Early Onset Fatal Cerebral Edema In Diabetic Ketoacidosis",
+      "year": 1991,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5000498682"
+        }
+      ],
+      "venue": "Diabetes Care",
+      "gold_person_id": "couch_robert_1"
+    },
+    "W2052668391": {
+      "id": "W2052668391",
+      "title": "Effect of Type 1 Diabetes on Psychosocial Maturation in Young Adults",
+      "year": 2006,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5000498682"
+        }
+      ],
+      "venue": "Journal of Adolescent Health",
+      "gold_person_id": "couch_robert_1"
+    },
+    "W1991780901": {
+      "id": "W1991780901",
+      "title": "Screening for Adrenal Antibodies in Children With Type 1 Diabetes and Autoimmune Thyroid Disease",
+      "year": 2003,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5000498682"
+        }
+      ],
+      "venue": "Diabetes Care",
+      "gold_person_id": "couch_robert_1"
+    },
+    "W2048573045": {
+      "id": "W2048573045",
+      "title": "Syndrome of mental retardation, facial anomalies, hypopituitarism, and distal arthrogryposis in sibs",
+      "year": 1990,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5000498682"
+        }
+      ],
+      "venue": "American Journal of Medical Genetics",
+      "gold_person_id": "couch_robert_1"
+    },
+    "W2094577793": {
+      "id": "W2094577793",
+      "title": "A Novel Deletion in the Thyrotropin Beta-Subunit Gene Identified by Array Comparative Genomic Hybridization Analysis Causes Central Congenital Hypothyroidism in a Boy Originating from Turkey",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5000498682"
+        }
+      ],
+      "venue": "Hormone Research in Paediatrics",
+      "gold_person_id": "couch_robert_1"
+    },
+    "W2152335043": {
+      "id": "W2152335043",
+      "title": "Postnatal Virilization Mimicking 21-Hydroxylase Deficiency in 3 Very Premature Infants",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5000498682"
+        }
+      ],
+      "venue": "PEDIATRICS",
+      "gold_person_id": "couch_robert_1"
+    },
+    "W2059602154": {
+      "id": "W2059602154",
+      "title": "Hepatic dysfunction in Alstr\u00f6m disease",
+      "year": 1991,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5000498682"
+        }
+      ],
+      "venue": "American Journal of Medical Genetics",
+      "gold_person_id": "couch_robert_1"
+    },
+    "W1987411147": {
+      "id": "W1987411147",
+      "title": "Apparent postnatal onset of some manifestations of the Wiedemann\u2010Beckwith syndrome",
+      "year": 1990,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5000498682"
+        }
+      ],
+      "venue": "American Journal of Medical Genetics",
+      "gold_person_id": "couch_robert_1"
+    },
+    "W1974705143": {
+      "id": "W1974705143",
+      "title": "High Incidence of IDDM Over 6 Years in Edmonton, Alberta, Canada",
+      "year": 1997,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5000498682"
+        }
+      ],
+      "venue": "Diabetes Care",
+      "gold_person_id": "couch_robert_1"
+    },
+    "W2124494264": {
+      "id": "W2124494264",
+      "title": "The evolution of air transport systems: A pictorial review",
+      "year": 1988,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5031687478"
+        }
+      ],
+      "venue": "Journal of Emergency Medicine",
+      "gold_person_id": "couch_robert_2"
+    },
+    "W2074325515": {
+      "id": "W2074325515",
+      "title": "Safety and helicopter-based programs",
+      "year": 1986,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5031687478"
+        }
+      ],
+      "venue": "Annals of Emergency Medicine",
+      "gold_person_id": "couch_robert_2"
+    },
+    "W2145679789": {
+      "id": "W2145679789",
+      "title": "Hot-air balloon evacuation",
+      "year": 1987,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5031687478"
+        }
+      ],
+      "venue": "The American Journal of Emergency Medicine",
+      "gold_person_id": "couch_robert_2"
+    },
+    "W2067494864": {
+      "id": "W2067494864",
+      "title": "Characterization of Complementary Deoxyribonucleic Acid for Human Adrenocortical 17\u03b1-Hydroxylase: A Probe for Analysis of 17\u03b1-Hydroxylase Deficiency*",
+      "year": 1987,
+      "authors": [
+        {
+          "name": "Robert T. Couch",
+          "id": "A5026558688"
+        }
+      ],
+      "venue": "Molecular Endocrinology",
+      "gold_person_id": "couch_robert_3"
+    },
+    "W2587308428": {
+      "id": "W2587308428",
+      "title": "Development of Friction Stir Processing for Repair of Nuclear Dry Cask Storage System Canisters",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5058589825"
+        }
+      ],
+      "venue": "\u0098The \u009cminerals, metals & materials series",
+      "gold_person_id": "couch_robert_4"
+    },
+    "W2590555768": {
+      "id": "W2590555768",
+      "title": "Friction Stir Processing of Degraded Austenitic Stainless Steel Nuclear Fuel Dry Cask Storage System Canisters",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5058589825"
+        }
+      ],
+      "venue": "\u0098The \u009cminerals, metals & materials series",
+      "gold_person_id": "couch_robert_4"
+    },
+    "W2016033723": {
+      "id": "W2016033723",
+      "title": "Quantitation of human influenza virus-specific cytotoxic T lymphocytes: correlation of cytotoxicity and increased numbers of IFN-\u03b3 producing CD8<sup>+</sup> T cells",
+      "year": 1994,
+      "authors": [
+        {
+          "name": "Robert B. Couch",
+          "id": "A5109127442"
+        }
+      ],
+      "venue": "International Immunology",
+      "gold_person_id": "couch_robert_5"
+    },
+    "W2028899603": {
+      "id": "W2028899603",
+      "title": "Detecting Abnormal Turbine Engine Deterioration Using Electrostatic Methods",
+      "year": 1978,
+      "authors": [
+        {
+          "name": "Robert P. Couch",
+          "id": "A5035126446"
+        }
+      ],
+      "venue": "Journal of Aircraft",
+      "gold_person_id": "couch_robert_6"
+    },
+    "W147274065": {
+      "id": "W147274065",
+      "title": "Living with Disability in Guatemala",
+      "year": 1991,
+      "authors": [
+        {
+          "name": "Robert H. Couch",
+          "id": "A5015323272"
+        }
+      ],
+      "venue": "Journal of rehabilitation",
+      "gold_person_id": "couch_robert_7"
+    },
+    "W2953123379": {
+      "id": "W2953123379",
+      "title": "Basic Approaches to Adjustment Services in Rehabilitation",
+      "year": 1984,
+      "authors": [
+        {
+          "name": "Robert H. Couch",
+          "id": "A5015323272"
+        }
+      ],
+      "venue": "Journal of Applied Rehabilitation Counseling",
+      "gold_person_id": "couch_robert_7"
+    },
+    "W131460866": {
+      "id": "W131460866",
+      "title": "Ramps Not Steps: A Study of Accessibility Preferences",
+      "year": 1992,
+      "authors": [
+        {
+          "name": "Robert H. Couch",
+          "id": "A5015323272"
+        }
+      ],
+      "venue": "Journal of rehabilitation",
+      "gold_person_id": "couch_robert_7"
+    },
+    "W1989962819": {
+      "id": "W1989962819",
+      "title": "Rehabilitation innovations in Central America",
+      "year": 1993,
+      "authors": [
+        {
+          "name": "Robert H. Couch",
+          "id": "A5015323272"
+        }
+      ],
+      "venue": "International Journal of Rehabilitation Research",
+      "gold_person_id": "couch_robert_7"
+    },
+    "W2951139092": {
+      "id": "W2951139092",
+      "title": "Behavior Modification in Rehabilitation Facilities: a Review",
+      "year": 1973,
+      "authors": [
+        {
+          "name": "Robert H. Couch",
+          "id": "A5015323272"
+        }
+      ],
+      "venue": "Journal of Applied Rehabilitation Counseling",
+      "gold_person_id": "couch_robert_7"
+    },
+    "W2950593187": {
+      "id": "W2950593187",
+      "title": "Offender Rehabilitation: A Review of Societal Options",
+      "year": 1977,
+      "authors": [
+        {
+          "name": "Robert H. Couch",
+          "id": "A5015323272"
+        }
+      ],
+      "venue": "Journal of Applied Rehabilitation Counseling",
+      "gold_person_id": "couch_robert_7"
+    },
+    "W2950920727": {
+      "id": "W2950920727",
+      "title": "Role Concatenation in Rehabilitation",
+      "year": 1978,
+      "authors": [
+        {
+          "name": "Robert H. Couch",
+          "id": "A5015323272"
+        }
+      ],
+      "venue": "Journal of Applied Rehabilitation Counseling",
+      "gold_person_id": "couch_robert_7"
+    },
+    "W241450717": {
+      "id": "W241450717",
+      "title": "A Model for Fixing Identification Evidence after Perry v. New Hampshire",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Robert Alexander Couch",
+          "id": "A5008971214"
+        }
+      ],
+      "venue": "Michigan Law Review",
+      "gold_person_id": "couch_robert_8"
+    },
+    "W2790964879": {
+      "id": "W2790964879",
+      "title": "Environmental health regulation in urban South Africa:a case study of the Environmental Health Practitioners of theCity of Johannesburg Metropolitan Municipality",
+      "year": 2016,
+      "authors": [
+        {
+          "name": "Robert Alexander Couch",
+          "id": "A5008971214"
+        }
+      ],
+      "venue": "Research Open (London South Bank University)",
+      "gold_person_id": "couch_robert_8"
+    },
+    "W98232177": {
+      "id": "W98232177",
+      "title": "The effect of personal narrative on ethos in preaching to postmoderns",
+      "year": 2009,
+      "authors": [
+        {
+          "name": "Robert Gibbs Couch",
+          "id": "A5072159772"
+        }
+      ],
+      "venue": "ePlace - Preserving, Learning, and Creative Exchange (Asbury Theological Seminary)",
+      "gold_person_id": "couch_robert_9"
+    },
+    "W7134364143": {
+      "id": "W7134364143",
+      "title": "Panel Discussion: Session V",
+      "year": 1981,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5128572759"
+        }
+      ],
+      "venue": "PubMed Central",
+      "gold_person_id": "couch_robert_10"
+    },
+    "W7134378073": {
+      "id": "W7134378073",
+      "title": "Chapter Chats March 1944",
+      "year": 1944,
+      "authors": [
+        {
+          "name": "Robert Couch",
+          "id": "A5128572759"
+        }
+      ],
+      "venue": "VTechWorks (Virginia Tech)",
+      "gold_person_id": "couch_robert_10"
+    },
+    "W1639729208": {
+      "id": "W1639729208",
+      "title": "PowerBuilder/4GL Generator Modernization Pilot",
+      "year": 2010,
+      "authors": [
+        {
+          "name": "Robert F. Couch",
+          "id": "A5075896275"
+        }
+      ],
+      "venue": "Elsevier eBooks",
+      "gold_person_id": "couch_robert_11"
+    },
+    "W341698194": {
+      "id": "W341698194",
+      "title": "Designing to System Performance/Cost/Effectiveness.",
+      "year": 1973,
+      "authors": [
+        {
+          "name": "Robert F. Couch",
+          "id": "A5075896275"
+        }
+      ],
+      "venue": "Defense Technical Information Center (DTIC)",
+      "gold_person_id": "couch_robert_11"
+    },
+    "W4248387032": {
+      "id": "W4248387032",
+      "title": "Fiber optic system for measuring mechanical motion or vibration of a body",
+      "year": 1984,
+      "authors": [
+        {
+          "name": "Robert D. Couch",
+          "id": "A5065586110"
+        }
+      ],
+      "venue": "The Journal of the Acoustical Society of America",
+      "gold_person_id": "couch_robert_12"
+    },
+    "W2726757873": {
+      "id": "W2726757873",
+      "title": "Towards Real Time Diagnostics of Hybrid Welding Laser/GMAW",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Robert Danna Couch",
+          "id": "A5052050208"
+        }
+      ],
+      "venue": "University of North Texas Digital Library (University of North Texas)",
+      "gold_person_id": "couch_robert_13"
+    },
+    "W3184327534": {
+      "id": "W3184327534",
+      "title": "Forest health through land management planning.",
+      "year": 1998,
+      "authors": [
+        {
+          "name": "Robert Edward Couch",
+          "id": "A5056883913"
+        }
+      ],
+      "venue": "Proceedings of the ... Society of American Foresters National Convention.",
+      "gold_person_id": "couch_robert_14"
+    },
+    "W633288694": {
+      "id": "W633288694",
+      "title": "Opinions of decision-makers toward the development of an urban river park complex",
+      "year": 1971,
+      "authors": [
+        {
+          "name": "Robert Edward Couch",
+          "id": "A5056883913"
+        }
+      ],
+      "venue": "OakTrust (Texas A&M University Libraries)",
+      "gold_person_id": "couch_robert_14"
+    },
+    "W2221275532": {
+      "id": "W2221275532",
+      "title": "The Burrell collection: research in museum and exhibition space planning.",
+      "year": 1972,
+      "authors": [
+        {
+          "name": "Robert Joseph Couch",
+          "id": "A5052430606"
+        }
+      ],
+      "venue": "DSpace@MIT (Massachusetts Institute of Technology)",
+      "gold_person_id": "couch_robert_15"
+    }
+  }
+}
