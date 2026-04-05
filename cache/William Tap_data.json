@@ -1,0 +1,630 @@
+{
+  "author_name": {
+    "name": "William Tap",
+    "clusters_count": 12
+  },
+  "author_data": {
+    "tap_william_0": {
+      "id": "tap_william_0",
+      "ids": [
+        "A5031037291"
+      ],
+      "name": "William D. Tap",
+      "name_first": "William",
+      "name_middle": "D.",
+      "name_last": "Tap",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 2,
+      "works": [
+        "W2909679049",
+        "W2783070348"
+      ]
+    },
+    "tap_william_1": {
+      "id": "tap_william_1",
+      "ids": [
+        "A5006076437"
+      ],
+      "name": "William Tap",
+      "name_first": "William",
+      "name_middle": "",
+      "name_last": "Tap",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 5,
+      "works": [
+        "W2972554265",
+        "W3046180737",
+        "W4293318824",
+        "W3187625650",
+        "W3123165131"
+      ]
+    },
+    "tap_william_2": {
+      "id": "tap_william_2",
+      "ids": [
+        "A5041268411"
+      ],
+      "name": "William Tap",
+      "name_first": "William",
+      "name_middle": "",
+      "name_last": "Tap",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 18,
+      "works": [
+        "W4402260278",
+        "W4406765953",
+        "W4408958288",
+        "W4205989278",
+        "W4230565391",
+        "W4230657405",
+        "W4234202402",
+        "W4240758085",
+        "W4242664524",
+        "W4243748911",
+        "W4250022809",
+        "W4250187673",
+        "W4251107480",
+        "W4282978996",
+        "W4296131321",
+        "W4408796938",
+        "W4412043125",
+        "W4416088129"
+      ]
+    },
+    "tap_william_3": {
+      "id": "tap_william_3",
+      "ids": [
+        "A5085463853"
+      ],
+      "name": "William D. Tap",
+      "name_first": "William",
+      "name_middle": "D.",
+      "name_last": "Tap",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 0,
+      "works": []
+    },
+    "tap_william_4": {
+      "id": "tap_william_4",
+      "ids": [
+        "A5124726078"
+      ],
+      "name": "William Tap",
+      "name_first": "William",
+      "name_middle": "",
+      "name_last": "Tap",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 1,
+      "works": [
+        "W7127049777"
+      ]
+    },
+    "tap_william_5": {
+      "id": "tap_william_5",
+      "ids": [
+        "A5130269859"
+      ],
+      "name": "William Tap",
+      "name_first": "William",
+      "name_middle": "",
+      "name_last": "Tap",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 1,
+      "works": [
+        "W7139976180"
+      ]
+    },
+    "tap_william_6": {
+      "id": "tap_william_6",
+      "ids": [
+        "A5126415785"
+      ],
+      "name": "William D. Tap",
+      "name_first": "William",
+      "name_middle": "D.",
+      "name_last": "Tap",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 0,
+      "works": []
+    },
+    "tap_william_7": {
+      "id": "tap_william_7",
+      "ids": [
+        "A5126875934"
+      ],
+      "name": "William D. Tap",
+      "name_first": "William",
+      "name_middle": "D.",
+      "name_last": "Tap",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 1,
+      "works": [
+        "W7131640394"
+      ]
+    },
+    "tap_william_8": {
+      "id": "tap_william_8",
+      "ids": [
+        "A5126973515"
+      ],
+      "name": "William D. Tap",
+      "name_first": "William",
+      "name_middle": "D.",
+      "name_last": "Tap",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 0,
+      "works": []
+    },
+    "tap_william_9": {
+      "id": "tap_william_9",
+      "ids": [
+        "A5126138226"
+      ],
+      "name": "William D. Tap",
+      "name_first": "William",
+      "name_middle": "D.",
+      "name_last": "Tap",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 0,
+      "works": []
+    },
+    "tap_william_10": {
+      "id": "tap_william_10",
+      "ids": [
+        "A5128844128"
+      ],
+      "name": "William D. Tap",
+      "name_first": "William",
+      "name_middle": "D.",
+      "name_last": "Tap",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 1,
+      "works": [
+        "W7135042812"
+      ]
+    },
+    "tap_william_11": {
+      "id": "tap_william_11",
+      "ids": [
+        "A5128731937"
+      ],
+      "name": "William D. Tap",
+      "name_first": "William",
+      "name_middle": "D.",
+      "name_last": "Tap",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 1,
+      "works": [
+        "W7134910533"
+      ]
+    }
+  },
+  "works_data": {
+    "W2909679049": {
+      "id": "W2909679049",
+      "title": "Tumor mutational load predicts survival after immunotherapy across multiple cancer types",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "William D. Tap",
+          "id": "A5031037291"
+        }
+      ],
+      "venue": "Nature Genetics",
+      "gold_person_id": "tap_william_0"
+    },
+    "W2783070348": {
+      "id": "W2783070348",
+      "title": "Nivolumab with or without ipilimumab treatment for metastatic sarcoma (Alliance A091401): two open-label, non-comparative, randomised, phase 2 trials",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "William D. Tap",
+          "id": "A5031037291"
+        }
+      ],
+      "venue": "The Lancet Oncology",
+      "gold_person_id": "tap_william_0"
+    },
+    "W2972554265": {
+      "id": "W2972554265",
+      "title": "Using Humour for Generating and Maintaining Interest in Mathematics among Secondary School Students in South Sudan Re-settled Communities",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "William Tap",
+          "id": "A5006076437"
+        }
+      ],
+      "venue": "African Journal of Research in Mathematics Science and Technology Education",
+      "gold_person_id": "tap_william_1"
+    },
+    "W3046180737": {
+      "id": "W3046180737",
+      "title": "Humour-Supported Instructional Approach: A Method for Generating and Maintaining Interest in Mathematics for Secondary School Students in South Sudan Re-settled Communities",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "William Tap",
+          "id": "A5006076437"
+        }
+      ],
+      "venue": "Journal of Education and Training Studies",
+      "gold_person_id": "tap_william_1"
+    },
+    "W4293318824": {
+      "id": "W4293318824",
+      "title": "Views of South Sudanese Secondary School Teachers about the Use of Humour in the Mathematics Classroom",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "William Tap",
+          "id": "A5006076437"
+        }
+      ],
+      "venue": "IntechOpen eBooks",
+      "gold_person_id": "tap_william_1"
+    },
+    "W3187625650": {
+      "id": "W3187625650",
+      "title": "Teaching and Learning Mathematics for Understanding, Enjoyment and Everyday Life Experiences",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "William Tap",
+          "id": "A5006076437"
+        }
+      ],
+      "venue": "IntechOpen eBooks",
+      "gold_person_id": "tap_william_1"
+    },
+    "W3123165131": {
+      "id": "W3123165131",
+      "title": "Types of Humour Categories Used to Generate and Maintain Interest in Mathematics Among Secondary School Students in South Sudan\u2019s Displaced and Re-settled Communities",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "William Tap",
+          "id": "A5006076437"
+        }
+      ],
+      "venue": "Journal of Education and Training Studies",
+      "gold_person_id": "tap_william_1"
+    },
+    "W4402260278": {
+      "id": "W4402260278",
+      "title": "A multimodal neural network with gradient blending improves predictions of survival and metastasis in sarcoma",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "William Tap",
+          "id": "A5041268411"
+        }
+      ],
+      "venue": "npj Precision Oncology",
+      "gold_person_id": "tap_william_2"
+    },
+    "W4406765953": {
+      "id": "W4406765953",
+      "title": "Alternative driver pathways in peripheral nerve sheath tumors \u2013 including <scp>DICER1</scp> and/or <scp>KRAS</scp> alterations",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "William Tap",
+          "id": "A5041268411"
+        }
+      ],
+      "venue": "The Journal of Pathology",
+      "gold_person_id": "tap_william_2"
+    },
+    "W4408958288": {
+      "id": "W4408958288",
+      "title": "Methylation Analysis Reveals Epigenetic Congruence Between Bone Sarcomas With H3-3A Mutations and Malignant Giant Cell Tumors of Bone",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "William Tap",
+          "id": "A5041268411"
+        }
+      ],
+      "venue": "Modern Pathology",
+      "gold_person_id": "tap_william_2"
+    },
+    "W4205989278": {
+      "id": "W4205989278",
+      "title": "Faculty Opinions recommendation of Impact of EWS-ETS fusion type on disease progression in Ewing's sarcoma/peripheral primitive neuroectodermal tumor: prospective results from the cooperative Euro-E.W.I.N.G. 99 trial.",
+      "year": 2010,
+      "authors": [
+        {
+          "name": "William Tap",
+          "id": "A5041268411"
+        }
+      ],
+      "venue": "Faculty Opinions \u2013 Post-Publication Peer Review of the Biomedical Literature",
+      "gold_person_id": "tap_william_2"
+    },
+    "W4230565391": {
+      "id": "W4230565391",
+      "title": "Faculty Opinions recommendation of A developmental model of sarcomagenesis defines a differentiation-based classification for liposarcomas.",
+      "year": 2008,
+      "authors": [
+        {
+          "name": "William Tap",
+          "id": "A5041268411"
+        }
+      ],
+      "venue": "Faculty Opinions \u2013 Post-Publication Peer Review of the Biomedical Literature",
+      "gold_person_id": "tap_william_2"
+    },
+    "W4230657405": {
+      "id": "W4230657405",
+      "title": "Faculty Opinions recommendation of Addition of pamidronate to chemotherapy for the treatment of osteosarcoma.",
+      "year": 2010,
+      "authors": [
+        {
+          "name": "William Tap",
+          "id": "A5041268411"
+        }
+      ],
+      "venue": "Faculty Opinions \u2013 Post-Publication Peer Review of the Biomedical Literature",
+      "gold_person_id": "tap_william_2"
+    },
+    "W4234202402": {
+      "id": "W4234202402",
+      "title": "Faculty Opinions recommendation of Prognostic factors influencing progression-free survival determined from a series of sporadic desmoid tumors: a wait-and-see policy according to tumor presentation.",
+      "year": 2011,
+      "authors": [
+        {
+          "name": "William Tap",
+          "id": "A5041268411"
+        }
+      ],
+      "venue": "Faculty Opinions \u2013 Post-Publication Peer Review of the Biomedical Literature",
+      "gold_person_id": "tap_william_2"
+    },
+    "W4240758085": {
+      "id": "W4240758085",
+      "title": "Faculty Opinions recommendation of Spontaneous expression of embryonic factors and p53 point mutations in aged mesenchymal stem cells: a model of age-related tumorigenesis in mice.",
+      "year": 2008,
+      "authors": [
+        {
+          "name": "William Tap",
+          "id": "A5041268411"
+        }
+      ],
+      "venue": "Faculty Opinions \u2013 Post-Publication Peer Review of the Biomedical Literature",
+      "gold_person_id": "tap_william_2"
+    },
+    "W4242664524": {
+      "id": "W4242664524",
+      "title": "Faculty Opinions recommendation of Short, full-dose adjuvant chemotherapy in high-risk adult soft tissue sarcomas: a randomized clinical trial from the Italian Sarcoma Group and the Spanish Sarcoma Group.",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "William Tap",
+          "id": "A5041268411"
+        }
+      ],
+      "venue": "Faculty Opinions \u2013 Post-Publication Peer Review of the Biomedical Literature",
+      "gold_person_id": "tap_william_2"
+    },
+    "W4243748911": {
+      "id": "W4243748911",
+      "title": "Faculty Opinions recommendation of Sorafenib for patients with advanced angiosarcoma: a phase II Trial from the French Sarcoma Group (GSF/GETO).",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "William Tap",
+          "id": "A5041268411"
+        }
+      ],
+      "venue": "Faculty Opinions \u2013 Post-Publication Peer Review of the Biomedical Literature",
+      "gold_person_id": "tap_william_2"
+    },
+    "W4250022809": {
+      "id": "W4250022809",
+      "title": "Faculty Opinions recommendation of Microsatellites as EWS/FLI response elements in Ewing's sarcoma.",
+      "year": 2008,
+      "authors": [
+        {
+          "name": "William Tap",
+          "id": "A5041268411"
+        }
+      ],
+      "venue": "Faculty Opinions \u2013 Post-Publication Peer Review of the Biomedical Literature",
+      "gold_person_id": "tap_william_2"
+    },
+    "W4250187673": {
+      "id": "W4250187673",
+      "title": "Faculty Opinions recommendation of Apixaban versus warfarin in patients with atrial fibrillation.",
+      "year": 2011,
+      "authors": [
+        {
+          "name": "William Tap",
+          "id": "A5041268411"
+        }
+      ],
+      "venue": "Faculty Opinions \u2013 Post-Publication Peer Review of the Biomedical Literature",
+      "gold_person_id": "tap_william_2"
+    },
+    "W4251107480": {
+      "id": "W4251107480",
+      "title": "Faculty Opinions recommendation of Dose-intensified compared with standard chemotherapy for nonmetastatic Ewing sarcoma family of tumors: a Children's Oncology Group Study.",
+      "year": 2009,
+      "authors": [
+        {
+          "name": "William Tap",
+          "id": "A5041268411"
+        }
+      ],
+      "venue": "Faculty Opinions \u2013 Post-Publication Peer Review of the Biomedical Literature",
+      "gold_person_id": "tap_william_2"
+    },
+    "W4282978996": {
+      "id": "W4282978996",
+      "title": "Abstract 3407: Circulating tumor DNA is associated with response and survival in patients with advanced leiomyosarcoma",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "William Tap",
+          "id": "A5041268411"
+        }
+      ],
+      "venue": "Cancer Research",
+      "gold_person_id": "tap_william_2"
+    },
+    "W4296131321": {
+      "id": "W4296131321",
+      "title": "Abstract PR012: Targeted sequencing of 2,138 bone and soft tissue sarcomas reveals commonly altered pathways, subtype-independent genetic clusters, and potential therapeutic targets",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "William Tap",
+          "id": "A5041268411"
+        }
+      ],
+      "venue": "Clinical Cancer Research",
+      "gold_person_id": "tap_william_2"
+    },
+    "W4408796938": {
+      "id": "W4408796938",
+      "title": "99 Does Longitudinal NGS Testing Provide Clinically Relevant Information in Translocation-Associated Sarcomas (TAS)?",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "William Tap",
+          "id": "A5041268411"
+        }
+      ],
+      "venue": "Laboratory Investigation",
+      "gold_person_id": "tap_william_2"
+    },
+    "W4412043125": {
+      "id": "W4412043125",
+      "title": "Real-world experience of patients newly initiated on pexidartinib for tenosynovial giant cell tumor",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "William Tap",
+          "id": "A5041268411"
+        }
+      ],
+      "venue": "Future Oncology",
+      "gold_person_id": "tap_william_2"
+    },
+    "W4416088129": {
+      "id": "W4416088129",
+      "title": "523\u2005Median OS of 21.5 months among 44 patients with treatment-refractory leiomyosarcoma, liposarcoma, and undifferentiated pleomorphic sarcoma treated with mecbotamab vedotin, an AXL-targeting ADC",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "William Tap",
+          "id": "A5041268411"
+        }
+      ],
+      "venue": "Regular and Young Investigator Award Abstracts",
+      "gold_person_id": "tap_william_2"
+    },
+    "W7127049777": {
+      "id": "W7127049777",
+      "title": "Mixed-Methods to Define Meaningful Change using Exit Interviewand Clinical Trial Data in Patients with Tenosynovial Giant Cell Tumor (TGCT)",
+      "year": 2026,
+      "authors": [
+        {
+          "name": "William Tap",
+          "id": "A5124726078"
+        }
+      ],
+      "venue": "Quality of Life Research",
+      "gold_person_id": "tap_william_4"
+    },
+    "W7139976180": {
+      "id": "W7139976180",
+      "title": "Novel genomic risk stratification model for primary high\u2010grade malignant peripheral nerve sheath tumor ( <scp>MPNST</scp> )",
+      "year": 2026,
+      "authors": [
+        {
+          "name": "William Tap",
+          "id": "A5130269859"
+        }
+      ],
+      "venue": "The Journal of Pathology",
+      "gold_person_id": "tap_william_5"
+    },
+    "W7131640394": {
+      "id": "W7131640394",
+      "title": "Systemic Therapy Outcomes for Soft Tissue Leiomyosarcoma Patients in an Era of Next-Generation Sequencing",
+      "year": 2026,
+      "authors": [
+        {
+          "name": "William D. Tap",
+          "id": "A5126875934"
+        }
+      ],
+      "venue": "JCO oncology advances.",
+      "gold_person_id": "tap_william_7"
+    },
+    "W7135042812": {
+      "id": "W7135042812",
+      "title": "Trastuzumab Deruxtecan Is Active in Desmoplastic Small Round Cell Tumor",
+      "year": 2026,
+      "authors": [
+        {
+          "name": "William D. Tap",
+          "id": "A5128844128"
+        }
+      ],
+      "venue": "JCO oncology advances.",
+      "gold_person_id": "tap_william_10"
+    },
+    "W7134910533": {
+      "id": "W7134910533",
+      "title": "Integrative medicine for pain among adolescent and young adult patients with cancer: a scoping review",
+      "year": 2026,
+      "authors": [
+        {
+          "name": "William D. Tap",
+          "id": "A5128731937"
+        }
+      ],
+      "venue": "Journal of Cancer Survivorship",
+      "gold_person_id": "tap_william_11"
+    }
+  }
+}

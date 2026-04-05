@@ -1,0 +1,940 @@
+{
+  "author_name": {
+    "name": "Claude Piantadosi",
+    "clusters_count": 2
+  },
+  "author_data": {
+    "piantadosi_claude_0": {
+      "id": "piantadosi_claude_0",
+      "ids": [
+        "A5070009351"
+      ],
+      "name": "Claude A. Piantadosi",
+      "name_first": "Claude",
+      "name_middle": "A.",
+      "name_last": "Piantadosi",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 63,
+      "works": [
+        "W2033240573",
+        "W2163908038",
+        "W1986079719",
+        "W2133037534",
+        "W2144437860",
+        "W2149565840",
+        "W1981596580",
+        "W2110002099",
+        "W2094344644",
+        "W2087826558",
+        "W1996285993",
+        "W2079878053",
+        "W2033729587",
+        "W2179988472",
+        "W1973749301",
+        "W2096754987",
+        "W2045821670",
+        "W2063737330",
+        "W1988669998",
+        "W2027030447",
+        "W1993321422",
+        "W2056409142",
+        "W2086283039",
+        "W2005184671",
+        "W1991756041",
+        "W2072207999",
+        "W2030591331",
+        "W2083812577",
+        "W2033703576",
+        "W2281291981",
+        "W2034388777",
+        "W2089884218",
+        "W2101402053",
+        "W2902394521",
+        "W2466572745",
+        "W2048935707",
+        "W2136443108",
+        "W2142063052",
+        "W2153212778",
+        "W2218893898",
+        "W2339056816",
+        "W3004219914",
+        "W2903848341",
+        "W3000086972",
+        "W2091074318",
+        "W2115190434",
+        "W2091361797",
+        "W2035011207",
+        "W1545027264",
+        "W2011644510",
+        "W2002308161",
+        "W2038535939",
+        "W2020062408",
+        "W2042461528",
+        "W1979562037",
+        "W1847383572",
+        "W1854917621",
+        "W1999119570",
+        "W2121759862",
+        "W2076616832",
+        "W1972502437",
+        "W2047387802",
+        "W3144700818"
+      ]
+    },
+    "piantadosi_claude_1": {
+      "id": "piantadosi_claude_1",
+      "ids": [
+        "A5099192506"
+      ],
+      "name": "Claude A. Piantadosi",
+      "name_first": "Claude",
+      "name_middle": "A.",
+      "name_last": "Piantadosi",
+      "field": "",
+      "email": null,
+      "linkedin": null,
+      "socials": [],
+      "works_count": 1,
+      "works": [
+        "W4214855251"
+      ]
+    }
+  },
+  "works_data": {
+    "W2033240573": {
+      "id": "W2033240573",
+      "title": "Blood Flow Regulation by <i>S</i> -Nitrosohemoglobin in the Physiological Oxygen Gradient",
+      "year": 1997,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Science",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2163908038": {
+      "id": "W2163908038",
+      "title": "Heme Oxygenase-1 Regulates Cardiac Mitochondrial Biogenesis via Nrf2-Mediated Transcriptional Control of Nuclear Respiratory Factor-1",
+      "year": 2008,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Circulation Research",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W1986079719": {
+      "id": "W1986079719",
+      "title": "Nitric oxide in the human respiratory cycle",
+      "year": 2002,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Nature Medicine",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2133037534": {
+      "id": "W2133037534",
+      "title": "Survival in Critical Illness Is Associated with Early Activation of Mitochondrial Biogenesis",
+      "year": 2010,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "American Journal of Respiratory and Critical Care Medicine",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2144437860": {
+      "id": "W2144437860",
+      "title": "Mitochondrial Generation of Reactive Oxygen Species After Brain Ischemia in the Rat",
+      "year": 1996,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Stroke",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2149565840": {
+      "id": "W2149565840",
+      "title": "Practice Recommendations in the Diagnosis, Management, and Prevention of Carbon Monoxide Poisoning",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "American Journal of Respiratory and Critical Care Medicine",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W1981596580": {
+      "id": "W1981596580",
+      "title": "Mitochondrial oxidative stress after carbon monoxide hypoxia in the rat brain.",
+      "year": 1992,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Journal of Clinical Investigation",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2110002099": {
+      "id": "W2110002099",
+      "title": "The Acute Respiratory Distress Syndrome",
+      "year": 2004,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Annals of Internal Medicine",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2094344644": {
+      "id": "W2094344644",
+      "title": "Near\u2010infrared spectroscopy for monitoring muscle oxygenation",
+      "year": 2000,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Acta Physiologica Scandinavica",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2087826558": {
+      "id": "W2087826558",
+      "title": "Carbon monoxide, reactive oxygen signaling, and oxidative stress",
+      "year": 2008,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Free Radical Biology and Medicine",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W1996285993": {
+      "id": "W1996285993",
+      "title": "Hedgehog Controls Hepatic Stellate Cell Fate by Regulating Metabolism",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Gastroenterology",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2079878053": {
+      "id": "W2079878053",
+      "title": "Extracellular superoxide dismutase",
+      "year": 2005,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "The International Journal of Biochemistry & Cell Biology",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2033729587": {
+      "id": "W2033729587",
+      "title": "Lipopolysaccharide induces oxidative cardiac mitochondrial damage and biogenesis",
+      "year": 2004,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Cardiovascular Research",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2179988472": {
+      "id": "W2179988472",
+      "title": "Mitochondrial Quality Control as a Therapeutic Target",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Pharmacological Reviews",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W1973749301": {
+      "id": "W1973749301",
+      "title": "The CO/HO system reverses inhibition of mitochondrial biogenesis and prevents murine doxorubicin cardiomyopathy",
+      "year": 2007,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Journal of Clinical Investigation",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2096754987": {
+      "id": "W2096754987",
+      "title": "Mitochondrial Transcription Factor A Induction by Redox Activation of Nuclear Respiratory Factor 1",
+      "year": 2005,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Journal of Biological Chemistry",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2045821670": {
+      "id": "W2045821670",
+      "title": "Heme Oxygenase-1 Couples Activation of Mitochondrial Biogenesis to Anti-inflammatory Cytokine Expression",
+      "year": 2011,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Journal of Biological Chemistry",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2063737330": {
+      "id": "W2063737330",
+      "title": "Apoptosis and Delayed Neuronal Damage after Carbon Monoxide Poisoning in the Rat",
+      "year": 1997,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Experimental Neurology",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W1988669998": {
+      "id": "W1988669998",
+      "title": "A new activating role for CO in cardiac mitochondrial biogenesis",
+      "year": 2006,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Journal of Cell Science",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2027030447": {
+      "id": "W2027030447",
+      "title": "Transient Hypoxia Stimulates Mitochondrial Biogenesis in Brain Subcortex by a Neuronal Nitric Oxide Synthase-Dependent Mechanism",
+      "year": 2008,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Journal of Neuroscience",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W1993321422": {
+      "id": "W1993321422",
+      "title": "Mitochondria in lung biology and pathology: more than just a powerhouse",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "American Journal of Physiology-Lung Cellular and Molecular Physiology",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2056409142": {
+      "id": "W2056409142",
+      "title": "Biological Chemistry of Carbon Monoxide",
+      "year": 2002,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Antioxidants and Redox Signaling",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2086283039": {
+      "id": "W2086283039",
+      "title": "Lipopolysaccharide Stimulates Mitochondrial Biogenesis via Activation of Nuclear Respiratory Factor-1",
+      "year": 2003,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Journal of Biological Chemistry",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2005184671": {
+      "id": "W2005184671",
+      "title": "Regulation of Mitochondrial Biogenesis and Its Intersection with Inflammatory Responses",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Antioxidants and Redox Signaling",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W1991756041": {
+      "id": "W1991756041",
+      "title": "What Is the Role of Hyperbaric Oxygen in the Management of Bisphosphonate-Related Osteonecrosis of the Jaw: A Randomized Controlled Trial of Hyperbaric Oxygen as an Adjunct to Surgery and Antibiotics",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Journal of Oral and Maxillofacial Surgery",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2072207999": {
+      "id": "W2072207999",
+      "title": "Activation of Mitochondrial Biogenesis by Heme Oxygenase-1\u2013mediated NF-E2\u2013related Factor-2 Induction Rescues Mice from Lethal <i>Staphylococcus</i> \u00a0 <i>aureus</i> Sepsis",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "American Journal of Respiratory and Critical Care Medicine",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2030591331": {
+      "id": "W2030591331",
+      "title": "Redox regulation of mitochondrial biogenesis",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Free Radical Biology and Medicine",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2083812577": {
+      "id": "W2083812577",
+      "title": "Mitochondrial Biogenesis Restores Oxidative Metabolism during <i>Staphylococcus aureus</i> Sepsis",
+      "year": 2007,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "American Journal of Respiratory and Critical Care Medicine",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2033703576": {
+      "id": "W2033703576",
+      "title": "Hemoglobin, nitric oxide and molecular mechanisms of hypoxic vasodilation",
+      "year": 2009,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Trends in Molecular Medicine",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2281291981": {
+      "id": "W2281291981",
+      "title": "Heme oxygenase-1 regulates mitochondrial quality control in the heart",
+      "year": 2016,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "JCI Insight",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2034388777": {
+      "id": "W2034388777",
+      "title": "Nrf2 promotes alveolar mitochondrial biogenesis and resolution of lung injury in Staphylococcus aureus pneumonia in mice",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Free Radical Biology and Medicine",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2089884218": {
+      "id": "W2089884218",
+      "title": "Regulation of mitochondrial processes by protein S-nitrosylation",
+      "year": 2011,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Biochimica et Biophysica Acta (BBA) - General Subjects",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2101402053": {
+      "id": "W2101402053",
+      "title": "Two faces of nitric oxide: implications for cellular mechanisms of oxygen toxicity",
+      "year": 2008,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Journal of Applied Physiology",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2902394521": {
+      "id": "W2902394521",
+      "title": "A phase I trial of low-dose inhaled carbon monoxide in sepsis-induced ARDS",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "JCI Insight",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2466572745": {
+      "id": "W2466572745",
+      "title": "Mitochondrial Dysfunction in Lung Pathogenesis",
+      "year": 2016,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Annual Review of Physiology",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2048935707": {
+      "id": "W2048935707",
+      "title": "Redox regulation of mitophagy in the lung during murine Staphylococcus aureus sepsis",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Free Radical Biology and Medicine",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2136443108": {
+      "id": "W2136443108",
+      "title": "Clinical review: Oxygen as a signaling molecule",
+      "year": 2010,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Critical Care",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2142063052": {
+      "id": "W2142063052",
+      "title": "Co-regulation of nuclear respiratory factor-1 by NF\u03baB and CREB links LPS-induced inflammation to mitochondrial biogenesis",
+      "year": 2010,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Journal of Cell Science",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2153212778": {
+      "id": "W2153212778",
+      "title": "Carbon monoxide, skeletal muscle oxidative stress, and mitochondrial biogenesis in humans",
+      "year": 2009,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "American Journal of Physiology-Heart and Circulatory Physiology",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2218893898": {
+      "id": "W2218893898",
+      "title": "Redox mechanisms of cardiomyocyte mitochondrial protection",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Frontiers in Physiology",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2339056816": {
+      "id": "W2339056816",
+      "title": "Inhaled carbon monoxide and hyperoxic lung injury in rats",
+      "year": 2001,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "American Journal of Physiology-Lung Cellular and Molecular Physiology",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W3004219914": {
+      "id": "W3004219914",
+      "title": "Nonclassical Monocytes Sense Hypoxia, Regulate Pulmonary Vascular Remodeling, and Promote Pulmonary Hypertension",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "The Journal of Immunology",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2903848341": {
+      "id": "W2903848341",
+      "title": "Vascular Endothelial Growth Factor Receptor 3 Regulates Endothelial Function Through \u03b2-Arrestin 1",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Circulation",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W3000086972": {
+      "id": "W3000086972",
+      "title": "Mitochondrial DNA, oxidants, and innate immunity",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Free Radical Biology and Medicine",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2091074318": {
+      "id": "W2091074318",
+      "title": "Deacylation of isomeric diacyl[1-14C]alkoxyglycerols by pancreatic lipase",
+      "year": 1968,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Biochimica et Biophysica Acta (BBA) - Lipids and Lipid Metabolism",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2115190434": {
+      "id": "W2115190434",
+      "title": "Near infrared monitoring of human skeletal muscle oxygenation during forearm ischemia",
+      "year": 1988,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Journal of Applied Physiology",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2091361797": {
+      "id": "W2091361797",
+      "title": "Brain Temperature Alters Hydroxyl Radical Production during Cerebral Ischemia/Reperfusion in Rats",
+      "year": 1996,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Journal of Cerebral Blood Flow & Metabolism",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2035011207": {
+      "id": "W2035011207",
+      "title": "Extracellular superoxide dismutase, nitric oxide, and central nervous system O2 toxicity.",
+      "year": 1992,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Proceedings of the National Academy of Sciences",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W1545027264": {
+      "id": "W1545027264",
+      "title": "Cytotoxicity of sesquiterpene lactones.",
+      "year": 1971,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "PubMed",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2011644510": {
+      "id": "W2011644510",
+      "title": "Coagulation Blockade Prevents Sepsis-induced Respiratory and Renal Failure in Baboons",
+      "year": 2001,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "American Journal of Respiratory and Critical Care Medicine",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2002308161": {
+      "id": "W2002308161",
+      "title": "Hyperbaric Oxygen Treatment and Bisphosphonate-Induced Osteonecrosis of the Jaw: A Case Series",
+      "year": 2007,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Journal of Oral and Maxillofacial Surgery",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2038535939": {
+      "id": "W2038535939",
+      "title": "Oxidative Metabolism in Rat Hepatocytes and Mitochondria during Sepsis",
+      "year": 1997,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Archives of Biochemistry and Biophysics",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2020062408": {
+      "id": "W2020062408",
+      "title": "Postlipopolysaccharide Oxidative Damage of Mitochondrial DNA",
+      "year": 2003,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "American Journal of Respiratory and Critical Care Medicine",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2042461528": {
+      "id": "W2042461528",
+      "title": "Recovery of energy metabolism in rat brain after carbon monoxide hypoxia.",
+      "year": 1992,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Journal of Clinical Investigation",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W1979562037": {
+      "id": "W1979562037",
+      "title": "Reactive Oxygen Species Produced by Liver Mitochondria of Rats in Sepsis",
+      "year": 1995,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Archives of Biochemistry and Biophysics",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W1847383572": {
+      "id": "W1847383572",
+      "title": "In vivo binding of carbon monoxide to cytochrome c oxidase in rat brain",
+      "year": 1990,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Journal of Applied Physiology",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W1854917621": {
+      "id": "W1854917621",
+      "title": "Blockade of Tissue Factor: Treatment for Organ Injury in Established Sepsis",
+      "year": 2003,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "American Journal of Respiratory and Critical Care Medicine",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W1999119570": {
+      "id": "W1999119570",
+      "title": "Regulation of the Brain\u2019s Vascular Responses to Oxygen",
+      "year": 2002,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Circulation Research",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2121759862": {
+      "id": "W2121759862",
+      "title": "A nitric oxide processing defect of red blood cells created by hypoxia: Deficiency of S-nitrosohemoglobin in pulmonary hypertension",
+      "year": 2005,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Proceedings of the National Academy of Sciences",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2076616832": {
+      "id": "W2076616832",
+      "title": "Prognosis of patients with cirrhosis and chronic liver disease admitted to the medical intensive care unit",
+      "year": 1988,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Critical Care Medicine",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W1972502437": {
+      "id": "W1972502437",
+      "title": "Isolation of Mycobacteria in Patients with Pulmonary Alveolar Proteinosis",
+      "year": 1994,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "Medicine",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W2047387802": {
+      "id": "W2047387802",
+      "title": "Extrinsic Coagulation Blockade Attenuates Lung Injury and Proinflammatory Cytokine Release after Intratracheal Lipopolysaccharide",
+      "year": 2002,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "American Journal of Respiratory Cell and Molecular Biology",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W3144700818": {
+      "id": "W3144700818",
+      "title": "Carbon Monoxide Poisoning",
+      "year": 2002,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5070009351"
+        }
+      ],
+      "venue": "New England Journal of Medicine",
+      "gold_person_id": "piantadosi_claude_0"
+    },
+    "W4214855251": {
+      "id": "W4214855251",
+      "title": "Frontmatter",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Claude A. Piantadosi",
+          "id": "A5099192506"
+        }
+      ],
+      "venue": "Columbia University Press eBooks",
+      "gold_person_id": "piantadosi_claude_1"
+    }
+  }
+}
